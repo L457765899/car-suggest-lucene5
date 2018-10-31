@@ -1,0 +1,9247 @@
+[{
+	"modeType": 2,
+	"series": "AC M3",
+	"factoryName": "AC Schnitzer(中规)",
+	"id": 6192,
+	"brand": "AC Schnitzer"
+}, {
+	"modeType": 2,
+	"series": "AC X5",
+	"factoryName": "AC Schnitzer(中规)",
+	"id": 6194,
+	"brand": "AC Schnitzer"
+}, {
+	"modeType": 2,
+	"series": "ALPINA B4",
+	"factoryName": "ALPINA",
+	"id": 6190,
+	"brand": "ALPINA"
+}, {
+	"modeType": 1,
+	"series": "DS 4S",
+	"factoryName": "长安标致雪铁龙",
+	"id": 446,
+	"brand": "DS"
+}, {
+	"modeType": 1,
+	"series": "DS 5",
+	"factoryName": "长安标致雪铁龙",
+	"id": 443,
+	"brand": "DS"
+}, {
+	"modeType": 1,
+	"series": "DS 5LS",
+	"factoryName": "长安标致雪铁龙",
+	"id": 445,
+	"brand": "DS"
+}, {
+	"modeType": 1,
+	"series": "DS 6",
+	"factoryName": "长安标致雪铁龙",
+	"id": 444,
+	"brand": "DS"
+}, {
+	"modeType": 1,
+	"series": "DS 7",
+	"factoryName": "长安标致雪铁龙",
+	"id": 7506,
+	"brand": "DS"
+}, {
+	"modeType": 2,
+	"series": "DS 3",
+	"factoryName": "雪铁龙(进口)",
+	"id": 6402,
+	"brand": "DS"
+}, {
+	"modeType": 2,
+	"series": "DS 4",
+	"factoryName": "雪铁龙(进口)",
+	"id": 6404,
+	"brand": "DS"
+}, {
+	"modeType": 2,
+	"series": "GMC(Savana)",
+	"factoryName": "GMC",
+	"id": 6458,
+	"brand": "GMC"
+}, {
+	"modeType": 1,
+	"series": "SAVANA",
+	"factoryName": "GMC",
+	"id": 7532,
+	"brand": "GMC"
+}, {
+	"modeType": 1,
+	"series": "SIERRA",
+	"factoryName": "GMC",
+	"id": 7534,
+	"brand": "GMC"
+}, {
+	"modeType": 2,
+	"series": "SIERRA西拉",
+	"factoryName": "GMC",
+	"id": 6460,
+	"brand": "GMC"
+}, {
+	"modeType": 1,
+	"series": "YUKON",
+	"factoryName": "GMC",
+	"id": 7530,
+	"brand": "GMC"
+}, {
+	"modeType": 2,
+	"series": "YUKON育空",
+	"factoryName": "GMC",
+	"id": 6462,
+	"brand": "GMC"
+}, {
+	"modeType": 4,
+	"series": "GMC(Savana)",
+	"factoryName": "GMC(平行进口)",
+	"id": 6964,
+	"brand": "GMC"
+}, {
+	"modeType": 8,
+	"series": "SIERRA西拉",
+	"factoryName": "GMC(平行进口)",
+	"id": 7206,
+	"brand": "GMC"
+}, {
+	"modeType": 4,
+	"series": "TERRAIN领地",
+	"factoryName": "GMC(平行进口)",
+	"id": 6966,
+	"brand": "GMC"
+}, {
+	"modeType": 4,
+	"series": "YUKON育空",
+	"factoryName": "GMC(平行进口)",
+	"id": 6968,
+	"brand": "GMC"
+}, {
+	"modeType": 4,
+	"series": "大切诺基",
+	"factoryName": "JEEP(平行进口)",
+	"id": 6972,
+	"brand": "Jeep"
+}, {
+	"modeType": 4,
+	"series": "牧马人",
+	"factoryName": "JEEP(平行进口)",
+	"id": 6974,
+	"brand": "Jeep"
+}, {
+	"modeType": 2,
+	"series": "大切诺基(进口)",
+	"factoryName": "JEEP(进口)",
+	"id": 6466,
+	"brand": "Jeep"
+}, {
+	"modeType": 2,
+	"series": "大切诺基SRT",
+	"factoryName": "JEEP(进口)",
+	"id": 6468,
+	"brand": "Jeep"
+}, {
+	"modeType": 2,
+	"series": "指南者(进口)",
+	"factoryName": "JEEP(进口)",
+	"id": 6472,
+	"brand": "Jeep"
+}, {
+	"modeType": 2,
+	"series": "牧马人",
+	"factoryName": "JEEP(进口)",
+	"id": 6470,
+	"brand": "Jeep"
+}, {
+	"modeType": 2,
+	"series": "自由光(进口)",
+	"factoryName": "JEEP(进口)",
+	"id": 6474,
+	"brand": "Jeep"
+}, {
+	"modeType": 2,
+	"series": "自由客",
+	"factoryName": "JEEP(进口)",
+	"id": 6476,
+	"brand": "Jeep"
+}, {
+	"modeType": 1,
+	"series": "指南者",
+	"factoryName": "广汽菲克Jeep",
+	"id": 759,
+	"brand": "Jeep"
+}, {
+	"modeType": 1,
+	"series": "自由侠",
+	"factoryName": "广汽菲克Jeep",
+	"id": 761,
+	"brand": "Jeep"
+}, {
+	"modeType": 1,
+	"series": "自由光",
+	"factoryName": "广汽菲克Jeep",
+	"id": 760,
+	"brand": "Jeep"
+}, {
+	"modeType": 2,
+	"series": "X-BOW",
+	"factoryName": "KTM",
+	"id": 6504,
+	"brand": "KTM"
+}, {
+	"modeType": 2,
+	"series": "RALLY FIGHTER",
+	"factoryName": "LOCAL MOTORS",
+	"id": 6600,
+	"brand": "LOCAL MOTORS"
+}, {
+	"modeType": 2,
+	"series": "MINI",
+	"factoryName": "MINI",
+	"id": 6618,
+	"brand": "MINI"
+}, {
+	"modeType": 2,
+	"series": "MINI CLUBMAN",
+	"factoryName": "MINI",
+	"id": 6620,
+	"brand": "MINI"
+}, {
+	"modeType": 2,
+	"series": "MINI COUNTRYMAN",
+	"factoryName": "MINI",
+	"id": 6622,
+	"brand": "MINI"
+}, {
+	"modeType": 2,
+	"series": "MINI COUPE",
+	"factoryName": "MINI",
+	"id": 6624,
+	"brand": "MINI"
+}, {
+	"modeType": 2,
+	"series": "MINI PACEMAN",
+	"factoryName": "MINI",
+	"id": 6626,
+	"brand": "MINI"
+}, {
+	"modeType": 2,
+	"series": "MINI ROADSTER",
+	"factoryName": "MINI",
+	"id": 6628,
+	"brand": "MINI"
+}, {
+	"modeType": 2,
+	"series": "MINI JCW",
+	"factoryName": "MINI JCW",
+	"id": 6630,
+	"brand": "MINI"
+}, {
+	"modeType": 2,
+	"series": "MINI JCW CLUBMAN",
+	"factoryName": "MINI JCW",
+	"id": 6632,
+	"brand": "MINI"
+}, {
+	"modeType": 2,
+	"series": "MINI JCW COUNTRYMAN",
+	"factoryName": "MINI JCW",
+	"id": 6634,
+	"brand": "MINI"
+}, {
+	"modeType": 2,
+	"series": "MINI JCW PACEMAN",
+	"factoryName": "MINI JCW",
+	"id": 6636,
+	"brand": "MINI"
+}, {
+	"modeType": 6,
+	"series": "MINI Countryman",
+	"factoryName": "MINI(平行进口)",
+	"id": 7112,
+	"brand": "MINI"
+}, {
+	"modeType": 2,
+	"series": "smart forfour",
+	"factoryName": "smart",
+	"id": 6742,
+	"brand": "smart"
+}, {
+	"modeType": 2,
+	"series": "smart fortwo",
+	"factoryName": "smart",
+	"id": 6744,
+	"brand": "smart"
+}, {
+	"modeType": 1,
+	"series": "SWM斯威X3",
+	"factoryName": "SWM斯威汽车",
+	"id": 1268,
+	"brand": "SWM斯威汽车"
+}, {
+	"modeType": 1,
+	"series": "SWM斯威X7",
+	"factoryName": "SWM斯威汽车",
+	"id": 1267,
+	"brand": "SWM斯威汽车"
+}, {
+	"modeType": 1,
+	"series": "WEY VV5",
+	"factoryName": "长城汽车",
+	"id": 1933,
+	"brand": "WEY"
+}, {
+	"modeType": 1,
+	"series": "WEY VV7",
+	"factoryName": "长城汽车",
+	"id": 1305,
+	"brand": "WEY"
+}, {
+	"modeType": 1,
+	"series": "佳宝T50",
+	"factoryName": "一汽吉林",
+	"id": 1883,
+	"brand": "一汽"
+}, {
+	"modeType": 1,
+	"series": "佳宝T51",
+	"factoryName": "一汽吉林",
+	"id": 1885,
+	"brand": "一汽"
+}, {
+	"modeType": 1,
+	"series": "佳宝T57",
+	"factoryName": "一汽吉林",
+	"id": 1887,
+	"brand": "一汽"
+}, {
+	"modeType": 1,
+	"series": "佳宝V52",
+	"factoryName": "一汽吉林",
+	"id": 1881,
+	"brand": "一汽"
+}, {
+	"modeType": 1,
+	"series": "佳宝V75",
+	"factoryName": "一汽吉林",
+	"id": 1444,
+	"brand": "一汽"
+}, {
+	"modeType": 1,
+	"series": "佳宝V77",
+	"factoryName": "一汽吉林",
+	"id": 1441,
+	"brand": "一汽"
+}, {
+	"modeType": 1,
+	"series": "佳宝V80",
+	"factoryName": "一汽吉林",
+	"id": 1442,
+	"brand": "一汽"
+}, {
+	"modeType": 1,
+	"series": "森雅M80",
+	"factoryName": "一汽吉林",
+	"id": 1455,
+	"brand": "一汽"
+}, {
+	"modeType": 1,
+	"series": "森雅R7",
+	"factoryName": "一汽吉林",
+	"id": 1437,
+	"brand": "一汽"
+}, {
+	"modeType": 1,
+	"series": "森雅S80",
+	"factoryName": "一汽吉林",
+	"id": 1454,
+	"brand": "一汽"
+}, {
+	"modeType": 1,
+	"series": "解放T80",
+	"factoryName": "一汽吉林",
+	"id": 1438,
+	"brand": "一汽"
+}, {
+	"modeType": 1,
+	"series": "坤程",
+	"factoryName": "一汽通用",
+	"id": 1447,
+	"brand": "一汽"
+}, {
+	"modeType": 1,
+	"series": "夏利N5",
+	"factoryName": "天津一汽",
+	"id": 1433,
+	"brand": "一汽"
+}, {
+	"modeType": 1,
+	"series": "夏利N7",
+	"factoryName": "天津一汽",
+	"id": 1435,
+	"brand": "一汽"
+}, {
+	"modeType": 1,
+	"series": "威志V5",
+	"factoryName": "天津一汽",
+	"id": 1436,
+	"brand": "一汽"
+}, {
+	"modeType": 1,
+	"series": "骏派A70",
+	"factoryName": "天津一汽",
+	"id": 1434,
+	"brand": "一汽"
+}, {
+	"modeType": 1,
+	"series": "骏派A70E",
+	"factoryName": "天津一汽",
+	"id": 1985,
+	"brand": "一汽"
+}, {
+	"modeType": 1,
+	"series": "骏派D60",
+	"factoryName": "天津一汽",
+	"id": 1432,
+	"brand": "一汽"
+}, {
+	"modeType": 8,
+	"series": "Lancer EVO",
+	"factoryName": "三菱(平行进口)",
+	"id": 7242,
+	"brand": "三菱"
+}, {
+	"modeType": 6,
+	"series": "帕杰罗V87",
+	"factoryName": "三菱(平行进口)",
+	"id": 7122,
+	"brand": "三菱"
+}, {
+	"modeType": 6,
+	"series": "帕杰罗V93",
+	"factoryName": "三菱(平行进口)",
+	"id": 7124,
+	"brand": "三菱"
+}, {
+	"modeType": 6,
+	"series": "帕杰罗V95",
+	"factoryName": "三菱(平行进口)",
+	"id": 7126,
+	"brand": "三菱"
+}, {
+	"modeType": 6,
+	"series": "帕杰罗V97",
+	"factoryName": "三菱(平行进口)",
+	"id": 7128,
+	"brand": "三菱"
+}, {
+	"modeType": 6,
+	"series": "帕杰罗・劲畅",
+	"factoryName": "三菱(平行进口)",
+	"id": 7120,
+	"brand": "三菱"
+}, {
+	"modeType": 2,
+	"series": "帕杰罗(进口)",
+	"factoryName": "三菱(进口)",
+	"id": 6726,
+	"brand": "三菱"
+}, {
+	"modeType": 2,
+	"series": "帕杰罗·劲畅",
+	"factoryName": "三菱(进口)",
+	"id": 6728,
+	"brand": "三菱"
+}, {
+	"modeType": 1,
+	"series": "三菱戈蓝",
+	"factoryName": "东南汽车",
+	"id": 1859,
+	"brand": "三菱"
+}, {
+	"modeType": 1,
+	"series": "翼神",
+	"factoryName": "东南汽车",
+	"id": 1245,
+	"brand": "三菱"
+}, {
+	"modeType": 1,
+	"series": "蓝瑟",
+	"factoryName": "东南汽车",
+	"id": 1254,
+	"brand": "三菱"
+}, {
+	"modeType": 1,
+	"series": "风迪思",
+	"factoryName": "东南汽车",
+	"id": 1257,
+	"brand": "三菱"
+}, {
+	"modeType": 1,
+	"series": "劲炫ASX",
+	"factoryName": "广汽三菱",
+	"id": 1248,
+	"brand": "三菱"
+}, {
+	"modeType": 1,
+	"series": "帕杰罗·劲畅",
+	"factoryName": "广汽三菱",
+	"id": 1249,
+	"brand": "三菱"
+}, {
+	"modeType": 1,
+	"series": "欧蓝德",
+	"factoryName": "广汽三菱",
+	"id": 1247,
+	"brand": "三菱"
+}, {
+	"modeType": 1,
+	"series": "上汽大通D90",
+	"factoryName": "上汽大通",
+	"id": 1863,
+	"brand": "上汽大通"
+}, {
+	"modeType": 1,
+	"series": "上汽大通EG10",
+	"factoryName": "上汽大通",
+	"id": 2003,
+	"brand": "上汽大通"
+}, {
+	"modeType": 1,
+	"series": "上汽大通G10",
+	"factoryName": "上汽大通",
+	"id": 1269,
+	"brand": "上汽大通"
+}, {
+	"modeType": 1,
+	"series": "上汽大通T60",
+	"factoryName": "上汽大通",
+	"id": 1270,
+	"brand": "上汽大通"
+}, {
+	"modeType": 1,
+	"series": "上汽大通V80",
+	"factoryName": "上汽大通",
+	"id": 1271,
+	"brand": "上汽大通"
+}, {
+	"modeType": 1,
+	"series": "伊思坦纳",
+	"factoryName": "上汽大通",
+	"id": 1274,
+	"brand": "上汽大通"
+}, {
+	"modeType": 1,
+	"series": "V3菱悦",
+	"factoryName": "东南汽车",
+	"id": 420,
+	"brand": "东南"
+}, {
+	"modeType": 1,
+	"series": "V5菱致",
+	"factoryName": "东南汽车",
+	"id": 419,
+	"brand": "东南"
+}, {
+	"modeType": 1,
+	"series": "V6菱仕",
+	"factoryName": "东南汽车",
+	"id": 421,
+	"brand": "东南"
+}, {
+	"modeType": 1,
+	"series": "东南DX3",
+	"factoryName": "东南汽车",
+	"id": 417,
+	"brand": "东南"
+}, {
+	"modeType": 1,
+	"series": "东南DX3新能源",
+	"factoryName": "东南汽车",
+	"id": 7500,
+	"brand": "东南"
+}, {
+	"modeType": 1,
+	"series": "东南DX7",
+	"factoryName": "东南汽车",
+	"id": 418,
+	"brand": "东南"
+}, {
+	"modeType": 1,
+	"series": "得利卡",
+	"factoryName": "东南汽车",
+	"id": 423,
+	"brand": "东南"
+}, {
+	"modeType": 1,
+	"series": "东风皮卡",
+	"factoryName": "东风汽车",
+	"id": 481,
+	"brand": "东风"
+}, {
+	"modeType": 1,
+	"series": "俊风E17",
+	"factoryName": "东风汽车",
+	"id": 7510,
+	"brand": "东风"
+}, {
+	"modeType": 1,
+	"series": "俊风ER30",
+	"factoryName": "东风汽车",
+	"id": 7508,
+	"brand": "东风"
+}, {
+	"modeType": 1,
+	"series": "御风",
+	"factoryName": "东风汽车",
+	"id": 482,
+	"brand": "东风"
+}, {
+	"modeType": 1,
+	"series": "御风EV",
+	"factoryName": "东风汽车",
+	"id": 484,
+	"brand": "东风"
+}, {
+	"modeType": 1,
+	"series": "御风P16",
+	"factoryName": "东风汽车",
+	"id": 1937,
+	"brand": "东风"
+}, {
+	"modeType": 1,
+	"series": "御风S16",
+	"factoryName": "东风汽车",
+	"id": 1989,
+	"brand": "东风"
+}, {
+	"modeType": 1,
+	"series": "俊风",
+	"factoryName": "郑州日产",
+	"id": 488,
+	"brand": "东风"
+}, {
+	"modeType": 1,
+	"series": "奥丁",
+	"factoryName": "郑州日产",
+	"id": 490,
+	"brand": "东风"
+}, {
+	"modeType": 1,
+	"series": "帅客",
+	"factoryName": "郑州日产",
+	"id": 486,
+	"brand": "东风"
+}, {
+	"modeType": 1,
+	"series": "帅客新能源",
+	"factoryName": "郑州日产",
+	"id": 7512,
+	"brand": "东风"
+}, {
+	"modeType": 1,
+	"series": "锐骐多功能车",
+	"factoryName": "郑州日产",
+	"id": 487,
+	"brand": "东风"
+}, {
+	"modeType": 1,
+	"series": "锐骐皮卡",
+	"factoryName": "郑州日产",
+	"id": 485,
+	"brand": "东风"
+}, {
+	"modeType": 1,
+	"series": "东风小康C31",
+	"factoryName": "东风小康",
+	"id": 468,
+	"brand": "东风小康"
+}, {
+	"modeType": 1,
+	"series": "东风小康C32",
+	"factoryName": "东风小康",
+	"id": 462,
+	"brand": "东风小康"
+}, {
+	"modeType": 1,
+	"series": "东风小康C35",
+	"factoryName": "东风小康",
+	"id": 471,
+	"brand": "东风小康"
+}, {
+	"modeType": 1,
+	"series": "东风小康C36",
+	"factoryName": "东风小康",
+	"id": 475,
+	"brand": "东风小康"
+}, {
+	"modeType": 1,
+	"series": "东风小康C37",
+	"factoryName": "东风小康",
+	"id": 465,
+	"brand": "东风小康"
+}, {
+	"modeType": 1,
+	"series": "东风小康EC36",
+	"factoryName": "东风小康",
+	"id": 470,
+	"brand": "东风小康"
+}, {
+	"modeType": 1,
+	"series": "东风小康K01",
+	"factoryName": "东风小康",
+	"id": 460,
+	"brand": "东风小康"
+}, {
+	"modeType": 1,
+	"series": "东风小康K02",
+	"factoryName": "东风小康",
+	"id": 467,
+	"brand": "东风小康"
+}, {
+	"modeType": 1,
+	"series": "东风小康K05S",
+	"factoryName": "东风小康",
+	"id": 469,
+	"brand": "东风小康"
+}, {
+	"modeType": 1,
+	"series": "东风小康K07",
+	"factoryName": "东风小康",
+	"id": 464,
+	"brand": "东风小康"
+}, {
+	"modeType": 1,
+	"series": "东风小康K07II",
+	"factoryName": "东风小康",
+	"id": 472,
+	"brand": "东风小康"
+}, {
+	"modeType": 1,
+	"series": "东风小康K07S",
+	"factoryName": "东风小康",
+	"id": 463,
+	"brand": "东风小康"
+}, {
+	"modeType": 1,
+	"series": "东风小康K17",
+	"factoryName": "东风小康",
+	"id": 1797,
+	"brand": "东风小康"
+}, {
+	"modeType": 1,
+	"series": "东风小康V07S",
+	"factoryName": "东风小康",
+	"id": 1799,
+	"brand": "东风小康"
+}, {
+	"modeType": 1,
+	"series": "东风小康V21",
+	"factoryName": "东风小康",
+	"id": 1803,
+	"brand": "东风小康"
+}, {
+	"modeType": 1,
+	"series": "东风小康V22",
+	"factoryName": "东风小康",
+	"id": 1805,
+	"brand": "东风小康"
+}, {
+	"modeType": 1,
+	"series": "东风小康V27",
+	"factoryName": "东风小康",
+	"id": 1807,
+	"brand": "东风小康"
+}, {
+	"modeType": 1,
+	"series": "东风小康V29",
+	"factoryName": "东风小康",
+	"id": 1801,
+	"brand": "东风小康"
+}, {
+	"modeType": 1,
+	"series": "东风风光",
+	"factoryName": "东风小康",
+	"id": 429,
+	"brand": "东风风光"
+}, {
+	"modeType": 1,
+	"series": "东风风光330",
+	"factoryName": "东风小康",
+	"id": 426,
+	"brand": "东风风光"
+}, {
+	"modeType": 1,
+	"series": "东风风光350",
+	"factoryName": "东风小康",
+	"id": 430,
+	"brand": "东风风光"
+}, {
+	"modeType": 1,
+	"series": "东风风光360",
+	"factoryName": "东风小康",
+	"id": 428,
+	"brand": "东风风光"
+}, {
+	"modeType": 1,
+	"series": "东风风光370",
+	"factoryName": "东风小康",
+	"id": 427,
+	"brand": "东风风光"
+}, {
+	"modeType": 1,
+	"series": "东风风光580",
+	"factoryName": "东风小康",
+	"id": 425,
+	"brand": "东风风光"
+}, {
+	"modeType": 1,
+	"series": "东风风光ix5",
+	"factoryName": "东风小康",
+	"id": 7502,
+	"brand": "东风风光"
+}, {
+	"modeType": 1,
+	"series": "东风风光S560",
+	"factoryName": "东风小康",
+	"id": 2023,
+	"brand": "东风风光"
+}, {
+	"modeType": 1,
+	"series": "东风风度MX5",
+	"factoryName": "郑州日产",
+	"id": 479,
+	"brand": "东风风度"
+}, {
+	"modeType": 1,
+	"series": "东风风度MX6",
+	"factoryName": "郑州日产",
+	"id": 480,
+	"brand": "东风风度"
+}, {
+	"modeType": 1,
+	"series": "东风A9",
+	"factoryName": "东风乘用车",
+	"id": 450,
+	"brand": "东风风神"
+}, {
+	"modeType": 1,
+	"series": "东风风神A30",
+	"factoryName": "东风乘用车",
+	"id": 452,
+	"brand": "东风风神"
+}, {
+	"modeType": 1,
+	"series": "东风风神A60",
+	"factoryName": "东风乘用车",
+	"id": 451,
+	"brand": "东风风神"
+}, {
+	"modeType": 1,
+	"series": "东风风神AX3",
+	"factoryName": "东风乘用车",
+	"id": 448,
+	"brand": "东风风神"
+}, {
+	"modeType": 1,
+	"series": "东风风神AX4",
+	"factoryName": "东风乘用车",
+	"id": 1945,
+	"brand": "东风风神"
+}, {
+	"modeType": 1,
+	"series": "东风风神AX5",
+	"factoryName": "东风乘用车",
+	"id": 449,
+	"brand": "东风风神"
+}, {
+	"modeType": 1,
+	"series": "东风风神AX7",
+	"factoryName": "东风乘用车",
+	"id": 447,
+	"brand": "东风风神"
+}, {
+	"modeType": 1,
+	"series": "东风风神E30",
+	"factoryName": "东风乘用车",
+	"id": 454,
+	"brand": "东风风神"
+}, {
+	"modeType": 1,
+	"series": "东风风神E70",
+	"factoryName": "东风乘用车",
+	"id": 2007,
+	"brand": "东风风神"
+}, {
+	"modeType": 1,
+	"series": "东风风神H30",
+	"factoryName": "东风乘用车",
+	"id": 456,
+	"brand": "东风风神"
+}, {
+	"modeType": 1,
+	"series": "东风风神L60",
+	"factoryName": "东风乘用车",
+	"id": 453,
+	"brand": "东风风神"
+}, {
+	"modeType": 1,
+	"series": "东风风神S30",
+	"factoryName": "东风乘用车",
+	"id": 455,
+	"brand": "东风风神"
+}, {
+	"modeType": 1,
+	"series": "景逸",
+	"factoryName": "东风风行",
+	"id": 441,
+	"brand": "东风风行"
+}, {
+	"modeType": 1,
+	"series": "景逸S50",
+	"factoryName": "东风风行",
+	"id": 434,
+	"brand": "东风风行"
+}, {
+	"modeType": 1,
+	"series": "景逸X3",
+	"factoryName": "东风风行",
+	"id": 436,
+	"brand": "东风风行"
+}, {
+	"modeType": 1,
+	"series": "景逸X5",
+	"factoryName": "东风风行",
+	"id": 431,
+	"brand": "东风风行"
+}, {
+	"modeType": 1,
+	"series": "景逸X6",
+	"factoryName": "东风风行",
+	"id": 1935,
+	"brand": "东风风行"
+}, {
+	"modeType": 1,
+	"series": "景逸XV",
+	"factoryName": "东风风行",
+	"id": 439,
+	"brand": "东风风行"
+}, {
+	"modeType": 1,
+	"series": "菱智",
+	"factoryName": "东风风行",
+	"id": 432,
+	"brand": "东风风行"
+}, {
+	"modeType": 1,
+	"series": "菱智M5EV",
+	"factoryName": "东风风行",
+	"id": 2051,
+	"brand": "东风风行"
+}, {
+	"modeType": 1,
+	"series": "风行CM7",
+	"factoryName": "东风风行",
+	"id": 437,
+	"brand": "东风风行"
+}, {
+	"modeType": 1,
+	"series": "风行F600",
+	"factoryName": "东风风行",
+	"id": 438,
+	"brand": "东风风行"
+}, {
+	"modeType": 1,
+	"series": "风行S500",
+	"factoryName": "东风风行",
+	"id": 435,
+	"brand": "东风风行"
+}, {
+	"modeType": 1,
+	"series": "风行S50EV",
+	"factoryName": "东风风行",
+	"id": 2053,
+	"brand": "东风风行"
+}, {
+	"modeType": 1,
+	"series": "风行SX6",
+	"factoryName": "东风风行",
+	"id": 433,
+	"brand": "东风风行"
+}, {
+	"modeType": 1,
+	"series": "风行T5",
+	"factoryName": "东风风行",
+	"id": 7504,
+	"brand": "东风风行"
+}, {
+	"modeType": 1,
+	"series": "威虎",
+	"factoryName": "中兴汽车",
+	"id": 1518,
+	"brand": "中兴"
+}, {
+	"modeType": 1,
+	"series": "威虎G3",
+	"factoryName": "中兴汽车",
+	"id": 1522,
+	"brand": "中兴"
+}, {
+	"modeType": 1,
+	"series": "小老虎",
+	"factoryName": "中兴汽车",
+	"id": 1519,
+	"brand": "中兴"
+}, {
+	"modeType": 1,
+	"series": "领主",
+	"factoryName": "中兴汽车",
+	"id": 1517,
+	"brand": "中兴"
+}, {
+	"modeType": 1,
+	"series": "中兴C3",
+	"factoryName": "广汽中兴",
+	"id": 1515,
+	"brand": "中兴"
+}, {
+	"modeType": 1,
+	"series": "中兴GX3",
+	"factoryName": "广汽中兴",
+	"id": 1516,
+	"brand": "中兴"
+}, {
+	"modeType": 1,
+	"series": "中华H220",
+	"factoryName": "华晨中华",
+	"id": 1506,
+	"brand": "中华"
+}, {
+	"modeType": 1,
+	"series": "中华H230",
+	"factoryName": "华晨中华",
+	"id": 1507,
+	"brand": "中华"
+}, {
+	"modeType": 1,
+	"series": "中华H230EV",
+	"factoryName": "华晨中华",
+	"id": 1503,
+	"brand": "中华"
+}, {
+	"modeType": 1,
+	"series": "中华H3",
+	"factoryName": "华晨中华",
+	"id": 1501,
+	"brand": "中华"
+}, {
+	"modeType": 1,
+	"series": "中华H330",
+	"factoryName": "华晨中华",
+	"id": 1505,
+	"brand": "中华"
+}, {
+	"modeType": 1,
+	"series": "中华H530",
+	"factoryName": "华晨中华",
+	"id": 1502,
+	"brand": "中华"
+}, {
+	"modeType": 1,
+	"series": "中华V3",
+	"factoryName": "华晨中华",
+	"id": 1499,
+	"brand": "中华"
+}, {
+	"modeType": 1,
+	"series": "中华V5",
+	"factoryName": "华晨中华",
+	"id": 1500,
+	"brand": "中华"
+}, {
+	"modeType": 1,
+	"series": "中华豚",
+	"factoryName": "华晨中华",
+	"id": 1504,
+	"brand": "中华"
+}, {
+	"modeType": 1,
+	"series": "中华骏捷",
+	"factoryName": "华晨中华",
+	"id": 1509,
+	"brand": "中华"
+}, {
+	"modeType": 1,
+	"series": "RAV4荣放",
+	"factoryName": "一汽丰田",
+	"id": 500,
+	"brand": "丰田"
+}, {
+	"modeType": 1,
+	"series": "兰德酷路泽",
+	"factoryName": "一汽丰田",
+	"id": 504,
+	"brand": "丰田"
+}, {
+	"modeType": 1,
+	"series": "卡罗拉",
+	"factoryName": "一汽丰田",
+	"id": 498,
+	"brand": "丰田"
+}, {
+	"modeType": 1,
+	"series": "奕泽IZOA",
+	"factoryName": "一汽丰田",
+	"id": 7516,
+	"brand": "丰田"
+}, {
+	"modeType": 1,
+	"series": "威驰",
+	"factoryName": "一汽丰田",
+	"id": 502,
+	"brand": "丰田"
+}, {
+	"modeType": 1,
+	"series": "威驰FS",
+	"factoryName": "一汽丰田",
+	"id": 505,
+	"brand": "丰田"
+}, {
+	"modeType": 1,
+	"series": "普拉多",
+	"factoryName": "一汽丰田",
+	"id": 499,
+	"brand": "丰田"
+}, {
+	"modeType": 1,
+	"series": "普锐斯",
+	"factoryName": "一汽丰田",
+	"id": 1809,
+	"brand": "丰田"
+}, {
+	"modeType": 1,
+	"series": "柯斯达",
+	"factoryName": "一汽丰田",
+	"id": 508,
+	"brand": "丰田"
+}, {
+	"modeType": 1,
+	"series": "皇冠",
+	"factoryName": "一汽丰田",
+	"id": 501,
+	"brand": "丰田"
+}, {
+	"modeType": 1,
+	"series": "花冠",
+	"factoryName": "一汽丰田",
+	"id": 506,
+	"brand": "丰田"
+}, {
+	"modeType": 1,
+	"series": "锐志",
+	"factoryName": "一汽丰田",
+	"id": 503,
+	"brand": "丰田"
+}, {
+	"modeType": 2,
+	"series": "FJ酷路泽",
+	"factoryName": "丰田(中规进口)",
+	"id": 6408,
+	"brand": "丰田"
+}, {
+	"modeType": 2,
+	"series": "丰田86",
+	"factoryName": "丰田(中规进口)",
+	"id": 6412,
+	"brand": "丰田"
+}, {
+	"modeType": 2,
+	"series": "埃尔法",
+	"factoryName": "丰田(中规进口)",
+	"id": 6410,
+	"brand": "丰田"
+}, {
+	"modeType": 2,
+	"series": "威飒",
+	"factoryName": "丰田(中规进口)",
+	"id": 6420,
+	"brand": "丰田"
+}, {
+	"modeType": 2,
+	"series": "普瑞维亚",
+	"factoryName": "丰田(中规进口)",
+	"id": 6418,
+	"brand": "丰田"
+}, {
+	"modeType": 2,
+	"series": "杰路驰",
+	"factoryName": "丰田(中规进口)",
+	"id": 6416,
+	"brand": "丰田"
+}, {
+	"modeType": 2,
+	"series": "海狮HIACE",
+	"factoryName": "丰田(中规进口)",
+	"id": 6414,
+	"brand": "丰田"
+}, {
+	"modeType": 4,
+	"series": "4Runner超霸",
+	"factoryName": "丰田(平行进口)",
+	"id": 6938,
+	"brand": "丰田"
+}, {
+	"modeType": 6,
+	"series": "FJ酷路泽",
+	"factoryName": "丰田(平行进口)",
+	"id": 7060,
+	"brand": "丰田"
+}, {
+	"modeType": 4,
+	"series": "坦途",
+	"factoryName": "丰田(平行进口)",
+	"id": 6944,
+	"brand": "丰田"
+}, {
+	"modeType": 10,
+	"series": "埃尔法",
+	"factoryName": "丰田(平行进口)",
+	"id": 7300,
+	"brand": "丰田"
+}, {
+	"modeType": 4,
+	"series": "塔库玛",
+	"factoryName": "丰田(平行进口)",
+	"id": 6942,
+	"brand": "丰田"
+}, {
+	"modeType": 4,
+	"series": "塞纳",
+	"factoryName": "丰田(平行进口)",
+	"id": 6940,
+	"brand": "丰田"
+}, {
+	"modeType": 6,
+	"series": "普瑞维亚(大霸王)",
+	"factoryName": "丰田(平行进口)",
+	"id": 7090,
+	"brand": "丰田"
+}, {
+	"modeType": 6,
+	"series": "海拉克斯",
+	"factoryName": "丰田(平行进口)",
+	"id": 7072,
+	"brand": "丰田"
+}, {
+	"modeType": 6,
+	"series": "海狮HIACE",
+	"factoryName": "丰田(平行进口)",
+	"id": 7074,
+	"brand": "丰田"
+}, {
+	"modeType": 6,
+	"series": "穿越者",
+	"factoryName": "丰田(平行进口)",
+	"id": 7070,
+	"brand": "丰田"
+}, {
+	"modeType": 6,
+	"series": "红杉",
+	"factoryName": "丰田(平行进口)",
+	"id": 7076,
+	"brand": "丰田"
+}, {
+	"modeType": 6,
+	"series": "考斯特",
+	"factoryName": "丰田(平行进口)",
+	"id": 7078,
+	"brand": "丰田"
+}, {
+	"modeType": 6,
+	"series": "酷路泽4000",
+	"factoryName": "丰田(平行进口)",
+	"id": 7080,
+	"brand": "丰田"
+}, {
+	"modeType": 6,
+	"series": "酷路泽4500",
+	"factoryName": "丰田(平行进口)",
+	"id": 7082,
+	"brand": "丰田"
+}, {
+	"modeType": 6,
+	"series": "酷路泽4600",
+	"factoryName": "丰田(平行进口)",
+	"id": 7084,
+	"brand": "丰田"
+}, {
+	"modeType": 6,
+	"series": "酷路泽5700",
+	"factoryName": "丰田(平行进口)",
+	"id": 7086,
+	"brand": "丰田"
+}, {
+	"modeType": 6,
+	"series": "酷路泽70系列",
+	"factoryName": "丰田(平行进口)",
+	"id": 7088,
+	"brand": "丰田"
+}, {
+	"modeType": 6,
+	"series": "霸道2700",
+	"factoryName": "丰田(平行进口)",
+	"id": 7062,
+	"brand": "丰田"
+}, {
+	"modeType": 6,
+	"series": "霸道2800",
+	"factoryName": "丰田(平行进口)",
+	"id": 7064,
+	"brand": "丰田"
+}, {
+	"modeType": 6,
+	"series": "霸道3000",
+	"factoryName": "丰田(平行进口)",
+	"id": 7066,
+	"brand": "丰田"
+}, {
+	"modeType": 6,
+	"series": "霸道4000",
+	"factoryName": "丰田(平行进口)",
+	"id": 7068,
+	"brand": "丰田"
+}, {
+	"modeType": 1,
+	"series": "YARiS L 致享",
+	"factoryName": "广汽丰田",
+	"id": 496,
+	"brand": "丰田"
+}, {
+	"modeType": 1,
+	"series": "YARiS L 致炫",
+	"factoryName": "广汽丰田",
+	"id": 495,
+	"brand": "丰田"
+}, {
+	"modeType": 1,
+	"series": "丰田C-HR",
+	"factoryName": "广汽丰田",
+	"id": 7514,
+	"brand": "丰田"
+}, {
+	"modeType": 1,
+	"series": "凯美瑞",
+	"factoryName": "广汽丰田",
+	"id": 494,
+	"brand": "丰田"
+}, {
+	"modeType": 1,
+	"series": "汉兰达",
+	"factoryName": "广汽丰田",
+	"id": 492,
+	"brand": "丰田"
+}, {
+	"modeType": 1,
+	"series": "逸致",
+	"factoryName": "广汽丰田",
+	"id": 497,
+	"brand": "丰田"
+}, {
+	"modeType": 1,
+	"series": "雷凌",
+	"factoryName": "广汽丰田",
+	"id": 493,
+	"brand": "丰田"
+}, {
+	"modeType": 1,
+	"series": "之诺60H",
+	"factoryName": "华晨宝马",
+	"id": 1530,
+	"brand": "之诺"
+}, {
+	"modeType": 4,
+	"series": "乔治巴顿",
+	"factoryName": "乔治·巴顿",
+	"id": 7032,
+	"brand": "乔治·巴顿"
+}, {
+	"modeType": 2,
+	"series": "战剑",
+	"factoryName": "乔治·巴顿",
+	"id": 6884,
+	"brand": "乔治·巴顿"
+}, {
+	"modeType": 2,
+	"series": "战车",
+	"factoryName": "乔治·巴顿",
+	"id": 6882,
+	"brand": "乔治·巴顿"
+}, {
+	"modeType": 1,
+	"series": "九龙A4",
+	"factoryName": "九龙汽车",
+	"id": 842,
+	"brand": "九龙"
+}, {
+	"modeType": 1,
+	"series": "九龙A5",
+	"factoryName": "九龙汽车",
+	"id": 1835,
+	"brand": "九龙"
+}, {
+	"modeType": 1,
+	"series": "九龙A6",
+	"factoryName": "九龙汽车",
+	"id": 840,
+	"brand": "九龙"
+}, {
+	"modeType": 1,
+	"series": "考斯特",
+	"factoryName": "九龙汽车",
+	"id": 841,
+	"brand": "九龙"
+}, {
+	"modeType": 1,
+	"series": "艾菲",
+	"factoryName": "九龙汽车",
+	"id": 839,
+	"brand": "九龙"
+}, {
+	"modeType": 1,
+	"series": "云度π1",
+	"factoryName": "云度新能源",
+	"id": 2005,
+	"brand": "云度"
+}, {
+	"modeType": 1,
+	"series": "五十铃皮卡",
+	"factoryName": "庆铃汽车",
+	"id": 1334,
+	"brand": "五十铃"
+}, {
+	"modeType": 1,
+	"series": "D-MAX",
+	"factoryName": "江西五十铃",
+	"id": 1332,
+	"brand": "五十铃"
+}, {
+	"modeType": 1,
+	"series": "五十铃mu-X",
+	"factoryName": "江西五十铃",
+	"id": 1331,
+	"brand": "五十铃"
+}, {
+	"modeType": 1,
+	"series": "瑞迈",
+	"factoryName": "江西五十铃",
+	"id": 1333,
+	"brand": "五十铃"
+}, {
+	"modeType": 1,
+	"series": "PN货车",
+	"factoryName": "上汽通用五菱",
+	"id": 1871,
+	"brand": "五菱汽车"
+}, {
+	"modeType": 1,
+	"series": "五菱之光",
+	"factoryName": "上汽通用五菱",
+	"id": 1323,
+	"brand": "五菱汽车"
+}, {
+	"modeType": 1,
+	"series": "五菱之光V",
+	"factoryName": "上汽通用五菱",
+	"id": 1329,
+	"brand": "五菱汽车"
+}, {
+	"modeType": 1,
+	"series": "五菱之光小卡",
+	"factoryName": "上汽通用五菱",
+	"id": 1328,
+	"brand": "五菱汽车"
+}, {
+	"modeType": 1,
+	"series": "五菱宏光",
+	"factoryName": "上汽通用五菱",
+	"id": 1322,
+	"brand": "五菱汽车"
+}, {
+	"modeType": 1,
+	"series": "五菱宏光S3",
+	"factoryName": "上汽通用五菱",
+	"id": 2015,
+	"brand": "五菱汽车"
+}, {
+	"modeType": 1,
+	"series": "五菱征程",
+	"factoryName": "上汽通用五菱",
+	"id": 1327,
+	"brand": "五菱汽车"
+}, {
+	"modeType": 1,
+	"series": "五菱荣光",
+	"factoryName": "上汽通用五菱",
+	"id": 1326,
+	"brand": "五菱汽车"
+}, {
+	"modeType": 1,
+	"series": "五菱荣光V",
+	"factoryName": "上汽通用五菱",
+	"id": 1324,
+	"brand": "五菱汽车"
+}, {
+	"modeType": 1,
+	"series": "五菱荣光小卡",
+	"factoryName": "上汽通用五菱",
+	"id": 1873,
+	"brand": "五菱汽车"
+}, {
+	"modeType": 1,
+	"series": "云100",
+	"factoryName": "众泰汽车",
+	"id": 1488,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "众泰E200",
+	"factoryName": "众泰汽车",
+	"id": 1482,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "众泰SR7",
+	"factoryName": "众泰汽车",
+	"id": 1481,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "众泰SR9",
+	"factoryName": "众泰汽车",
+	"id": 1474,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "众泰T200",
+	"factoryName": "众泰汽车",
+	"id": 1493,
+	"brand": "众��"
+}, {
+	"modeType": 1,
+	"series": "众泰T300",
+	"factoryName": "众泰汽车",
+	"id": 1915,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "众泰T500",
+	"factoryName": "众泰汽车",
+	"id": 1987,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "众泰T600",
+	"factoryName": "众泰汽车",
+	"id": 1478,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "众泰T600 Coupe",
+	"factoryName": "众泰汽车",
+	"id": 1476,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "众泰T700",
+	"factoryName": "众泰汽车",
+	"id": 1475,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "众泰V10",
+	"factoryName": "众泰汽车",
+	"id": 1891,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "众泰Z100",
+	"factoryName": "众泰汽车",
+	"id": 1496,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "众泰Z200",
+	"factoryName": "众泰汽车",
+	"id": 1497,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "众泰Z300",
+	"factoryName": "众泰汽车",
+	"id": 1485,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "众泰Z360",
+	"factoryName": "众泰汽车",
+	"id": 1484,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "众泰Z500",
+	"factoryName": "众泰汽车",
+	"id": 1491,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "众泰Z500EV",
+	"factoryName": "众泰汽车",
+	"id": 1487,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "众泰Z560",
+	"factoryName": "众泰汽车",
+	"id": 1483,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "众泰Z700",
+	"factoryName": "众泰汽车",
+	"id": 1479,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "大迈X5",
+	"factoryName": "众泰汽车",
+	"id": 1480,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "大迈X7",
+	"factoryName": "众泰汽车",
+	"id": 1477,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "江南T11",
+	"factoryName": "众泰汽车",
+	"id": 1495,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "芝麻",
+	"factoryName": "众泰汽车",
+	"id": 1486,
+	"brand": "众泰"
+}, {
+	"modeType": 1,
+	"series": "依维柯Daily(欧胜)",
+	"factoryName": "南京依维柯",
+	"id": 2039,
+	"brand": "依维柯"
+}, {
+	"modeType": 1,
+	"series": "依维柯Ouba",
+	"factoryName": "南京依维柯",
+	"id": 1469,
+	"brand": "依维柯"
+}, {
+	"modeType": 1,
+	"series": "依维柯Power Daily",
+	"factoryName": "南京依维柯",
+	"id": 1467,
+	"brand": "依维柯"
+}, {
+	"modeType": 1,
+	"series": "依维柯得意",
+	"factoryName": "南京依维柯",
+	"id": 1468,
+	"brand": "依维柯"
+}, {
+	"modeType": 2,
+	"series": "Boxster",
+	"factoryName": "保时捷",
+	"id": 6332,
+	"brand": "保时捷"
+}, {
+	"modeType": 2,
+	"series": "Cayenne新能源",
+	"factoryName": "保时捷",
+	"id": 6334,
+	"brand": "保时捷"
+}, {
+	"modeType": 2,
+	"series": "Cayman",
+	"factoryName": "保时捷",
+	"id": 6336,
+	"brand": "保时捷"
+}, {
+	"modeType": 2,
+	"series": "Macan",
+	"factoryName": "保时捷",
+	"id": 6338,
+	"brand": "保时捷"
+}, {
+	"modeType": 2,
+	"series": "Panamera",
+	"factoryName": "保时捷",
+	"id": 6340,
+	"brand": "保时捷"
+}, {
+	"modeType": 2,
+	"series": "Panamera新能源",
+	"factoryName": "保时捷",
+	"id": 6342,
+	"brand": "保时捷"
+}, {
+	"modeType": 2,
+	"series": "保时捷718",
+	"factoryName": "保时捷",
+	"id": 6344,
+	"brand": "保时捷"
+}, {
+	"modeType": 2,
+	"series": "保时捷911",
+	"factoryName": "保时捷",
+	"id": 6346,
+	"brand": "保时捷"
+}, {
+	"modeType": 2,
+	"series": "保时捷918",
+	"factoryName": "保时捷",
+	"id": 6348,
+	"brand": "保时捷"
+}, {
+	"modeType": 2,
+	"series": "卡宴",
+	"factoryName": "保时捷",
+	"id": 6350,
+	"brand": "保时捷"
+}, {
+	"modeType": 4,
+	"series": "Panamera",
+	"factoryName": "保时捷(平行进口)",
+	"id": 6918,
+	"brand": "保时捷"
+}, {
+	"modeType": 4,
+	"series": "保时捷911",
+	"factoryName": "保时捷(平行进口)",
+	"id": 6920,
+	"brand": "保时捷"
+}, {
+	"modeType": 10,
+	"series": "保时捷918",
+	"factoryName": "保时捷(平行进口)",
+	"id": 7286,
+	"brand": "保时捷"
+}, {
+	"modeType": 4,
+	"series": "卡宴",
+	"factoryName": "保时捷(平行进口)",
+	"id": 6922,
+	"brand": "保时捷"
+}, {
+	"modeType": 2,
+	"series": "大蛇",
+	"factoryName": "光冈自动车",
+	"id": 6464,
+	"brand": "光冈"
+}, {
+	"modeType": 12,
+	"series": "大捷龙",
+	"factoryName": "克莱斯勒(平行进口)",
+	"id": 7426,
+	"brand": "克莱斯勒"
+}, {
+	"modeType": 8,
+	"series": "大捷龙PHEV",
+	"factoryName": "克莱斯勒(平行进口)",
+	"id": 7214,
+	"brand": "克莱斯勒"
+}, {
+	"modeType": 2,
+	"series": "克莱斯勒300C",
+	"factoryName": "克莱斯勒(进口)",
+	"id": 6500,
+	"brand": "克莱斯勒"
+}, {
+	"modeType": 2,
+	"series": "大捷龙(进口)",
+	"factoryName": "克莱斯勒(进口)",
+	"id": 6496,
+	"brand": "克莱斯勒"
+}, {
+	"modeType": 2,
+	"series": "大捷龙PHEV(进口)",
+	"factoryName": "克莱斯勒(进口)",
+	"id": 6498,
+	"brand": "克莱斯勒"
+}, {
+	"modeType": 2,
+	"series": "Aventador",
+	"factoryName": "兰博基尼(中规进口)",
+	"id": 6580,
+	"brand": "兰博基尼"
+}, {
+	"modeType": 2,
+	"series": "Huracan",
+	"factoryName": "兰博基尼(中规进口)",
+	"id": 6582,
+	"brand": "兰博基尼"
+}, {
+	"modeType": 2,
+	"series": "Urus",
+	"factoryName": "兰博基尼(中规进口)",
+	"id": 6584,
+	"brand": "兰博基尼"
+}, {
+	"modeType": 4,
+	"series": "Urus",
+	"factoryName": "兰博基尼(平行进口)",
+	"id": 6992,
+	"brand": "兰博基尼"
+}, {
+	"modeType": 4,
+	"series": "战盾",
+	"factoryName": "凯佰赫",
+	"id": 7036,
+	"brand": "凯佰赫"
+}, {
+	"modeType": 1,
+	"series": "凯翼C3",
+	"factoryName": "凯翼汽车",
+	"id": 870,
+	"brand": "凯翼"
+}, {
+	"modeType": 1,
+	"series": "凯翼C3R",
+	"factoryName": "凯翼汽车",
+	"id": 871,
+	"brand": "凯翼"
+}, {
+	"modeType": 1,
+	"series": "凯翼E3",
+	"factoryName": "凯翼汽车",
+	"id": 2043,
+	"brand": "凯翼"
+}, {
+	"modeType": 1,
+	"series": "凯翼V3",
+	"factoryName": "凯翼汽车",
+	"id": 872,
+	"brand": "凯翼"
+}, {
+	"modeType": 1,
+	"series": "凯翼X3",
+	"factoryName": "凯翼汽车",
+	"id": 869,
+	"brand": "凯翼"
+}, {
+	"modeType": 1,
+	"series": "凯翼X5",
+	"factoryName": "凯翼汽车",
+	"id": 1961,
+	"brand": "凯翼"
+}, {
+	"modeType": 1,
+	"series": "凯迪拉克ATS-L",
+	"factoryName": "上汽通用凯迪拉克",
+	"id": 858,
+	"brand": "凯迪拉克"
+}, {
+	"modeType": 1,
+	"series": "凯迪拉克CT6",
+	"factoryName": "上汽通用凯迪拉克",
+	"id": 861,
+	"brand": "凯迪拉克"
+}, {
+	"modeType": 1,
+	"series": "凯迪拉克CT6 PLUG-IN",
+	"factoryName": "上汽通用凯迪拉克",
+	"id": 862,
+	"brand": "凯迪拉克"
+}, {
+	"modeType": 1,
+	"series": "凯迪拉克XT5",
+	"factoryName": "上汽通用凯迪拉克",
+	"id": 859,
+	"brand": "凯迪拉克"
+}, {
+	"modeType": 1,
+	"series": "凯迪拉克XTS",
+	"factoryName": "上汽通用凯迪拉克",
+	"id": 860,
+	"brand": "凯迪拉克"
+}, {
+	"modeType": 4,
+	"series": "凯雷德",
+	"factoryName": "凯迪拉克(平行进口)",
+	"id": 6976,
+	"brand": "凯迪拉克"
+}, {
+	"modeType": 4,
+	"series": "总统一号",
+	"factoryName": "凯迪拉克(平行进口)",
+	"id": 6978,
+	"brand": "凯迪拉克"
+}, {
+	"modeType": 2,
+	"series": "凯迪拉克CTS",
+	"factoryName": "凯迪拉克(进口)",
+	"id": 6490,
+	"brand": "凯迪拉克"
+}, {
+	"modeType": 2,
+	"series": "凯迪拉克SRX(进口)",
+	"factoryName": "凯迪拉克(进口)",
+	"id": 6492,
+	"brand": "凯迪拉克"
+}, {
+	"modeType": 2,
+	"series": "凯雷德",
+	"factoryName": "凯迪拉克(进口)",
+	"id": 6494,
+	"brand": "凯迪拉克"
+}, {
+	"modeType": 1,
+	"series": "VELITE 5",
+	"factoryName": "上汽通用别克",
+	"id": 77,
+	"brand": "别克"
+}, {
+	"modeType": 1,
+	"series": "凯越",
+	"factoryName": "上汽通用别克",
+	"id": 79,
+	"brand": "别克"
+}, {
+	"modeType": 1,
+	"series": "别克GL6",
+	"factoryName": "上汽通用别克",
+	"id": 2011,
+	"brand": "别克"
+}, {
+	"modeType": 1,
+	"series": "别克GL8",
+	"factoryName": "上汽通用别克",
+	"id": 75,
+	"brand": "别克"
+}, {
+	"modeType": 1,
+	"series": "君威",
+	"factoryName": "上汽通用别克",
+	"id": 71,
+	"brand": "别克"
+}, {
+	"modeType": 1,
+	"series": "君越",
+	"factoryName": "上汽通用别克",
+	"id": 74,
+	"brand": "别克"
+}, {
+	"modeType": 1,
+	"series": "威朗",
+	"factoryName": "上汽通用别克",
+	"id": 72,
+	"brand": "别克"
+}, {
+	"modeType": 1,
+	"series": "昂科威",
+	"factoryName": "上汽通用别克",
+	"id": 73,
+	"brand": "别克"
+}, {
+	"modeType": 1,
+	"series": "昂科拉",
+	"factoryName": "上汽通用别克",
+	"id": 76,
+	"brand": "别克"
+}, {
+	"modeType": 1,
+	"series": "英朗",
+	"factoryName": "上汽通用别克",
+	"id": 70,
+	"brand": "别克"
+}, {
+	"modeType": 1,
+	"series": "阅朗",
+	"factoryName": "上汽通用别克",
+	"id": 2013,
+	"brand": "别克"
+}, {
+	"modeType": 2,
+	"series": "昂科雷",
+	"factoryName": "别克(进口)",
+	"id": 6202,
+	"brand": "别克"
+}, {
+	"modeType": 2,
+	"series": "别克GL6",
+	"factoryName": "通用别克",
+	"id": 6200,
+	"brand": "别克"
+}, {
+	"modeType": 1,
+	"series": "丰顺",
+	"factoryName": "力帆汽车",
+	"id": 1851,
+	"brand": "力帆汽车"
+}, {
+	"modeType": 1,
+	"series": "乐途",
+	"factoryName": "力帆汽车",
+	"id": 981,
+	"brand": "力帆汽车"
+}, {
+	"modeType": 1,
+	"series": "兴顺",
+	"factoryName": "力帆汽车",
+	"id": 1853,
+	"brand": "力帆汽车"
+}, {
+	"modeType": 1,
+	"series": "力帆330",
+	"factoryName": "力帆汽车",
+	"id": 996,
+	"brand": "力帆汽车"
+}, {
+	"modeType": 1,
+	"series": "力帆330EV",
+	"factoryName": "力帆汽车",
+	"id": 984,
+	"brand": "力帆汽车"
+}, {
+	"modeType": 1,
+	"series": "力帆530",
+	"factoryName": "力帆汽车",
+	"id": 997,
+	"brand": "力帆汽车"
+}, {
+	"modeType": 1,
+	"series": "力帆620EV",
+	"factoryName": "力帆汽车",
+	"id": 988,
+	"brand": "力帆汽车"
+}, {
+	"modeType": 1,
+	"series": "力帆630",
+	"factoryName": "力帆汽车",
+	"id": 998,
+	"brand": "力帆汽车"
+}, {
+	"modeType": 1,
+	"series": "力帆720",
+	"factoryName": "力帆汽车",
+	"id": 994,
+	"brand": "力帆汽车"
+}, {
+	"modeType": 1,
+	"series": "力帆820",
+	"factoryName": "力帆汽车",
+	"id": 982,
+	"brand": "力帆汽车"
+}, {
+	"modeType": 1,
+	"series": "力帆T11",
+	"factoryName": "力帆汽车",
+	"id": 987,
+	"brand": "力帆汽车"
+}, {
+	"modeType": 1,
+	"series": "力帆T21",
+	"factoryName": "力帆汽车",
+	"id": 989,
+	"brand": "力帆汽车"
+}, {
+	"modeType": 1,
+	"series": "力帆X50",
+	"factoryName": "力帆汽车",
+	"id": 983,
+	"brand": "力帆汽车"
+}, {
+	"modeType": 1,
+	"series": "力帆X60",
+	"factoryName": "力帆汽车",
+	"id": 985,
+	"brand": "力帆汽车"
+}, {
+	"modeType": 1,
+	"series": "力帆X80",
+	"factoryName": "力帆汽车",
+	"id": 980,
+	"brand": "力帆汽车"
+}, {
+	"modeType": 1,
+	"series": "福顺",
+	"factoryName": "力帆汽车",
+	"id": 986,
+	"brand": "力帆汽车"
+}, {
+	"modeType": 1,
+	"series": "轩朗",
+	"factoryName": "力帆汽车",
+	"id": 978,
+	"brand": "力帆汽车"
+}, {
+	"modeType": 1,
+	"series": "迈威",
+	"factoryName": "力帆汽车",
+	"id": 979,
+	"brand": "力帆汽车"
+}, {
+	"modeType": 2,
+	"series": "古思特",
+	"factoryName": "劳斯莱斯",
+	"id": 6586,
+	"brand": "劳斯莱斯"
+}, {
+	"modeType": 2,
+	"series": "幻影",
+	"factoryName": "劳斯莱斯",
+	"id": 6588,
+	"brand": "劳斯莱斯"
+}, {
+	"modeType": 2,
+	"series": "曜影",
+	"factoryName": "劳斯莱斯",
+	"id": 6592,
+	"brand": "劳斯莱斯"
+}, {
+	"modeType": 2,
+	"series": "魅影",
+	"factoryName": "劳斯莱斯",
+	"id": 6590,
+	"brand": "劳斯莱斯"
+}, {
+	"modeType": 4,
+	"series": "古思特",
+	"factoryName": "劳斯莱斯(平行进口)",
+	"id": 6994,
+	"brand": "劳斯莱斯"
+}, {
+	"modeType": 8,
+	"series": "幻影",
+	"factoryName": "劳斯莱斯(平行进口)",
+	"id": 7234,
+	"brand": "劳斯莱斯"
+}, {
+	"modeType": 4,
+	"series": "库里南",
+	"factoryName": "劳斯莱斯(平行进口)",
+	"id": 6996,
+	"brand": "劳斯莱斯"
+}, {
+	"modeType": 10,
+	"series": "曜影",
+	"factoryName": "劳斯莱斯(平行进口)",
+	"id": 7346,
+	"brand": "劳斯莱斯"
+}, {
+	"modeType": 10,
+	"series": "魅影",
+	"factoryName": "劳斯莱斯(平行进口)",
+	"id": 7344,
+	"brand": "劳斯莱斯"
+}, {
+	"modeType": 1,
+	"series": "北京(BJ)20",
+	"factoryName": "北京汽车",
+	"id": 243,
+	"brand": "北京"
+}, {
+	"modeType": 1,
+	"series": "北京BJ40",
+	"factoryName": "北京汽车",
+	"id": 242,
+	"brand": "北京"
+}, {
+	"modeType": 1,
+	"series": "北京BJ80",
+	"factoryName": "北京汽车",
+	"id": 244,
+	"brand": "北京"
+}, {
+	"modeType": 1,
+	"series": "北京汽车E系列",
+	"factoryName": "北京汽车",
+	"id": 245,
+	"brand": "北京"
+}, {
+	"modeType": 1,
+	"series": "BJ 212",
+	"factoryName": "北京汽车制造厂",
+	"id": 266,
+	"brand": "北汽制造"
+}, {
+	"modeType": 1,
+	"series": "勇士",
+	"factoryName": "北京汽车制造厂",
+	"id": 267,
+	"brand": "北汽制造"
+}, {
+	"modeType": 1,
+	"series": "勇士皮卡",
+	"factoryName": "北京汽车制造厂",
+	"id": 7470,
+	"brand": "北汽制造"
+}, {
+	"modeType": 1,
+	"series": "北京BW007",
+	"factoryName": "北京汽车制造厂",
+	"id": 272,
+	"brand": "北汽制造"
+}, {
+	"modeType": 1,
+	"series": "战旗",
+	"factoryName": "北京汽车制造厂",
+	"id": 268,
+	"brand": "北汽制造"
+}, {
+	"modeType": 1,
+	"series": "战旗皮卡",
+	"factoryName": "北京汽车制造厂",
+	"id": 269,
+	"brand": "北汽制造"
+}, {
+	"modeType": 1,
+	"series": "越铃",
+	"factoryName": "北京汽车制造厂",
+	"id": 271,
+	"brand": "北汽制造"
+}, {
+	"modeType": 1,
+	"series": "锐铃",
+	"factoryName": "北京汽车制造厂",
+	"id": 273,
+	"brand": "北汽制造"
+}, {
+	"modeType": 1,
+	"series": "北汽威旺205",
+	"factoryName": "北京汽车",
+	"id": 285,
+	"brand": "北汽威旺"
+}, {
+	"modeType": 1,
+	"series": "北汽威旺306",
+	"factoryName": "北京汽车",
+	"id": 280,
+	"brand": "北汽威旺"
+}, {
+	"modeType": 1,
+	"series": "北汽威旺307",
+	"factoryName": "北京汽车",
+	"id": 282,
+	"brand": "北汽威旺"
+}, {
+	"modeType": 1,
+	"series": "北汽威旺M20",
+	"factoryName": "北京汽车",
+	"id": 278,
+	"brand": "北汽威旺"
+}, {
+	"modeType": 1,
+	"series": "北汽威旺M30",
+	"factoryName": "北京汽车",
+	"id": 279,
+	"brand": "北汽威旺"
+}, {
+	"modeType": 1,
+	"series": "北汽威旺M35",
+	"factoryName": "北京汽车",
+	"id": 281,
+	"brand": "北汽威旺"
+}, {
+	"modeType": 1,
+	"series": "北汽威旺M50F",
+	"factoryName": "北京汽车",
+	"id": 276,
+	"brand": "北汽威旺"
+}, {
+	"modeType": 1,
+	"series": "北汽威旺M60",
+	"factoryName": "北京汽车",
+	"id": 1981,
+	"brand": "北汽威旺"
+}, {
+	"modeType": 1,
+	"series": "北汽威旺S50",
+	"factoryName": "北京汽车",
+	"id": 277,
+	"brand": "北汽威旺"
+}, {
+	"modeType": 1,
+	"series": "北汽威旺T205-D",
+	"factoryName": "北京汽车",
+	"id": 283,
+	"brand": "北汽威旺"
+}, {
+	"modeType": 1,
+	"series": "北汽007",
+	"factoryName": "北京汽车制造厂",
+	"id": 284,
+	"brand": "北汽威旺"
+}, {
+	"modeType": 1,
+	"series": "北汽幻速H2",
+	"factoryName": "北汽银翔",
+	"id": 232,
+	"brand": "北汽幻速"
+}, {
+	"modeType": 1,
+	"series": "北汽幻速H2V",
+	"factoryName": "北汽银翔",
+	"id": 235,
+	"brand": "北汽幻速"
+}, {
+	"modeType": 1,
+	"series": "北汽幻速H3",
+	"factoryName": "北汽银翔",
+	"id": 231,
+	"brand": "北汽幻速"
+}, {
+	"modeType": 1,
+	"series": "北汽幻速H5",
+	"factoryName": "北汽银翔",
+	"id": 7458,
+	"brand": "北汽幻速"
+}, {
+	"modeType": 1,
+	"series": "北汽幻速H6",
+	"factoryName": "北汽银翔",
+	"id": 233,
+	"brand": "北汽幻速"
+}, {
+	"modeType": 1,
+	"series": "北汽幻速S2",
+	"factoryName": "北汽银翔",
+	"id": 234,
+	"brand": "北汽幻速"
+}, {
+	"modeType": 1,
+	"series": "北汽幻速S3",
+	"factoryName": "北汽银翔",
+	"id": 229,
+	"brand": "北汽幻速"
+}, {
+	"modeType": 1,
+	"series": "北汽幻速S5",
+	"factoryName": "北汽银翔",
+	"id": 228,
+	"brand": "北汽幻速"
+}, {
+	"modeType": 1,
+	"series": "北汽幻速S6",
+	"factoryName": "北汽银翔",
+	"id": 230,
+	"brand": "北汽幻速"
+}, {
+	"modeType": 1,
+	"series": "北汽幻速S7",
+	"factoryName": "北汽银翔",
+	"id": 1993,
+	"brand": "北汽幻速"
+}, {
+	"modeType": 1,
+	"series": "绅宝CC",
+	"factoryName": "北京汽车",
+	"id": 256,
+	"brand": "北汽绅宝"
+}, {
+	"modeType": 1,
+	"series": "绅宝D20",
+	"factoryName": "北京汽车",
+	"id": 257,
+	"brand": "北汽绅宝"
+}, {
+	"modeType": 1,
+	"series": "绅宝D50",
+	"factoryName": "北京汽车",
+	"id": 254,
+	"brand": "北汽绅宝"
+}, {
+	"modeType": 1,
+	"series": "绅宝D60",
+	"factoryName": "北京汽车",
+	"id": 260,
+	"brand": "北汽绅宝"
+}, {
+	"modeType": 1,
+	"series": "绅宝D70",
+	"factoryName": "北京汽车",
+	"id": 259,
+	"brand": "北汽绅宝"
+}, {
+	"modeType": 1,
+	"series": "绅宝D80",
+	"factoryName": "北京汽车",
+	"id": 258,
+	"brand": "北汽绅宝"
+}, {
+	"modeType": 1,
+	"series": "绅宝X25",
+	"factoryName": "北京汽车",
+	"id": 252,
+	"brand": "北汽绅宝"
+}, {
+	"modeType": 1,
+	"series": "绅宝X35",
+	"factoryName": "北京汽车",
+	"id": 251,
+	"brand": "北汽绅宝"
+}, {
+	"modeType": 1,
+	"series": "绅宝X55",
+	"factoryName": "北京汽车",
+	"id": 253,
+	"brand": "北汽绅宝"
+}, {
+	"modeType": 1,
+	"series": "绅宝X65",
+	"factoryName": "北京汽车",
+	"id": 255,
+	"brand": "北汽绅宝"
+}, {
+	"modeType": 1,
+	"series": "绅宝智行",
+	"factoryName": "北京汽车",
+	"id": 7468,
+	"brand": "北汽绅宝"
+}, {
+	"modeType": 1,
+	"series": "华凯皮卡",
+	"factoryName": "明君汽车",
+	"id": 724,
+	"brand": "华凯"
+}, {
+	"modeType": 1,
+	"series": "圣达菲",
+	"factoryName": "华泰汽车",
+	"id": 673,
+	"brand": "华泰"
+}, {
+	"modeType": 1,
+	"series": "圣达菲5",
+	"factoryName": "华泰汽车",
+	"id": 1951,
+	"brand": "华泰"
+}, {
+	"modeType": 1,
+	"series": "圣达菲7",
+	"factoryName": "华泰汽车",
+	"id": 1949,
+	"brand": "华泰"
+}, {
+	"modeType": 1,
+	"series": "圣达菲经典",
+	"factoryName": "华泰汽车",
+	"id": 675,
+	"brand": "华泰"
+}, {
+	"modeType": 1,
+	"series": "宝利格",
+	"factoryName": "华泰汽车",
+	"id": 676,
+	"brand": "华泰"
+}, {
+	"modeType": 1,
+	"series": "路盛E70",
+	"factoryName": "华泰汽车",
+	"id": 677,
+	"brand": "华泰"
+}, {
+	"modeType": 1,
+	"series": "路盛E80",
+	"factoryName": "华泰汽车",
+	"id": 674,
+	"brand": "华泰"
+}, {
+	"modeType": 1,
+	"series": "华泰EV160B",
+	"factoryName": "华泰新能源",
+	"id": 704,
+	"brand": "华泰新能源"
+}, {
+	"modeType": 1,
+	"series": "华泰EV160R",
+	"factoryName": "华泰新能源",
+	"id": 1911,
+	"brand": "华泰新能源"
+}, {
+	"modeType": 1,
+	"series": "华泰iEV230",
+	"factoryName": "华泰新能源",
+	"id": 703,
+	"brand": "华泰新能源"
+}, {
+	"modeType": 1,
+	"series": "华泰XEV260",
+	"factoryName": "华泰新能源",
+	"id": 705,
+	"brand": "华泰新能源"
+}, {
+	"modeType": 1,
+	"series": "华颂7",
+	"factoryName": "华晨华颂",
+	"id": 702,
+	"brand": "华颂"
+}, {
+	"modeType": 1,
+	"series": "华骐300E",
+	"factoryName": "东风悦达起亚",
+	"id": 2009,
+	"brand": "华骐"
+}, {
+	"modeType": 1,
+	"series": "开沃D07",
+	"factoryName": "南京金龙",
+	"id": 2077,
+	"brand": "南京金龙"
+}, {
+	"modeType": 1,
+	"series": "开沃D08",
+	"factoryName": "南京金龙",
+	"id": 2079,
+	"brand": "南京金龙"
+}, {
+	"modeType": 1,
+	"series": "开沃D09",
+	"factoryName": "南京金龙",
+	"id": 2081,
+	"brand": "南京金龙"
+}, {
+	"modeType": 1,
+	"series": "开沃D10",
+	"factoryName": "南京金龙",
+	"id": 2083,
+	"brand": "南京金龙"
+}, {
+	"modeType": 1,
+	"series": "开沃D11",
+	"factoryName": "南京金龙",
+	"id": 1101,
+	"brand": "南京金龙"
+}, {
+	"modeType": 1,
+	"series": "卡升C10",
+	"factoryName": "浙江卡尔森",
+	"id": 907,
+	"brand": "卡升"
+}, {
+	"modeType": 1,
+	"series": "卡升T6",
+	"factoryName": "浙江卡尔森",
+	"id": 905,
+	"brand": "卡升"
+}, {
+	"modeType": 1,
+	"series": "卡升V-Class",
+	"factoryName": "浙江卡尔森",
+	"id": 906,
+	"brand": "卡升"
+}, {
+	"modeType": 1,
+	"series": "卡升威霆",
+	"factoryName": "浙江卡尔森",
+	"id": 904,
+	"brand": "卡升"
+}, {
+	"modeType": 1,
+	"series": "卡威K1",
+	"factoryName": "卡威汽车",
+	"id": 894,
+	"brand": "卡威"
+}, {
+	"modeType": 1,
+	"series": "卡威K150",
+	"factoryName": "卡威汽车",
+	"id": 896,
+	"brand": "卡威"
+}, {
+	"modeType": 1,
+	"series": "卡威K150GT",
+	"factoryName": "卡威汽车",
+	"id": 1999,
+	"brand": "卡威"
+}, {
+	"modeType": 1,
+	"series": "卡威W1",
+	"factoryName": "卡威汽车",
+	"id": 895,
+	"brand": "卡威"
+}, {
+	"modeType": 1,
+	"series": "卡威W1新能源",
+	"factoryName": "卡威汽车",
+	"id": 1535,
+	"brand": "卡威"
+}, {
+	"modeType": 1,
+	"series": "路易斯",
+	"factoryName": "卡威汽车",
+	"id": 2001,
+	"brand": "卡威"
+}, {
+	"modeType": 2,
+	"series": "卡尔森 CCA22",
+	"factoryName": "卡尔森",
+	"id": 6506,
+	"brand": "卡尔森"
+}, {
+	"modeType": 2,
+	"series": "主席",
+	"factoryName": "双龙汽车",
+	"id": 6760,
+	"brand": "双龙"
+}, {
+	"modeType": 2,
+	"series": "享御",
+	"factoryName": "双龙汽车",
+	"id": 6758,
+	"brand": "双龙"
+}, {
+	"modeType": 2,
+	"series": "柯兰多",
+	"factoryName": "双龙汽车",
+	"id": 6750,
+	"brand": "双龙"
+}, {
+	"modeType": 2,
+	"series": "爱腾",
+	"factoryName": "双龙汽车",
+	"id": 6746,
+	"brand": "双龙"
+}, {
+	"modeType": 2,
+	"series": "蒂维拉",
+	"factoryName": "双龙汽车",
+	"id": 6748,
+	"brand": "双龙"
+}, {
+	"modeType": 2,
+	"series": "路帝",
+	"factoryName": "双龙汽车",
+	"id": 6754,
+	"brand": "双龙"
+}, {
+	"modeType": 2,
+	"series": "途凌",
+	"factoryName": "双龙汽车",
+	"id": 6756,
+	"brand": "双龙"
+}, {
+	"modeType": 2,
+	"series": "雷斯特W",
+	"factoryName": "双龙汽车",
+	"id": 6752,
+	"brand": "双龙"
+}, {
+	"modeType": 1,
+	"series": "博瑞",
+	"factoryName": "吉利汽车",
+	"id": 729,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "博越",
+	"factoryName": "吉利汽车",
+	"id": 726,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "吉利EC8",
+	"factoryName": "吉利汽车",
+	"id": 739,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "吉利GC7",
+	"factoryName": "吉利汽车",
+	"id": 744,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "吉利GX7",
+	"factoryName": "吉利汽车",
+	"id": 736,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "吉利SC3",
+	"factoryName": "吉利汽车",
+	"id": 752,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "吉利SX7",
+	"factoryName": "吉利汽车",
+	"id": 748,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "帝豪",
+	"factoryName": "吉利汽车",
+	"id": 728,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "帝豪GL",
+	"factoryName": "吉利汽车",
+	"id": 727,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "帝豪GS",
+	"factoryName": "吉利汽车",
+	"id": 725,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "帝豪新能源",
+	"factoryName": "吉利汽车",
+	"id": 734,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "海景",
+	"factoryName": "吉利汽车",
+	"id": 742,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "熊猫",
+	"factoryName": "吉利汽车",
+	"id": 735,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "经典帝豪",
+	"factoryName": "吉利汽车",
+	"id": 738,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "自由舰",
+	"factoryName": "吉利汽车",
+	"id": 740,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "英伦C5",
+	"factoryName": "吉利汽车",
+	"id": 745,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "豪情SUV",
+	"factoryName": "吉利汽车",
+	"id": 743,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "远景",
+	"factoryName": "吉利汽车",
+	"id": 730,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "远景S1",
+	"factoryName": "吉利汽车",
+	"id": 2063,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "远景SUV",
+	"factoryName": "吉利汽车",
+	"id": 732,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "远景X1",
+	"factoryName": "吉利汽车",
+	"id": 731,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "远景X3",
+	"factoryName": "吉利汽车",
+	"id": 1927,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "金刚",
+	"factoryName": "吉利汽车",
+	"id": 733,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "金刚财富",
+	"factoryName": "吉利汽车",
+	"id": 749,
+	"brand": "吉利汽车"
+}, {
+	"modeType": 1,
+	"series": "名爵3",
+	"factoryName": "上汽集团",
+	"id": 1054,
+	"brand": "名爵"
+}, {
+	"modeType": 1,
+	"series": "名爵3SW",
+	"factoryName": "上汽集团",
+	"id": 1056,
+	"brand": "名爵"
+}, {
+	"modeType": 1,
+	"series": "名爵5",
+	"factoryName": "上汽集团",
+	"id": 1057,
+	"brand": "名爵"
+}, {
+	"modeType": 1,
+	"series": "名爵6",
+	"factoryName": "上汽集团",
+	"id": 1055,
+	"brand": "名爵"
+}, {
+	"modeType": 1,
+	"series": "名爵ZS",
+	"factoryName": "上汽集团",
+	"id": 1051,
+	"brand": "名爵"
+}, {
+	"modeType": 1,
+	"series": "锐腾",
+	"factoryName": "上汽集团",
+	"id": 1052,
+	"brand": "名爵"
+}, {
+	"modeType": 1,
+	"series": "锐行",
+	"factoryName": "上汽集团",
+	"id": 1053,
+	"brand": "名爵"
+}, {
+	"modeType": 1,
+	"series": "启辰D50",
+	"factoryName": "东风启辰",
+	"id": 1181,
+	"brand": "启辰"
+}, {
+	"modeType": 1,
+	"series": "启辰D60",
+	"factoryName": "东风启辰",
+	"id": 1975,
+	"brand": "启辰"
+}, {
+	"modeType": 1,
+	"series": "启辰M50V",
+	"factoryName": "东风启辰",
+	"id": 1178,
+	"brand": "启辰"
+}, {
+	"modeType": 1,
+	"series": "启辰R30",
+	"factoryName": "东风启辰",
+	"id": 1182,
+	"brand": "启辰"
+}, {
+	"modeType": 1,
+	"series": "启辰R50",
+	"factoryName": "东风启辰",
+	"id": 1179,
+	"brand": "启辰"
+}, {
+	"modeType": 1,
+	"series": "启辰R50X",
+	"factoryName": "东风启辰",
+	"id": 1183,
+	"brand": "启辰"
+}, {
+	"modeType": 1,
+	"series": "启辰T70",
+	"factoryName": "东风启辰",
+	"id": 1177,
+	"brand": "启辰"
+}, {
+	"modeType": 1,
+	"series": "启辰T70X",
+	"factoryName": "东风启辰",
+	"id": 1180,
+	"brand": "启辰"
+}, {
+	"modeType": 1,
+	"series": "启辰T90",
+	"factoryName": "东风启辰",
+	"id": 1176,
+	"brand": "启辰"
+}, {
+	"modeType": 1,
+	"series": "晨风",
+	"factoryName": "东风启辰",
+	"id": 1184,
+	"brand": "启辰"
+}, {
+	"modeType": 1,
+	"series": "哈弗F5",
+	"factoryName": "长城汽车",
+	"id": 7538,
+	"brand": "哈弗"
+}, {
+	"modeType": 1,
+	"series": "哈弗F7",
+	"factoryName": "长城汽车",
+	"id": 7540,
+	"brand": "哈弗"
+}, {
+	"modeType": 1,
+	"series": "哈弗H1",
+	"factoryName": "长城汽车",
+	"id": 641,
+	"brand": "哈弗"
+}, {
+	"modeType": 1,
+	"series": "哈弗H2",
+	"factoryName": "长城汽车",
+	"id": 635,
+	"brand": "哈弗"
+}, {
+	"modeType": 1,
+	"series": "哈弗H2s",
+	"factoryName": "长城汽车",
+	"id": 637,
+	"brand": "哈弗"
+}, {
+	"modeType": 1,
+	"series": "哈弗H4",
+	"factoryName": "长城汽车",
+	"id": 7536,
+	"brand": "哈弗"
+}, {
+	"modeType": 1,
+	"series": "哈弗H5",
+	"factoryName": "长城汽车",
+	"id": 642,
+	"brand": "哈弗"
+}, {
+	"modeType": 1,
+	"series": "哈弗H6",
+	"factoryName": "长城汽车",
+	"id": 634,
+	"brand": "哈弗"
+}, {
+	"modeType": 1,
+	"series": "哈弗H6 Coupe",
+	"factoryName": "长城汽车",
+	"id": 639,
+	"brand": "哈弗"
+}, {
+	"modeType": 1,
+	"series": "哈弗H7",
+	"factoryName": "长城汽车",
+	"id": 638,
+	"brand": "哈弗"
+}, {
+	"modeType": 1,
+	"series": "哈弗H8",
+	"factoryName": "长城汽车",
+	"id": 640,
+	"brand": "哈弗"
+}, {
+	"modeType": 1,
+	"series": "哈弗H9",
+	"factoryName": "长城汽车",
+	"id": 636,
+	"brand": "哈弗"
+}, {
+	"modeType": 1,
+	"series": "哈弗M6",
+	"factoryName": "长城汽车",
+	"id": 1895,
+	"brand": "哈弗"
+}, {
+	"modeType": 1,
+	"series": "中意V5",
+	"factoryName": "哈飞汽车",
+	"id": 695,
+	"brand": "哈飞"
+}, {
+	"modeType": 1,
+	"series": "哈飞小霸王",
+	"factoryName": "哈飞汽车",
+	"id": 1823,
+	"brand": "哈飞"
+}, {
+	"modeType": 1,
+	"series": "民意",
+	"factoryName": "哈飞汽车",
+	"id": 1827,
+	"brand": "哈飞"
+}, {
+	"modeType": 1,
+	"series": "骏意",
+	"factoryName": "哈飞汽车",
+	"id": 1825,
+	"brand": "哈飞"
+}, {
+	"modeType": 1,
+	"series": "国金GM3",
+	"factoryName": "陕西通家",
+	"id": 2091,
+	"brand": "国金汽车"
+}, {
+	"modeType": 1,
+	"series": "C-TREK蔚领",
+	"factoryName": "一汽-大众",
+	"id": 395,
+	"brand": "大众"
+}, {
+	"modeType": 1,
+	"series": "一汽-大众CC",
+	"factoryName": "一汽-大众",
+	"id": 396,
+	"brand": "大众"
+}, {
+	"modeType": 1,
+	"series": "宝来",
+	"factoryName": "一汽-大众",
+	"id": 394,
+	"brand": "大众"
+}, {
+	"modeType": 1,
+	"series": "捷达",
+	"factoryName": "一汽-大众",
+	"id": 392,
+	"brand": "大众"
+}, {
+	"modeType": 1,
+	"series": "迈腾",
+	"factoryName": "一汽-大众",
+	"id": 391,
+	"brand": "大众"
+}, {
+	"modeType": 1,
+	"series": "速腾",
+	"factoryName": "一汽-大众",
+	"id": 390,
+	"brand": "大众"
+}, {
+	"modeType": 1,
+	"series": "高尔夫",
+	"factoryName": "一汽-大众",
+	"id": 393,
+	"brand": "大众"
+}, {
+	"modeType": 1,
+	"series": "高尔夫·嘉旅",
+	"factoryName": "一汽-大众",
+	"id": 397,
+	"brand": "大众"
+}, {
+	"modeType": 1,
+	"series": "Polo",
+	"factoryName": "上汽大众",
+	"id": 383,
+	"brand": "大众"
+}, {
+	"modeType": 1,
+	"series": "凌渡",
+	"factoryName": "上汽大众",
+	"id": 382,
+	"brand": "大众"
+}, {
+	"modeType": 1,
+	"series": "帕萨特",
+	"factoryName": "上汽大众",
+	"id": 379,
+	"brand": "大众"
+}, {
+	"modeType": 1,
+	"series": "朗境",
+	"factoryName": "上汽大众",
+	"id": 389,
+	"brand": "大众"
+}, {
+	"modeType": 1,
+	"series": "朗行",
+	"factoryName": "上汽大众",
+	"id": 386,
+	"brand": "大众"
+}, {
+	"modeType": 1,
+	"series": "朗逸",
+	"factoryName": "上汽大众",
+	"id": 378,
+	"brand": "大众"
+}, {
+	"modeType": 1,
+	"series": "桑塔纳",
+	"factoryName": "上汽大众",
+	"id": 384,
+	"brand": "大众"
+}, {
+	"modeType": 1,
+	"series": "辉昂",
+	"factoryName": "上汽大众",
+	"id": 387,
+	"brand": "大众"
+}, {
+	"modeType": 1,
+	"series": "途安",
+	"factoryName": "上汽大众",
+	"id": 388,
+	"brand": "大众"
+}, {
+	"modeType": 1,
+	"series": "途昂",
+	"factoryName": "上汽大众",
+	"id": 381,
+	"brand": "大众"
+}, {
+	"modeType": 1,
+	"series": "途观",
+	"factoryName": "上汽大众",
+	"id": 385,
+	"brand": "大众"
+}, {
+	"modeType": 1,
+	"series": "途观L",
+	"factoryName": "上汽大众",
+	"id": 380,
+	"brand": "大众"
+}, {
+	"modeType": 4,
+	"series": "凯路威",
+	"factoryName": "大众(平行进口)",
+	"id": 6928,
+	"brand": "大众"
+}, {
+	"modeType": 12,
+	"series": "帕萨特",
+	"factoryName": "大众(平行进口)",
+	"id": 7400,
+	"brand": "大众"
+}, {
+	"modeType": 12,
+	"series": "途观",
+	"factoryName": "大众(平行进口)",
+	"id": 7402,
+	"brand": "大众"
+}, {
+	"modeType": 2,
+	"series": "Tiguan",
+	"factoryName": "大众(进口)",
+	"id": 6378,
+	"brand": "大众"
+}, {
+	"modeType": 2,
+	"series": "凯路威",
+	"factoryName": "大众(进口)",
+	"id": 6390,
+	"brand": "大众"
+}, {
+	"modeType": 2,
+	"series": "夏朗",
+	"factoryName": "大众(进口)",
+	"id": 6400,
+	"brand": "大众"
+}, {
+	"modeType": 2,
+	"series": "大众CC(进口)",
+	"factoryName": "大众(进口)",
+	"id": 6380,
+	"brand": "大众"
+}, {
+	"modeType": 2,
+	"series": "大众up!",
+	"factoryName": "大众(进口)",
+	"id": 6382,
+	"brand": "大众"
+}, {
+	"modeType": 2,
+	"series": "尚酷",
+	"factoryName": "大众(进口)",
+	"id": 6394,
+	"brand": "大众"
+}, {
+	"modeType": 2,
+	"series": "甲壳虫",
+	"factoryName": "大众(进口)",
+	"id": 6388,
+	"brand": "大众"
+}, {
+	"modeType": 2,
+	"series": "蔚揽",
+	"factoryName": "大众(进口)",
+	"id": 6398,
+	"brand": "大众"
+}, {
+	"modeType": 2,
+	"series": "辉腾",
+	"factoryName": "大众(进口)",
+	"id": 6386,
+	"brand": "大众"
+}, {
+	"modeType": 2,
+	"series": "迈特威",
+	"factoryName": "大众(进口)",
+	"id": 6392,
+	"brand": "大众"
+}, {
+	"modeType": 2,
+	"series": "途锐",
+	"factoryName": "大众(进口)",
+	"id": 6396,
+	"brand": "大众"
+}, {
+	"modeType": 2,
+	"series": "高尔夫(进口)",
+	"factoryName": "大众(进口)",
+	"id": 6384,
+	"brand": "大众"
+}, {
+	"modeType": 1,
+	"series": "奇瑞eQ",
+	"factoryName": "奇瑞新能源",
+	"id": 1132,
+	"brand": "奇瑞"
+}, {
+	"modeType": 1,
+	"series": "奇瑞eQ1",
+	"factoryName": "奇瑞新能源",
+	"id": 1130,
+	"brand": "奇瑞"
+}, {
+	"modeType": 1,
+	"series": "奇瑞QQ3EV",
+	"factoryName": "奇瑞新能源",
+	"id": 1131,
+	"brand": "奇瑞"
+}, {
+	"modeType": 1,
+	"series": "艾瑞泽5e",
+	"factoryName": "奇瑞新能源",
+	"id": 1957,
+	"brand": "奇瑞"
+}, {
+	"modeType": 1,
+	"series": "奇瑞E3",
+	"factoryName": "奇瑞汽车",
+	"id": 1124,
+	"brand": "奇瑞"
+}, {
+	"modeType": 1,
+	"series": "奇瑞E5",
+	"factoryName": "奇瑞汽车",
+	"id": 1129,
+	"brand": "奇瑞"
+}, {
+	"modeType": 1,
+	"series": "奇瑞QQ",
+	"factoryName": "奇瑞汽车",
+	"id": 1123,
+	"brand": "奇瑞"
+}, {
+	"modeType": 1,
+	"series": "爱卡",
+	"factoryName": "奇瑞汽车",
+	"id": 1128,
+	"brand": "奇瑞"
+}, {
+	"modeType": 1,
+	"series": "瑞虎",
+	"factoryName": "奇瑞汽车",
+	"id": 1135,
+	"brand": "奇瑞"
+}, {
+	"modeType": 1,
+	"series": "瑞虎3",
+	"factoryName": "奇瑞汽车",
+	"id": 1120,
+	"brand": "奇瑞"
+}, {
+	"modeType": 1,
+	"series": "瑞虎3x",
+	"factoryName": "奇瑞汽车",
+	"id": 1118,
+	"brand": "奇瑞"
+}, {
+	"modeType": 1,
+	"series": "瑞虎5",
+	"factoryName": "奇瑞汽车",
+	"id": 1119,
+	"brand": "奇瑞"
+}, {
+	"modeType": 1,
+	"series": "瑞虎5x",
+	"factoryName": "奇瑞汽车",
+	"id": 1997,
+	"brand": "奇瑞"
+}, {
+	"modeType": 1,
+	"series": "瑞虎7",
+	"factoryName": "奇瑞汽车",
+	"id": 1117,
+	"brand": "奇瑞"
+}, {
+	"modeType": 1,
+	"series": "艾瑞泽3",
+	"factoryName": "奇瑞汽车",
+	"id": 1126,
+	"brand": "奇瑞"
+}, {
+	"modeType": 1,
+	"series": "艾瑞泽5",
+	"factoryName": "奇瑞汽车",
+	"id": 1116,
+	"brand": "奇瑞"
+}, {
+	"modeType": 1,
+	"series": "艾瑞泽7",
+	"factoryName": "奇瑞汽车",
+	"id": 1121,
+	"brand": "奇瑞"
+}, {
+	"modeType": 1,
+	"series": "艾瑞泽7e",
+	"factoryName": "奇瑞汽车",
+	"id": 1127,
+	"brand": "奇瑞"
+}, {
+	"modeType": 1,
+	"series": "艾瑞泽M7",
+	"factoryName": "奇瑞汽车",
+	"id": 1125,
+	"brand": "奇瑞"
+}, {
+	"modeType": 1,
+	"series": "风云2",
+	"factoryName": "奇瑞汽车",
+	"id": 1122,
+	"brand": "奇瑞"
+}, {
+	"modeType": 1,
+	"series": "奔腾B30",
+	"factoryName": "一汽奔腾",
+	"id": 239,
+	"brand": "奔腾"
+}, {
+	"modeType": 1,
+	"series": "奔腾B30EV",
+	"factoryName": "一汽奔腾",
+	"id": 7460,
+	"brand": "奔腾"
+}, {
+	"modeType": 1,
+	"series": "奔腾B50",
+	"factoryName": "一汽奔腾",
+	"id": 238,
+	"brand": "奔腾"
+}, {
+	"modeType": 1,
+	"series": "奔腾B70",
+	"factoryName": "一汽奔腾",
+	"id": 240,
+	"brand": "奔腾"
+}, {
+	"modeType": 1,
+	"series": "奔腾B90",
+	"factoryName": "一汽奔腾",
+	"id": 241,
+	"brand": "奔腾"
+}, {
+	"modeType": 1,
+	"series": "奔腾X40",
+	"factoryName": "一汽奔腾",
+	"id": 236,
+	"brand": "奔腾"
+}, {
+	"modeType": 1,
+	"series": "奔腾X40新能源",
+	"factoryName": "一汽奔腾",
+	"id": 7462,
+	"brand": "奔腾"
+}, {
+	"modeType": 1,
+	"series": "奔腾X80",
+	"factoryName": "一汽奔腾",
+	"id": 237,
+	"brand": "奔腾"
+}, {
+	"modeType": 1,
+	"series": "奔驰C级",
+	"factoryName": "北京奔驰",
+	"id": 82,
+	"brand": "奔驰"
+}, {
+	"modeType": 1,
+	"series": "奔驰C级新能源",
+	"factoryName": "北京奔驰",
+	"id": 119,
+	"brand": "奔驰"
+}, {
+	"modeType": 1,
+	"series": "奔驰E级",
+	"factoryName": "北京奔驰",
+	"id": 84,
+	"brand": "奔驰"
+}, {
+	"modeType": 1,
+	"series": "奔驰GLA",
+	"factoryName": "北京奔驰",
+	"id": 83,
+	"brand": "奔驰"
+}, {
+	"modeType": 1,
+	"series": "奔驰GLC",
+	"factoryName": "北京奔驰",
+	"id": 85,
+	"brand": "奔驰"
+}, {
+	"modeType": 1,
+	"series": "奔驰GLK级",
+	"factoryName": "北京奔驰",
+	"id": 118,
+	"brand": "奔驰"
+}, {
+	"modeType": 4,
+	"series": "乌尼莫克U系列",
+	"factoryName": "奔驰(平行进口)",
+	"id": 6914,
+	"brand": "奔驰"
+}, {
+	"modeType": 4,
+	"series": "唯雅诺-克拉森",
+	"factoryName": "奔驰(平行进口)",
+	"id": 6912,
+	"brand": "奔驰"
+}, {
+	"modeType": 8,
+	"series": "奔驰CLA250",
+	"factoryName": "奔驰(平行进口)",
+	"id": 7136,
+	"brand": "奔驰"
+}, {
+	"modeType": 8,
+	"series": "奔驰GL350",
+	"factoryName": "奔驰(平行进口)",
+	"id": 7138,
+	"brand": "奔驰"
+}, {
+	"modeType": 4,
+	"series": "奔驰GL450",
+	"factoryName": "奔驰(平行进口)",
+	"id": 6888,
+	"brand": "奔驰"
+}, {
+	"modeType": 4,
+	"series": "奔驰GL550",
+	"factoryName": "奔驰(平行进口)",
+	"id": 6890,
+	"brand": "奔驰"
+}, {
+	"modeType": 8,
+	"series": "奔驰GLC300",
+	"factoryName": "奔驰(平行进口)",
+	"id": 7142,
+	"brand": "奔驰"
+}, {
+	"modeType": 6,
+	"series": "奔驰GLE400",
+	"factoryName": "奔驰(平行进口)",
+	"id": 7038,
+	"brand": "奔驰"
+}, {
+	"modeType": 4,
+	"series": "奔驰GLE43",
+	"factoryName": "奔驰(平行进口)",
+	"id": 6892,
+	"brand": "奔驰"
+}, {
+	"modeType": 12,
+	"series": "奔驰GLE500e",
+	"factoryName": "奔驰(平行进口)",
+	"id": 7374,
+	"brand": "奔驰"
+}, {
+	"modeType": 4,
+	"series": "奔驰GLE550e",
+	"factoryName": "奔驰(平行进口)",
+	"id": 6894,
+	"brand": "奔驰"
+}, {
+	"modeType": 10,
+	"series": "奔驰GLS400",
+	"factoryName": "奔驰(平行进口)",
+	"id": 7262,
+	"brand": "奔驰"
+}, {
+	"modeType": 4,
+	"series": "奔驰GLS450",
+	"factoryName": "奔驰(平行进口)",
+	"id": 6896,
+	"brand": "奔驰"
+}, {
+	"modeType": 6,
+	"series": "奔驰GLS500",
+	"factoryName": "奔驰(平行进口)",
+	"id": 7040,
+	"brand": "奔驰"
+}, {
+	"modeType": 8,
+	"series": "奔驰GLS550",
+	"factoryName": "奔驰(平行进口)",
+	"id": 7152,
+	"brand": "奔驰"
+}, {
+	"modeType": 8,
+	"series": "奔驰GLS63",
+	"factoryName": "奔驰(平行进口)",
+	"id": 7154,
+	"brand": "奔驰"
+}, {
+	"modeType": 4,
+	"series": "奔驰G级",
+	"factoryName": "奔驰(平行进口)",
+	"id": 6898,
+	"brand": "奔驰"
+}, {
+	"modeType": 4,
+	"series": "奔驰G级4x4²",
+	"factoryName": "奔驰(平行进口)",
+	"id": 6900,
+	"brand": "奔驰"
+}, {
+	"modeType": 4,
+	"series": "奔驰Metris",
+	"factoryName": "奔驰(平行进口)",
+	"id": 6902,
+	"brand": "奔驰"
+}, {
+	"modeType": 4,
+	"series": "奔驰S级",
+	"factoryName": "奔驰(平行进口)",
+	"id": 6904,
+	"brand": "奔驰"
+}, {
+	"modeType": 6,
+	"series": "奔驰V级",
+	"factoryName": "奔驰(平行进口)",
+	"id": 7046,
+	"brand": "奔驰"
+}, {
+	"modeType": 10,
+	"series": "奔驰X级",
+	"factoryName": "奔驰(平行进口)",
+	"id": 7270,
+	"brand": "奔驰"
+}, {
+	"modeType": 4,
+	"series": "威霆",
+	"factoryName": "奔驰(平行进口)",
+	"id": 6910,
+	"brand": "奔驰"
+}, {
+	"modeType": 4,
+	"series": "斯宾特",
+	"factoryName": "奔驰(平行进口)",
+	"id": 6908,
+	"brand": "奔驰"
+}, {
+	"modeType": 10,
+	"series": "迈巴赫G级",
+	"factoryName": "奔驰(平行进口)",
+	"id": 7272,
+	"brand": "奔驰"
+}, {
+	"modeType": 4,
+	"series": "迈巴赫S级",
+	"factoryName": "奔驰(平行进口)",
+	"id": 6906,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰A级",
+	"factoryName": "奔驰(进口)",
+	"id": 6204,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰B级",
+	"factoryName": "奔驰(进口)",
+	"id": 6206,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰CLA级",
+	"factoryName": "奔驰(进口)",
+	"id": 6208,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰CLS",
+	"factoryName": "奔驰(进口)",
+	"id": 6210,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰C级(进口)",
+	"factoryName": "奔驰(进口)",
+	"id": 6212,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰E级(进口)",
+	"factoryName": "奔驰(进口)",
+	"id": 6214,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰GLC(进口)",
+	"factoryName": "奔驰(进口)",
+	"id": 6216,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰GLE",
+	"factoryName": "奔驰(进口)",
+	"id": 6218,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰GLE新能源",
+	"factoryName": "奔驰(进口)",
+	"id": 6220,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰GLS",
+	"factoryName": "奔驰(进口)",
+	"id": 6222,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰G级",
+	"factoryName": "奔驰(进口)",
+	"id": 6224,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰M级",
+	"factoryName": "奔驰(进口)",
+	"id": 6226,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰R级",
+	"factoryName": "奔驰(进口)",
+	"id": 6228,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰SLC",
+	"factoryName": "奔驰(进口)",
+	"id": 6230,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰SLK",
+	"factoryName": "奔驰(进口)",
+	"id": 6232,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰SL级",
+	"factoryName": "奔驰(进口)",
+	"id": 6234,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰S级",
+	"factoryName": "奔驰(进口)",
+	"id": 6236,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰V级(进口)",
+	"factoryName": "奔驰(进口)",
+	"id": 6238,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "斯宾特",
+	"factoryName": "奔驰(进口)",
+	"id": 6240,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰AMG GT",
+	"factoryName": "奔驰-AMG",
+	"id": 6242,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰A级AMG",
+	"factoryName": "奔驰-AMG",
+	"id": 6244,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰CLA级AMG",
+	"factoryName": "奔驰-AMG",
+	"id": 6246,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰CLS AMG",
+	"factoryName": "奔驰-AMG",
+	"id": 6248,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰C级AMG",
+	"factoryName": "奔驰-AMG",
+	"id": 6250,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰E级AMG",
+	"factoryName": "奔驰-AMG",
+	"id": 6252,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰GLA AMG",
+	"factoryName": "奔驰-AMG",
+	"id": 6254,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰GLC AMG",
+	"factoryName": "奔驰-AMG",
+	"id": 6256,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰GLE级AMG",
+	"factoryName": "奔驰-AMG",
+	"id": 6258,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰GLS AMG",
+	"factoryName": "奔驰-AMG",
+	"id": 6260,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰GL级AMG",
+	"factoryName": "奔驰-AMG",
+	"id": 6262,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰G级AMG",
+	"factoryName": "奔驰-AMG",
+	"id": 6264,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰SL级AMG",
+	"factoryName": "奔驰-AMG",
+	"id": 6266,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "奔驰S级AMG",
+	"factoryName": "奔驰-AMG",
+	"id": 6268,
+	"brand": "奔驰"
+}, {
+	"modeType": 2,
+	"series": "迈巴赫S级",
+	"factoryName": "奔驰-迈巴赫",
+	"id": 6270,
+	"brand": "奔驰"
+}, {
+	"modeType": 1,
+	"series": "凌特",
+	"factoryName": "福建奔驰",
+	"id": 88,
+	"brand": "奔驰"
+}, {
+	"modeType": 1,
+	"series": "唯雅诺",
+	"factoryName": "福建奔驰",
+	"id": 120,
+	"brand": "奔驰"
+}, {
+	"modeType": 1,
+	"series": "奔驰V级",
+	"factoryName": "福建奔驰",
+	"id": 86,
+	"brand": "奔驰"
+}, {
+	"modeType": 1,
+	"series": "威霆",
+	"factoryName": "福建奔驰",
+	"id": 87,
+	"brand": "奔驰"
+}, {
+	"modeType": 1,
+	"series": "奥迪A3",
+	"factoryName": "一汽-大众奥迪",
+	"id": 3,
+	"brand": "奥迪"
+}, {
+	"modeType": 1,
+	"series": "奥迪A4L",
+	"factoryName": "一汽-大众奥迪",
+	"id": 1,
+	"brand": "奥迪"
+}, {
+	"modeType": 1,
+	"series": "奥迪A6L",
+	"factoryName": "一汽-大众奥迪",
+	"id": 2,
+	"brand": "奥迪"
+}, {
+	"modeType": 1,
+	"series": "奥迪A6L新能源",
+	"factoryName": "一汽-大众奥迪",
+	"id": 1943,
+	"brand": "奥迪"
+}, {
+	"modeType": 1,
+	"series": "奥迪Q2L",
+	"factoryName": "一汽-大众奥迪",
+	"id": 7440,
+	"brand": "奥迪"
+}, {
+	"modeType": 1,
+	"series": "奥迪Q3",
+	"factoryName": "一汽-大众奥迪",
+	"id": 5,
+	"brand": "奥迪"
+}, {
+	"modeType": 1,
+	"series": "奥迪Q5",
+	"factoryName": "一汽-大众奥迪",
+	"id": 4,
+	"brand": "奥迪"
+}, {
+	"modeType": 1,
+	"series": "奥迪Q5L",
+	"factoryName": "一汽-大众奥迪",
+	"id": 7438,
+	"brand": "奥迪"
+}, {
+	"modeType": 8,
+	"series": "奥迪Q5",
+	"factoryName": "奥迪(平行进口)",
+	"id": 7132,
+	"brand": "奥迪"
+}, {
+	"modeType": 8,
+	"series": "奥迪Q7",
+	"factoryName": "奥迪(平行进口)",
+	"id": 7134,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪A1",
+	"factoryName": "奥迪(进口)",
+	"id": 6124,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪A3(进口)",
+	"factoryName": "奥迪(进口)",
+	"id": 6126,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪A4(进口)",
+	"factoryName": "奥迪(进口)",
+	"id": 6128,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪A5",
+	"factoryName": "奥迪(进口)",
+	"id": 6130,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪A6(进口)",
+	"factoryName": "奥迪(进口)",
+	"id": 6132,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪A7",
+	"factoryName": "奥迪(进口)",
+	"id": 6134,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪A8",
+	"factoryName": "奥迪(进口)",
+	"id": 6136,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪Q3(进口)",
+	"factoryName": "奥迪(进口)",
+	"id": 6138,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪Q5(进口)",
+	"factoryName": "奥迪(进口)",
+	"id": 6140,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪Q7",
+	"factoryName": "奥迪(进口)",
+	"id": 6142,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪R8",
+	"factoryName": "奥迪(进口)",
+	"id": 6144,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪S3",
+	"factoryName": "奥迪(进口)",
+	"id": 6146,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪S4",
+	"factoryName": "奥迪(进口)",
+	"id": 6148,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪S5",
+	"factoryName": "奥迪(进口)",
+	"id": 6150,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪S6",
+	"factoryName": "奥迪(进口)",
+	"id": 6152,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪S7",
+	"factoryName": "奥迪(进口)",
+	"id": 6154,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪S8",
+	"factoryName": "奥迪(进口)",
+	"id": 6156,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪SQ5",
+	"factoryName": "奥迪(进口)",
+	"id": 6158,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪TT",
+	"factoryName": "奥迪(进口)",
+	"id": 6160,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪TTS",
+	"factoryName": "奥迪(进口)",
+	"id": 6162,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪RS 3",
+	"factoryName": "奥迪RS",
+	"id": 6164,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪RS 5",
+	"factoryName": "奥迪RS",
+	"id": 6166,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪RS 6",
+	"factoryName": "奥迪RS",
+	"id": 6168,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪RS 7",
+	"factoryName": "奥迪RS",
+	"id": 6170,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "奥迪TT RS",
+	"factoryName": "奥迪RS",
+	"id": 6172,
+	"brand": "奥迪"
+}, {
+	"modeType": 2,
+	"series": "如虎 CTR3",
+	"factoryName": "如虎",
+	"id": 6718,
+	"brand": "如虎"
+}, {
+	"modeType": 2,
+	"series": "如虎 XL",
+	"factoryName": "如虎",
+	"id": 6720,
+	"brand": "如虎"
+}, {
+	"modeType": 2,
+	"series": "威兹曼GT",
+	"factoryName": "威兹曼",
+	"id": 6806,
+	"brand": "威兹曼"
+}, {
+	"modeType": 1,
+	"series": "宇通T7",
+	"factoryName": "宇通客车",
+	"id": 1539,
+	"brand": "宇通客车"
+}, {
+	"modeType": 1,
+	"series": "宝沃BX5",
+	"factoryName": "宝沃汽车",
+	"id": 246,
+	"brand": "宝沃"
+}, {
+	"modeType": 1,
+	"series": "宝沃BX6",
+	"factoryName": "宝沃汽车",
+	"id": 7464,
+	"brand": "宝沃"
+}, {
+	"modeType": 1,
+	"series": "宝沃BX7",
+	"factoryName": "宝沃汽车",
+	"id": 247,
+	"brand": "宝沃"
+}, {
+	"modeType": 1,
+	"series": "宝沃BXi7",
+	"factoryName": "宝沃汽车",
+	"id": 7466,
+	"brand": "宝沃"
+}, {
+	"modeType": 1,
+	"series": "T-ROC探歌",
+	"factoryName": "一汽-大众",
+	"id": 7448,
+	"brand": "宝马"
+}, {
+	"modeType": 1,
+	"series": "途观L新能源",
+	"factoryName": "上汽大众",
+	"id": 7446,
+	"brand": "宝马"
+}, {
+	"modeType": 1,
+	"series": "宝马1系",
+	"factoryName": "华晨宝马",
+	"id": 134,
+	"brand": "宝马"
+}, {
+	"modeType": 1,
+	"series": "宝马2系旅行车",
+	"factoryName": "华晨宝马",
+	"id": 135,
+	"brand": "宝马"
+}, {
+	"modeType": 1,
+	"series": "宝马3系",
+	"factoryName": "华晨宝马",
+	"id": 131,
+	"brand": "宝马"
+}, {
+	"modeType": 1,
+	"series": "宝马5系",
+	"factoryName": "华晨宝马",
+	"id": 132,
+	"brand": "宝马"
+}, {
+	"modeType": 1,
+	"series": "宝马5系新能源",
+	"factoryName": "华晨宝马",
+	"id": 136,
+	"brand": "宝马"
+}, {
+	"modeType": 1,
+	"series": "宝马X1",
+	"factoryName": "华晨宝马",
+	"id": 133,
+	"brand": "宝马"
+}, {
+	"modeType": 1,
+	"series": "宝马X1新能源",
+	"factoryName": "华晨宝马",
+	"id": 137,
+	"brand": "宝马"
+}, {
+	"modeType": 1,
+	"series": "宝马X3",
+	"factoryName": "华晨宝马",
+	"id": 2094,
+	"brand": "宝马"
+}, {
+	"modeType": 10,
+	"series": "宝马5系",
+	"factoryName": "宝马(平行进口)",
+	"id": 7276,
+	"brand": "宝马"
+}, {
+	"modeType": 6,
+	"series": "宝马7系",
+	"factoryName": "宝马(平行进口)",
+	"id": 7050,
+	"brand": "宝马"
+}, {
+	"modeType": 10,
+	"series": "宝马i8",
+	"factoryName": "宝马(平行进口)",
+	"id": 7278,
+	"brand": "宝马"
+}, {
+	"modeType": 6,
+	"series": "宝马X3",
+	"factoryName": "宝马(平行进口)",
+	"id": 7052,
+	"brand": "宝马"
+}, {
+	"modeType": 6,
+	"series": "宝马X4",
+	"factoryName": "宝马(平行进口)",
+	"id": 7054,
+	"brand": "宝马"
+}, {
+	"modeType": 4,
+	"series": "宝马X5",
+	"factoryName": "宝马(平行进口)",
+	"id": 6916,
+	"brand": "宝马"
+}, {
+	"modeType": 6,
+	"series": "宝马X6",
+	"factoryName": "宝马(平行进口)",
+	"id": 7058,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马1系",
+	"factoryName": "宝马(进口)",
+	"id": 6272,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马2系",
+	"factoryName": "宝马(进口)",
+	"id": 6274,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马2系多功能旅行车",
+	"factoryName": "宝马(进口)",
+	"id": 6276,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马3系(进口)",
+	"factoryName": "宝马(进口)",
+	"id": 6278,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马3系GT",
+	"factoryName": "宝马(进口)",
+	"id": 6280,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马4系",
+	"factoryName": "宝马(进口)",
+	"id": 6282,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马5系(进口)",
+	"factoryName": "宝马(进口)",
+	"id": 6284,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马5系GT",
+	"factoryName": "宝马(进口)",
+	"id": 6286,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马6系",
+	"factoryName": "宝马(进口)",
+	"id": 6288,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马6系GT",
+	"factoryName": "宝马(进口)",
+	"id": 6290,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马7系",
+	"factoryName": "宝马(进口)",
+	"id": 6292,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马7系新能源",
+	"factoryName": "宝马(进口)",
+	"id": 6294,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马i3",
+	"factoryName": "宝马(进口)",
+	"id": 6296,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马i8",
+	"factoryName": "宝马(进口)",
+	"id": 6298,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马X2",
+	"factoryName": "宝马(进口)",
+	"id": 6300,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马X3(进口)",
+	"factoryName": "宝马(进口)",
+	"id": 6302,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马X4",
+	"factoryName": "宝马(进口)",
+	"id": 6304,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马X5",
+	"factoryName": "宝马(进口)",
+	"id": 6306,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马X5新能源",
+	"factoryName": "宝马(进口)",
+	"id": 6308,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马X6",
+	"factoryName": "宝马(进口)",
+	"id": 6310,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马Z4",
+	"factoryName": "宝马(进口)",
+	"id": 6312,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马M2",
+	"factoryName": "宝马M",
+	"id": 6314,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马M3",
+	"factoryName": "宝马M",
+	"id": 6316,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马M4",
+	"factoryName": "宝马M",
+	"id": 6318,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马M5",
+	"factoryName": "宝马M",
+	"id": 6320,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马M6",
+	"factoryName": "宝马M",
+	"id": 6322,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马X5 M",
+	"factoryName": "宝马M",
+	"id": 6324,
+	"brand": "宝马"
+}, {
+	"modeType": 2,
+	"series": "宝马X6 M",
+	"factoryName": "宝马M",
+	"id": 6326,
+	"brand": "宝马"
+}, {
+	"modeType": 1,
+	"series": "乐驰",
+	"factoryName": "上汽通用五菱",
+	"id": 1787,
+	"brand": "宝骏"
+}, {
+	"modeType": 1,
+	"series": "宝骏310",
+	"factoryName": "上汽通用五菱",
+	"id": 168,
+	"brand": "宝骏"
+}, {
+	"modeType": 1,
+	"series": "宝骏310W",
+	"factoryName": "上汽通用五菱",
+	"id": 169,
+	"brand": "宝骏"
+}, {
+	"modeType": 1,
+	"series": "宝骏330",
+	"factoryName": "上汽通用五菱",
+	"id": 173,
+	"brand": "宝骏"
+}, {
+	"modeType": 1,
+	"series": "宝骏360",
+	"factoryName": "上汽通用五菱",
+	"id": 2098,
+	"brand": "宝骏"
+}, {
+	"modeType": 1,
+	"series": "宝骏510",
+	"factoryName": "上汽通用五菱",
+	"id": 165,
+	"brand": "宝骏"
+}, {
+	"modeType": 1,
+	"series": "宝骏530",
+	"factoryName": "上汽通用五菱",
+	"id": 2096,
+	"brand": "宝骏"
+}, {
+	"modeType": 1,
+	"series": "宝骏560",
+	"factoryName": "上汽通用五菱",
+	"id": 167,
+	"brand": "宝骏"
+}, {
+	"modeType": 1,
+	"series": "宝骏610",
+	"factoryName": "上汽通用五菱",
+	"id": 171,
+	"brand": "宝骏"
+}, {
+	"modeType": 1,
+	"series": "宝骏630",
+	"factoryName": "上汽通用五菱",
+	"id": 170,
+	"brand": "宝骏"
+}, {
+	"modeType": 1,
+	"series": "宝骏730",
+	"factoryName": "上汽通用五菱",
+	"id": 166,
+	"brand": "宝骏"
+}, {
+	"modeType": 1,
+	"series": "宝骏E100",
+	"factoryName": "上汽通用五菱",
+	"id": 1785,
+	"brand": "宝骏"
+}, {
+	"modeType": 1,
+	"series": "宝骏E200",
+	"factoryName": "上汽通用五菱",
+	"id": 7450,
+	"brand": "宝骏"
+}, {
+	"modeType": 10,
+	"series": "宾仕盾",
+	"factoryName": "宾士盾",
+	"id": 7358,
+	"brand": "宾仕盾"
+}, {
+	"modeType": 2,
+	"series": "慕尚",
+	"factoryName": "宾利",
+	"id": 6354,
+	"brand": "宾利"
+}, {
+	"modeType": 2,
+	"series": "欧陆",
+	"factoryName": "宾利",
+	"id": 6356,
+	"brand": "宾利"
+}, {
+	"modeType": 2,
+	"series": "添越",
+	"factoryName": "宾利",
+	"id": 6358,
+	"brand": "宾利"
+}, {
+	"modeType": 2,
+	"series": "飞驰",
+	"factoryName": "宾利",
+	"id": 6352,
+	"brand": "宾利"
+}, {
+	"modeType": 10,
+	"series": "慕尚",
+	"factoryName": "宾利(平行进口)",
+	"id": 7290,
+	"brand": "宾利"
+}, {
+	"modeType": 10,
+	"series": "欧陆",
+	"factoryName": "宾利(平行进口)",
+	"id": 7292,
+	"brand": "宾利"
+}, {
+	"modeType": 4,
+	"series": "添越",
+	"factoryName": "宾利(平行进口)",
+	"id": 6926,
+	"brand": "宾利"
+}, {
+	"modeType": 4,
+	"series": "飞驰",
+	"factoryName": "宾利(平行进口)",
+	"id": 6924,
+	"brand": "宾利"
+}, {
+	"modeType": 2,
+	"series": "巴博斯 CLS",
+	"factoryName": "巴博斯",
+	"id": 6360,
+	"brand": "巴博斯"
+}, {
+	"modeType": 2,
+	"series": "巴博斯 GLE",
+	"factoryName": "巴博斯",
+	"id": 6362,
+	"brand": "巴博斯"
+}, {
+	"modeType": 2,
+	"series": "巴博斯 GL级",
+	"factoryName": "巴博斯",
+	"id": 6364,
+	"brand": "巴博斯"
+}, {
+	"modeType": 2,
+	"series": "巴博斯 G级",
+	"factoryName": "巴博斯",
+	"id": 6366,
+	"brand": "巴博斯"
+}, {
+	"modeType": 2,
+	"series": "巴博斯 M级",
+	"factoryName": "巴博斯",
+	"id": 6368,
+	"brand": "巴博斯"
+}, {
+	"modeType": 2,
+	"series": "巴博斯 SLK",
+	"factoryName": "巴博斯",
+	"id": 6370,
+	"brand": "巴博斯"
+}, {
+	"modeType": 2,
+	"series": "巴博斯 smart forfour",
+	"factoryName": "巴博斯",
+	"id": 6372,
+	"brand": "巴博斯"
+}, {
+	"modeType": 2,
+	"series": "巴博斯 smart fowtwo",
+	"factoryName": "巴博斯",
+	"id": 6374,
+	"brand": "巴博斯"
+}, {
+	"modeType": 2,
+	"series": "巴博斯 S级",
+	"factoryName": "巴博斯",
+	"id": 6376,
+	"brand": "巴博斯"
+}, {
+	"modeType": 10,
+	"series": "巴博斯-迈巴赫G级",
+	"factoryName": "巴博斯(平行进口)",
+	"id": 7296,
+	"brand": "巴博斯"
+}, {
+	"modeType": 10,
+	"series": "巴博斯-迈巴赫S级",
+	"factoryName": "巴博斯(平行进口)",
+	"id": 7298,
+	"brand": "巴博斯"
+}, {
+	"modeType": 2,
+	"series": "威航",
+	"factoryName": "布加迪",
+	"id": 6850,
+	"brand": "布加迪"
+}, {
+	"modeType": 2,
+	"series": "Huayra",
+	"factoryName": "帕加尼",
+	"id": 6684,
+	"brand": "帕加尼"
+}, {
+	"modeType": 2,
+	"series": "Zonda",
+	"factoryName": "帕加尼",
+	"id": 6686,
+	"brand": "帕加尼"
+}, {
+	"modeType": 1,
+	"series": "传祺GA3",
+	"factoryName": "广汽乘用车",
+	"id": 603,
+	"brand": "广汽传祺"
+}, {
+	"modeType": 1,
+	"series": "传祺GA3S新能源",
+	"factoryName": "广汽乘用车",
+	"id": 602,
+	"brand": "广汽传祺"
+}, {
+	"modeType": 1,
+	"series": "传祺GA3S视界",
+	"factoryName": "广汽乘用车",
+	"id": 598,
+	"brand": "广汽传祺"
+}, {
+	"modeType": 1,
+	"series": "传祺GA4",
+	"factoryName": "广汽乘用车",
+	"id": 7528,
+	"brand": "广汽传祺"
+}, {
+	"modeType": 1,
+	"series": "传祺GA5",
+	"factoryName": "广汽乘用车",
+	"id": 604,
+	"brand": "广汽传祺"
+}, {
+	"modeType": 1,
+	"series": "传祺GA5新能源",
+	"factoryName": "广汽乘用车",
+	"id": 601,
+	"brand": "广汽传祺"
+}, {
+	"modeType": 1,
+	"series": "传祺GA6",
+	"factoryName": "广汽乘用车",
+	"id": 594,
+	"brand": "广汽传祺"
+}, {
+	"modeType": 1,
+	"series": "传祺GA8",
+	"factoryName": "广汽乘用车",
+	"id": 595,
+	"brand": "广汽传祺"
+}, {
+	"modeType": 1,
+	"series": "传祺GE3",
+	"factoryName": "广汽乘用车",
+	"id": 1905,
+	"brand": "广汽传祺"
+}, {
+	"modeType": 1,
+	"series": "传祺GM8",
+	"factoryName": "广汽乘用车",
+	"id": 2059,
+	"brand": "广汽传祺"
+}, {
+	"modeType": 1,
+	"series": "传祺GS3",
+	"factoryName": "广汽乘用车",
+	"id": 1917,
+	"brand": "广汽传祺"
+}, {
+	"modeType": 1,
+	"series": "传祺GS4",
+	"factoryName": "广汽乘用车",
+	"id": 592,
+	"brand": "广汽传祺"
+}, {
+	"modeType": 1,
+	"series": "传祺GS4新能源",
+	"factoryName": "广汽乘用车",
+	"id": 600,
+	"brand": "广汽传祺"
+}, {
+	"modeType": 1,
+	"series": "传祺GS5",
+	"factoryName": "广汽乘用车",
+	"id": 599,
+	"brand": "广汽传祺"
+}, {
+	"modeType": 1,
+	"series": "传祺GS5 Super",
+	"factoryName": "广汽乘用车",
+	"id": 597,
+	"brand": "广汽传祺"
+}, {
+	"modeType": 1,
+	"series": "传祺GS7",
+	"factoryName": "广汽乘用车",
+	"id": 596,
+	"brand": "广汽传祺"
+}, {
+	"modeType": 1,
+	"series": "传祺GS8",
+	"factoryName": "广汽乘用车",
+	"id": 593,
+	"brand": "广汽传祺"
+}, {
+	"modeType": 1,
+	"series": "E美",
+	"factoryName": "广汽吉奥",
+	"id": 617,
+	"brand": "广汽吉奥"
+}, {
+	"modeType": 1,
+	"series": "奥轩GX5",
+	"factoryName": "广汽吉奥",
+	"id": 1819,
+	"brand": "广汽吉奥"
+}, {
+	"modeType": 1,
+	"series": "广汽吉奥GP150",
+	"factoryName": "广汽吉奥",
+	"id": 615,
+	"brand": "广汽吉奥"
+}, {
+	"modeType": 1,
+	"series": "广汽吉奥GX6",
+	"factoryName": "广汽吉奥",
+	"id": 610,
+	"brand": "广汽吉奥"
+}, {
+	"modeType": 1,
+	"series": "星旺",
+	"factoryName": "广汽吉奥",
+	"id": 1817,
+	"brand": "广汽吉奥"
+}, {
+	"modeType": 1,
+	"series": "星旺CL",
+	"factoryName": "广汽吉奥",
+	"id": 622,
+	"brand": "广汽吉奥"
+}, {
+	"modeType": 1,
+	"series": "星朗",
+	"factoryName": "广汽吉奥",
+	"id": 611,
+	"brand": "广汽吉奥"
+}, {
+	"modeType": 2,
+	"series": "Spyder三轮敞篷跑车",
+	"factoryName": "庞巴迪(中规)",
+	"id": 6874,
+	"brand": "庞巴迪"
+}, {
+	"modeType": 2,
+	"series": "全地形越野车ATV",
+	"factoryName": "庞巴迪(中规)",
+	"id": 6876,
+	"brand": "庞巴迪"
+}, {
+	"modeType": 2,
+	"series": "全地形越野车SSV",
+	"factoryName": "庞巴迪(中规)",
+	"id": 6878,
+	"brand": "庞巴迪"
+}, {
+	"modeType": 2,
+	"series": "雪地摩托",
+	"factoryName": "庞巴迪(中规)",
+	"id": 6880,
+	"brand": "庞巴迪"
+}, {
+	"modeType": 4,
+	"series": "BRP指挥官",
+	"factoryName": "庞巴迪(平行)",
+	"id": 7024,
+	"brand": "庞巴迪"
+}, {
+	"modeType": 4,
+	"series": "Spyder三轮摩托",
+	"factoryName": "庞巴迪(平行)",
+	"id": 7026,
+	"brand": "庞巴迪"
+}, {
+	"modeType": 4,
+	"series": "开拓者",
+	"factoryName": "庞巴迪(平行)",
+	"id": 7030,
+	"brand": "庞巴迪"
+}, {
+	"modeType": 4,
+	"series": "独行侠",
+	"factoryName": "庞巴迪(平行)",
+	"id": 7028,
+	"brand": "庞巴迪"
+}, {
+	"modeType": 1,
+	"series": "全球鹰K10",
+	"factoryName": "康迪全球鹰电动汽车",
+	"id": 899,
+	"brand": "康迪全球鹰"
+}, {
+	"modeType": 1,
+	"series": "全球鹰K11",
+	"factoryName": "康迪全球鹰电动汽车",
+	"id": 901,
+	"brand": "康迪全球鹰"
+}, {
+	"modeType": 1,
+	"series": "全球鹰K12",
+	"factoryName": "康迪全球鹰电动汽车",
+	"id": 900,
+	"brand": "康迪全球鹰"
+}, {
+	"modeType": 1,
+	"series": "全球鹰K17",
+	"factoryName": "康迪全球鹰电动汽车",
+	"id": 898,
+	"brand": "康迪全球鹰"
+}, {
+	"modeType": 1,
+	"series": "优优",
+	"factoryName": "开瑞汽车",
+	"id": 877,
+	"brand": "开瑞"
+}, {
+	"modeType": 1,
+	"series": "优优2代",
+	"factoryName": "开瑞汽车",
+	"id": 878,
+	"brand": "开瑞"
+}, {
+	"modeType": 1,
+	"series": "优劲",
+	"factoryName": "开瑞汽车",
+	"id": 875,
+	"brand": "开瑞"
+}, {
+	"modeType": 1,
+	"series": "优胜2代",
+	"factoryName": "开瑞汽车",
+	"id": 1839,
+	"brand": "开瑞"
+}, {
+	"modeType": 1,
+	"series": "优雅",
+	"factoryName": "开瑞汽车",
+	"id": 1841,
+	"brand": "开瑞"
+}, {
+	"modeType": 1,
+	"series": "优雅2代",
+	"factoryName": "开瑞汽车",
+	"id": 880,
+	"brand": "开瑞"
+}, {
+	"modeType": 1,
+	"series": "开瑞K50",
+	"factoryName": "开瑞汽车",
+	"id": 873,
+	"brand": "开瑞"
+}, {
+	"modeType": 1,
+	"series": "开瑞K60",
+	"factoryName": "开瑞汽车",
+	"id": 874,
+	"brand": "开瑞"
+}, {
+	"modeType": 1,
+	"series": "杰虎",
+	"factoryName": "开瑞汽车",
+	"id": 876,
+	"brand": "开瑞"
+}, {
+	"modeType": 1,
+	"series": "御捷E行",
+	"factoryName": "御捷新能源",
+	"id": 2041,
+	"brand": "御捷"
+}, {
+	"modeType": 1,
+	"series": "御捷E驰",
+	"factoryName": "御捷新能源",
+	"id": 1919,
+	"brand": "御捷"
+}, {
+	"modeType": 1,
+	"series": "思铭",
+	"factoryName": "东风本田",
+	"id": 1287,
+	"brand": "思铭"
+}, {
+	"modeType": 1,
+	"series": "途腾T3",
+	"factoryName": "恒天汽车",
+	"id": 716,
+	"brand": "恒天"
+}, {
+	"modeType": 4,
+	"series": "悍马H2",
+	"factoryName": "悍马",
+	"id": 6970,
+	"brand": "悍马"
+}, {
+	"modeType": 1,
+	"series": "成功K1",
+	"factoryName": "成功汽车",
+	"id": 377,
+	"brand": "成功汽车"
+}, {
+	"modeType": 1,
+	"series": "成功K2",
+	"factoryName": "成功汽车",
+	"id": 375,
+	"brand": "成功汽车"
+}, {
+	"modeType": 1,
+	"series": "成功V1",
+	"factoryName": "成功汽车",
+	"id": 374,
+	"brand": "成功汽车"
+}, {
+	"modeType": 1,
+	"series": "成功V2",
+	"factoryName": "成功汽车",
+	"id": 373,
+	"brand": "成功汽车"
+}, {
+	"modeType": 1,
+	"series": "成功V2E",
+	"factoryName": "成功汽车",
+	"id": 1973,
+	"brand": "成功汽车"
+}, {
+	"modeType": 1,
+	"series": "成功X1",
+	"factoryName": "成功汽车",
+	"id": 376,
+	"brand": "成功汽车"
+}, {
+	"modeType": 10,
+	"series": "拉达涅瓦",
+	"factoryName": "拉达汽车",
+	"id": 7360,
+	"brand": "拉达"
+}, {
+	"modeType": 1,
+	"series": "捷豹XEL",
+	"factoryName": "奇瑞捷豹路虎",
+	"id": 2065,
+	"brand": "捷豹"
+}, {
+	"modeType": 1,
+	"series": "捷豹XFL",
+	"factoryName": "奇瑞捷豹路虎",
+	"id": 771,
+	"brand": "捷豹"
+}, {
+	"modeType": 2,
+	"series": "捷豹F-PACE",
+	"factoryName": "捷豹(进口)",
+	"id": 6478,
+	"brand": "捷豹"
+}, {
+	"modeType": 2,
+	"series": "捷豹F-TYPE",
+	"factoryName": "捷豹(进口)",
+	"id": 6480,
+	"brand": "捷豹"
+}, {
+	"modeType": 2,
+	"series": "捷豹I-PACE",
+	"factoryName": "捷豹(进口)",
+	"id": 6482,
+	"brand": "捷豹"
+}, {
+	"modeType": 2,
+	"series": "捷豹XE",
+	"factoryName": "捷豹(进口)",
+	"id": 6484,
+	"brand": "捷豹"
+}, {
+	"modeType": 2,
+	"series": "捷豹XF",
+	"factoryName": "捷豹(进口)",
+	"id": 6486,
+	"brand": "捷豹"
+}, {
+	"modeType": 2,
+	"series": "捷豹XJ",
+	"factoryName": "捷豹(进口)",
+	"id": 6488,
+	"brand": "捷豹"
+}, {
+	"modeType": 2,
+	"series": "3 Wheeler",
+	"factoryName": "摩根",
+	"id": 6656,
+	"brand": "摩根"
+}, {
+	"modeType": 2,
+	"series": "摩根4-4",
+	"factoryName": "摩根",
+	"id": 6658,
+	"brand": "摩根"
+}, {
+	"modeType": 2,
+	"series": "摩根Aero",
+	"factoryName": "摩根",
+	"id": 6660,
+	"brand": "摩根"
+}, {
+	"modeType": 2,
+	"series": "摩根Aero 8",
+	"factoryName": "摩根",
+	"id": 6662,
+	"brand": "摩根"
+}, {
+	"modeType": 2,
+	"series": "摩根Plus 4",
+	"factoryName": "摩根",
+	"id": 6664,
+	"brand": "摩根"
+}, {
+	"modeType": 2,
+	"series": "摩根Plus 8",
+	"factoryName": "摩根",
+	"id": 6666,
+	"brand": "摩根"
+}, {
+	"modeType": 2,
+	"series": "摩根Roadster",
+	"factoryName": "摩根",
+	"id": 6668,
+	"brand": "摩根"
+}, {
+	"modeType": 2,
+	"series": "傲虎",
+	"factoryName": "斯巴鲁",
+	"id": 6730,
+	"brand": "斯巴鲁"
+}, {
+	"modeType": 2,
+	"series": "力狮",
+	"factoryName": "斯巴鲁",
+	"id": 6732,
+	"brand": "斯巴鲁"
+}, {
+	"modeType": 2,
+	"series": "斯巴鲁BRZ",
+	"factoryName": "斯巴鲁",
+	"id": 6736,
+	"brand": "斯巴鲁"
+}, {
+	"modeType": 2,
+	"series": "斯巴鲁XV",
+	"factoryName": "斯巴鲁",
+	"id": 6738,
+	"brand": "斯巴鲁"
+}, {
+	"modeType": 2,
+	"series": "森林人",
+	"factoryName": "斯巴鲁",
+	"id": 6734,
+	"brand": "斯巴鲁"
+}, {
+	"modeType": 2,
+	"series": "翼豹",
+	"factoryName": "斯巴鲁",
+	"id": 6740,
+	"brand": "斯巴鲁"
+}, {
+	"modeType": 8,
+	"series": "翼豹STi",
+	"factoryName": "斯巴鲁(平行进口)",
+	"id": 7244,
+	"brand": "斯巴鲁"
+}, {
+	"modeType": 1,
+	"series": "Yeti",
+	"factoryName": "上汽斯柯达",
+	"id": 1240,
+	"brand": "斯柯达"
+}, {
+	"modeType": 1,
+	"series": "昊锐",
+	"factoryName": "上汽斯柯达",
+	"id": 1244,
+	"brand": "斯柯达"
+}, {
+	"modeType": 1,
+	"series": "明锐",
+	"factoryName": "上汽斯柯达",
+	"id": 1235,
+	"brand": "斯柯达"
+}, {
+	"modeType": 1,
+	"series": "昕动",
+	"factoryName": "上汽斯柯达",
+	"id": 1239,
+	"brand": "斯柯达"
+}, {
+	"modeType": 1,
+	"series": "昕锐",
+	"factoryName": "上汽斯柯达",
+	"id": 1238,
+	"brand": "斯柯达"
+}, {
+	"modeType": 1,
+	"series": "晶锐",
+	"factoryName": "上汽斯柯达",
+	"id": 1241,
+	"brand": "斯柯达"
+}, {
+	"modeType": 1,
+	"series": "柯迪亚克",
+	"factoryName": "上汽斯柯达",
+	"id": 1236,
+	"brand": "斯柯达"
+}, {
+	"modeType": 1,
+	"series": "速派",
+	"factoryName": "上汽斯柯达",
+	"id": 1237,
+	"brand": "斯柯达"
+}, {
+	"modeType": 2,
+	"series": "明锐(进口)",
+	"factoryName": "斯柯达(进口)",
+	"id": 6722,
+	"brand": "斯柯达"
+}, {
+	"modeType": 2,
+	"series": "速尊",
+	"factoryName": "斯柯达(进口)",
+	"id": 6724,
+	"brand": "斯柯达"
+}, {
+	"modeType": 1,
+	"series": "斯达泰克-卫士",
+	"factoryName": "斯达泰克",
+	"id": 1288,
+	"brand": "斯达泰克"
+}, {
+	"modeType": 1,
+	"series": "斯达泰克-揽胜",
+	"factoryName": "斯达泰克",
+	"id": 1289,
+	"brand": "斯达泰克"
+}, {
+	"modeType": 1,
+	"series": "斯达泰克-揽胜运动版",
+	"factoryName": "斯达泰克",
+	"id": 1290,
+	"brand": "斯达泰克"
+}, {
+	"modeType": 1,
+	"series": "凯胜",
+	"factoryName": "新凯汽车",
+	"id": 1414,
+	"brand": "新凯"
+}, {
+	"modeType": 1,
+	"series": "新凯V-Class",
+	"factoryName": "新凯汽车",
+	"id": 1412,
+	"brand": "新凯"
+}, {
+	"modeType": 1,
+	"series": "新凯凌特",
+	"factoryName": "新凯汽车",
+	"id": 1411,
+	"brand": "新凯"
+}, {
+	"modeType": 1,
+	"series": "新凯威霆",
+	"factoryName": "新凯汽车",
+	"id": 1413,
+	"brand": "新凯"
+}, {
+	"modeType": 1,
+	"series": "LANNIA 蓝鸟",
+	"factoryName": "东风日产",
+	"id": 1189,
+	"brand": "日产"
+}, {
+	"modeType": 1,
+	"series": "劲客",
+	"factoryName": "东风日产",
+	"id": 1192,
+	"brand": "日产"
+}, {
+	"modeType": 1,
+	"series": "天籁",
+	"factoryName": "东风日产",
+	"id": 1188,
+	"brand": "日产"
+}, {
+	"modeType": 1,
+	"series": "奇骏",
+	"factoryName": "东风日产",
+	"id": 1187,
+	"brand": "日产"
+}, {
+	"modeType": 1,
+	"series": "楼兰",
+	"factoryName": "东风日产",
+	"id": 1191,
+	"brand": "日产"
+}, {
+	"modeType": 1,
+	"series": "玛驰",
+	"factoryName": "东风日产",
+	"id": 1196,
+	"brand": "日产"
+}, {
+	"modeType": 1,
+	"series": "西玛",
+	"factoryName": "东风日产",
+	"id": 1194,
+	"brand": "日产"
+}, {
+	"modeType": 1,
+	"series": "轩逸",
+	"factoryName": "东风日产",
+	"id": 1185,
+	"brand": "日产"
+}, {
+	"modeType": 1,
+	"series": "逍客",
+	"factoryName": "东风日产",
+	"id": 1186,
+	"brand": "日产"
+}, {
+	"modeType": 1,
+	"series": "阳光",
+	"factoryName": "东风日产",
+	"id": 1193,
+	"brand": "日产"
+}, {
+	"modeType": 1,
+	"series": "骊威",
+	"factoryName": "东风日产",
+	"id": 1195,
+	"brand": "日产"
+}, {
+	"modeType": 1,
+	"series": "骐达",
+	"factoryName": "东风日产",
+	"id": 1190,
+	"brand": "日产"
+}, {
+	"modeType": 6,
+	"series": "Pathfinder",
+	"factoryName": "日产(平行进口)",
+	"id": 7114,
+	"brand": "日产"
+}, {
+	"modeType": 4,
+	"series": "TITAN泰坦",
+	"factoryName": "日产(平行进口)",
+	"id": 7008,
+	"brand": "日产"
+}, {
+	"modeType": 4,
+	"series": "日产GT-R",
+	"factoryName": "日产(平行进口)",
+	"id": 7010,
+	"brand": "日产"
+}, {
+	"modeType": 6,
+	"series": "途乐Y61",
+	"factoryName": "日产(平行进口)",
+	"id": 7116,
+	"brand": "日产"
+}, {
+	"modeType": 6,
+	"series": "途乐Y62",
+	"factoryName": "日产(平行进口)",
+	"id": 7118,
+	"brand": "日产"
+}, {
+	"modeType": 2,
+	"series": "日产370Z",
+	"factoryName": "日产(进口)",
+	"id": 6712,
+	"brand": "日产"
+}, {
+	"modeType": 2,
+	"series": "日产GT-R",
+	"factoryName": "日产(进口)",
+	"id": 6714,
+	"brand": "日产"
+}, {
+	"modeType": 2,
+	"series": "碧莲",
+	"factoryName": "日产(进口)",
+	"id": 6708,
+	"brand": "日产"
+}, {
+	"modeType": 2,
+	"series": "贵士",
+	"factoryName": "日产(进口)",
+	"id": 6710,
+	"brand": "日产"
+}, {
+	"modeType": 2,
+	"series": "途乐",
+	"factoryName": "日产(进口)",
+	"id": 6716,
+	"brand": "日产"
+}, {
+	"modeType": 1,
+	"series": "帕拉丁",
+	"factoryName": "郑州日产",
+	"id": 1199,
+	"brand": "日产"
+}, {
+	"modeType": 1,
+	"series": "日产D22",
+	"factoryName": "郑州日产",
+	"id": 1200,
+	"brand": "日产"
+}, {
+	"modeType": 1,
+	"series": "日产NV200",
+	"factoryName": "郑州日产",
+	"id": 1198,
+	"brand": "日产"
+}, {
+	"modeType": 1,
+	"series": "日产ZN厢式车",
+	"factoryName": "郑州日产",
+	"id": 1201,
+	"brand": "日产"
+}, {
+	"modeType": 1,
+	"series": "纳瓦拉",
+	"factoryName": "郑州日产",
+	"id": 1197,
+	"brand": "日产"
+}, {
+	"modeType": 1,
+	"series": "北汽昌河A6",
+	"factoryName": "北汽昌河",
+	"id": 7496,
+	"brand": "昌河"
+}, {
+	"modeType": 1,
+	"series": "北汽昌河Q7",
+	"factoryName": "北汽昌河",
+	"id": 7494,
+	"brand": "昌河"
+}, {
+	"modeType": 1,
+	"series": "昌河北斗星",
+	"factoryName": "北汽昌河",
+	"id": 7498,
+	"brand": "昌河"
+}, {
+	"modeType": 1,
+	"series": "北斗星X5E",
+	"factoryName": "昌河汽车",
+	"id": 1897,
+	"brand": "昌河"
+}, {
+	"modeType": 1,
+	"series": "北汽昌河M50",
+	"factoryName": "昌河汽车",
+	"id": 366,
+	"brand": "昌河"
+}, {
+	"modeType": 1,
+	"series": "北汽昌河M70",
+	"factoryName": "昌河汽车",
+	"id": 364,
+	"brand": "昌河"
+}, {
+	"modeType": 1,
+	"series": "北汽昌河Q25",
+	"factoryName": "昌河汽车",
+	"id": 367,
+	"brand": "昌河"
+}, {
+	"modeType": 1,
+	"series": "北汽昌河Q35",
+	"factoryName": "昌河汽车",
+	"id": 365,
+	"brand": "昌河"
+}, {
+	"modeType": 1,
+	"series": "福瑞达",
+	"factoryName": "昌河汽车",
+	"id": 368,
+	"brand": "昌河"
+}, {
+	"modeType": 1,
+	"series": "福瑞达K21",
+	"factoryName": "昌河汽车",
+	"id": 370,
+	"brand": "昌河"
+}, {
+	"modeType": 1,
+	"series": "福瑞达K22",
+	"factoryName": "昌河汽车",
+	"id": 369,
+	"brand": "昌河"
+}, {
+	"modeType": 1,
+	"series": "哥瑞",
+	"factoryName": "东风本田",
+	"id": 53,
+	"brand": "本田"
+}, {
+	"modeType": 1,
+	"series": "思域",
+	"factoryName": "东风本田",
+	"id": 47,
+	"brand": "本田"
+}, {
+	"modeType": 1,
+	"series": "思铂睿",
+	"factoryName": "东风本田",
+	"id": 52,
+	"brand": "本田"
+}, {
+	"modeType": 1,
+	"series": "本田CR-V",
+	"factoryName": "东风本田",
+	"id": 49,
+	"brand": "本田"
+}, {
+	"modeType": 1,
+	"series": "本田UR-V",
+	"factoryName": "东风本田",
+	"id": 50,
+	"brand": "本田"
+}, {
+	"modeType": 1,
+	"series": "本田XR-V",
+	"factoryName": "东风本田",
+	"id": 48,
+	"brand": "本田"
+}, {
+	"modeType": 1,
+	"series": "杰德",
+	"factoryName": "东风本田",
+	"id": 51,
+	"brand": "本田"
+}, {
+	"modeType": 1,
+	"series": "竞瑞",
+	"factoryName": "东风本田",
+	"id": 54,
+	"brand": "本田"
+}, {
+	"modeType": 1,
+	"series": "艾力绅",
+	"factoryName": "东风本田",
+	"id": 55,
+	"brand": "本田"
+}, {
+	"modeType": 1,
+	"series": "冠道",
+	"factoryName": "广汽本田",
+	"id": 57,
+	"brand": "本田"
+}, {
+	"modeType": 1,
+	"series": "凌派",
+	"factoryName": "广汽本田",
+	"id": 60,
+	"brand": "本田"
+}, {
+	"modeType": 1,
+	"series": "奥德赛",
+	"factoryName": "广汽本田",
+	"id": 62,
+	"brand": "本田"
+}, {
+	"modeType": 1,
+	"series": "歌诗图",
+	"factoryName": "广汽本田",
+	"id": 63,
+	"brand": "本田"
+}, {
+	"modeType": 1,
+	"series": "缤智",
+	"factoryName": "广汽本田",
+	"id": 59,
+	"brand": "本田"
+}, {
+	"modeType": 1,
+	"series": "锋范",
+	"factoryName": "广汽本田",
+	"id": 61,
+	"brand": "本田"
+}, {
+	"modeType": 1,
+	"series": "锋范经典",
+	"factoryName": "广汽本田",
+	"id": 66,
+	"brand": "本田"
+}, {
+	"modeType": 1,
+	"series": "雅阁",
+	"factoryName": "广汽本田",
+	"id": 56,
+	"brand": "本田"
+}, {
+	"modeType": 1,
+	"series": "飞度",
+	"factoryName": "广汽本田",
+	"id": 58,
+	"brand": "本田"
+}, {
+	"modeType": 10,
+	"series": "思域Type R",
+	"factoryName": "本田(平行进口)",
+	"id": 7260,
+	"brand": "本田"
+}, {
+	"modeType": 2,
+	"series": "INSIGHT",
+	"factoryName": "本田(进口)",
+	"id": 6196,
+	"brand": "本田"
+}, {
+	"modeType": 2,
+	"series": "本田CR-Z",
+	"factoryName": "本田(进口)",
+	"id": 6198,
+	"brand": "本田"
+}, {
+	"modeType": 4,
+	"series": "杰克拖挂式",
+	"factoryName": "杰克房车",
+	"id": 7034,
+	"brand": "杰克Jayco"
+}, {
+	"modeType": 2,
+	"series": "林肯MKC",
+	"factoryName": "林肯",
+	"id": 6546,
+	"brand": "林肯"
+}, {
+	"modeType": 2,
+	"series": "林肯MKX",
+	"factoryName": "林肯",
+	"id": 6548,
+	"brand": "林肯"
+}, {
+	"modeType": 2,
+	"series": "林肯MKZ",
+	"factoryName": "林肯",
+	"id": 6550,
+	"brand": "林肯"
+}, {
+	"modeType": 2,
+	"series": "林肯大陆",
+	"factoryName": "林肯",
+	"id": 6552,
+	"brand": "林肯"
+}, {
+	"modeType": 2,
+	"series": "领航员",
+	"factoryName": "林肯",
+	"id": 6554,
+	"brand": "林肯"
+}, {
+	"modeType": 4,
+	"series": "林肯MKT",
+	"factoryName": "林肯(平行进口)",
+	"id": 6988,
+	"brand": "林肯"
+}, {
+	"modeType": 12,
+	"series": "林肯MKX",
+	"factoryName": "林肯(平行进口)",
+	"id": 7428,
+	"brand": "林肯"
+}, {
+	"modeType": 4,
+	"series": "领航员",
+	"factoryName": "林肯(平行进口)",
+	"id": 6990,
+	"brand": "林肯"
+}, {
+	"modeType": 1,
+	"series": "标致2008",
+	"factoryName": "东风标致",
+	"id": 181,
+	"brand": "标致"
+}, {
+	"modeType": 1,
+	"series": "标致207",
+	"factoryName": "东风标致",
+	"id": 187,
+	"brand": "标致"
+}, {
+	"modeType": 1,
+	"series": "标致3008",
+	"factoryName": "东风标致",
+	"id": 179,
+	"brand": "标致"
+}, {
+	"modeType": 1,
+	"series": "标致301",
+	"factoryName": "东风标致",
+	"id": 178,
+	"brand": "标致"
+}, {
+	"modeType": 1,
+	"series": "标致307",
+	"factoryName": "东风标致",
+	"id": 186,
+	"brand": "标致"
+}, {
+	"modeType": 1,
+	"series": "标致308",
+	"factoryName": "东风标致",
+	"id": 175,
+	"brand": "标致"
+}, {
+	"modeType": 1,
+	"series": "标致308S",
+	"factoryName": "东风标致",
+	"id": 182,
+	"brand": "标致"
+}, {
+	"modeType": 1,
+	"series": "标致4008",
+	"factoryName": "东风标致",
+	"id": 176,
+	"brand": "标致"
+}, {
+	"modeType": 1,
+	"series": "标致408",
+	"factoryName": "东风标致",
+	"id": 177,
+	"brand": "标致"
+}, {
+	"modeType": 1,
+	"series": "标致5008",
+	"factoryName": "东风标致",
+	"id": 174,
+	"brand": "标致"
+}, {
+	"modeType": 1,
+	"series": "标致508",
+	"factoryName": "东风标致",
+	"id": 180,
+	"brand": "标致"
+}, {
+	"modeType": 2,
+	"series": "标致4008",
+	"factoryName": "标致(进口)",
+	"id": 6328,
+	"brand": "标致"
+}, {
+	"modeType": 2,
+	"series": "标致RCZ",
+	"factoryName": "标致(进口)",
+	"id": 6330,
+	"brand": "标致"
+}, {
+	"modeType": 1,
+	"series": "安德拉",
+	"factoryName": "欧宝",
+	"id": 1113,
+	"brand": "欧宝"
+}, {
+	"modeType": 1,
+	"series": "欧朗",
+	"factoryName": "一汽欧朗",
+	"id": 1114,
+	"brand": "欧朗"
+}, {
+	"modeType": 1,
+	"series": "元",
+	"factoryName": "比亚迪",
+	"id": 204,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "元新能源",
+	"factoryName": "比亚迪",
+	"id": 217,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "唐",
+	"factoryName": "比亚迪",
+	"id": 7452,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "唐新能源",
+	"factoryName": "比亚迪",
+	"id": 205,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "宋",
+	"factoryName": "比亚迪",
+	"id": 203,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "宋MAX",
+	"factoryName": "比亚迪",
+	"id": 1969,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "宋新能源",
+	"factoryName": "比亚迪",
+	"id": 208,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "思锐",
+	"factoryName": "比亚迪",
+	"id": 221,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "比亚迪e5",
+	"factoryName": "比亚迪",
+	"id": 216,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "比亚迪e6",
+	"factoryName": "比亚迪",
+	"id": 215,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "比亚迪F0",
+	"factoryName": "比亚迪",
+	"id": 209,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "比亚迪F3",
+	"factoryName": "比亚迪",
+	"id": 206,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "比亚迪G3",
+	"factoryName": "比亚迪",
+	"id": 223,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "比亚迪G5",
+	"factoryName": "比亚迪",
+	"id": 213,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "比亚迪G6",
+	"factoryName": "比亚迪",
+	"id": 219,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "比亚迪L3",
+	"factoryName": "比亚迪",
+	"id": 218,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "比亚迪M6",
+	"factoryName": "比亚迪",
+	"id": 214,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "比亚迪S6",
+	"factoryName": "比亚迪",
+	"id": 212,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "比亚迪S7",
+	"factoryName": "比亚迪",
+	"id": 207,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "秦",
+	"factoryName": "比亚迪",
+	"id": 210,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "秦Pro",
+	"factoryName": "比亚迪",
+	"id": 7454,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "秦Pro新能源",
+	"factoryName": "比亚迪",
+	"id": 7456,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "速锐",
+	"factoryName": "比亚迪",
+	"id": 211,
+	"brand": "比亚迪"
+}, {
+	"modeType": 1,
+	"series": "比速M3",
+	"factoryName": "比速汽车",
+	"id": 250,
+	"brand": "比速汽车"
+}, {
+	"modeType": 1,
+	"series": "比速T3",
+	"factoryName": "比速汽车",
+	"id": 249,
+	"brand": "比速汽车"
+}, {
+	"modeType": 1,
+	"series": "比速T5",
+	"factoryName": "比速汽车",
+	"id": 248,
+	"brand": "比速汽车"
+}, {
+	"modeType": 1,
+	"series": "永源A380",
+	"factoryName": "永源汽车",
+	"id": 1472,
+	"brand": "永源"
+}, {
+	"modeType": 1,
+	"series": "永源五星",
+	"factoryName": "永源汽车",
+	"id": 1889,
+	"brand": "永源"
+}, {
+	"modeType": 1,
+	"series": "猎鹰",
+	"factoryName": "永源汽车",
+	"id": 1473,
+	"brand": "永源"
+}, {
+	"modeType": 1,
+	"series": "汉腾X5",
+	"factoryName": "汉腾汽车",
+	"id": 1947,
+	"brand": "汉腾汽车"
+}, {
+	"modeType": 1,
+	"series": "汉腾X7",
+	"factoryName": "汉腾汽车",
+	"id": 668,
+	"brand": "汉腾汽车"
+}, {
+	"modeType": 1,
+	"series": "汉腾X7新能源",
+	"factoryName": "汉腾汽车",
+	"id": 2061,
+	"brand": "汉腾汽车"
+}, {
+	"modeType": 1,
+	"series": "凌铃",
+	"factoryName": "江淮汽车",
+	"id": 796,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "和悦",
+	"factoryName": "江淮汽车",
+	"id": 793,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "和悦A13",
+	"factoryName": "江淮汽车",
+	"id": 799,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "和悦A13RS",
+	"factoryName": "江淮汽车",
+	"id": 805,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "和悦A30",
+	"factoryName": "江淮汽车",
+	"id": 797,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "帅铃T6",
+	"factoryName": "江淮汽车",
+	"id": 788,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "征途",
+	"factoryName": "江淮汽车",
+	"id": 807,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "悦悦",
+	"factoryName": "江淮汽车",
+	"id": 792,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "星锐",
+	"factoryName": "江淮汽车",
+	"id": 794,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "江淮iEV",
+	"factoryName": "江淮汽车",
+	"id": 789,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "江淮iEV6E",
+	"factoryName": "江淮汽车",
+	"id": 791,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "江淮iEV6S",
+	"factoryName": "江淮汽车",
+	"id": 795,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "江淮iEV7S",
+	"factoryName": "江淮汽车",
+	"id": 2025,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "江淮K3",
+	"factoryName": "江淮汽车",
+	"id": 808,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "江淮K5",
+	"factoryName": "江淮汽车",
+	"id": 806,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "瑞铃",
+	"factoryName": "江淮汽车",
+	"id": 798,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "瑞风",
+	"factoryName": "江淮汽车",
+	"id": 790,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "瑞风A60",
+	"factoryName": "江淮汽车",
+	"id": 787,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "瑞风M2",
+	"factoryName": "江淮汽车",
+	"id": 800,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "瑞风M3",
+	"factoryName": "江淮汽车",
+	"id": 782,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "瑞风M4",
+	"factoryName": "江淮汽车",
+	"id": 783,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "瑞风M5",
+	"factoryName": "江淮汽车",
+	"id": 786,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "瑞风M6",
+	"factoryName": "江淮汽车",
+	"id": 2067,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "瑞风S2",
+	"factoryName": "江淮汽车",
+	"id": 781,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "瑞风S2mini",
+	"factoryName": "江淮汽车",
+	"id": 784,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "瑞风S3",
+	"factoryName": "江淮汽车",
+	"id": 779,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "瑞风S5",
+	"factoryName": "江淮汽车",
+	"id": 785,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "瑞风S7",
+	"factoryName": "江淮汽车",
+	"id": 780,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "瑞鹰",
+	"factoryName": "江淮汽车",
+	"id": 801,
+	"brand": "江淮"
+}, {
+	"modeType": 1,
+	"series": "域虎",
+	"factoryName": "江铃汽车",
+	"id": 835,
+	"brand": "江铃"
+}, {
+	"modeType": 1,
+	"series": "宝典",
+	"factoryName": "江铃汽车",
+	"id": 837,
+	"brand": "江铃"
+}, {
+	"modeType": 1,
+	"series": "特顺",
+	"factoryName": "江铃汽车",
+	"id": 836,
+	"brand": "江铃"
+}, {
+	"modeType": 1,
+	"series": "江铃E100",
+	"factoryName": "江铃集团新能源",
+	"id": 857,
+	"brand": "江铃集团新能源"
+}, {
+	"modeType": 1,
+	"series": "江铃E160",
+	"factoryName": "江铃集团新能源",
+	"id": 854,
+	"brand": "江铃集团新能源"
+}, {
+	"modeType": 1,
+	"series": "江铃E200",
+	"factoryName": "江铃集团新能源",
+	"id": 855,
+	"brand": "江铃集团新能源"
+}, {
+	"modeType": 1,
+	"series": "江铃E200S",
+	"factoryName": "江铃集团新能源",
+	"id": 856,
+	"brand": "江铃集团新能源"
+}, {
+	"modeType": 1,
+	"series": "骐铃T100",
+	"factoryName": "江铃集团轻汽",
+	"id": 1899,
+	"brand": "江铃集团轻汽"
+}, {
+	"modeType": 1,
+	"series": "骐铃T3",
+	"factoryName": "江铃集团轻汽",
+	"id": 847,
+	"brand": "江铃集团轻汽"
+}, {
+	"modeType": 1,
+	"series": "骐铃T5",
+	"factoryName": "江铃集团轻汽",
+	"id": 846,
+	"brand": "江铃集团轻汽"
+}, {
+	"modeType": 1,
+	"series": "骐铃T7",
+	"factoryName": "江铃集团轻汽",
+	"id": 845,
+	"brand": "江铃集团轻汽"
+}, {
+	"modeType": 4,
+	"series": "沃尔沃XC90",
+	"factoryName": "沃尔沃(平行进口)",
+	"id": 7016,
+	"brand": "沃尔沃"
+}, {
+	"modeType": 2,
+	"series": "沃尔沃S60",
+	"factoryName": "沃尔沃(进口)",
+	"id": 6790,
+	"brand": "沃尔沃"
+}, {
+	"modeType": 2,
+	"series": "沃尔沃S90",
+	"factoryName": "沃尔沃(进口)",
+	"id": 6792,
+	"brand": "沃尔沃"
+}, {
+	"modeType": 2,
+	"series": "沃尔沃V40",
+	"factoryName": "沃尔沃(进口)",
+	"id": 6794,
+	"brand": "沃尔沃"
+}, {
+	"modeType": 2,
+	"series": "沃尔沃V60",
+	"factoryName": "沃尔沃(进口)",
+	"id": 6796,
+	"brand": "沃尔沃"
+}, {
+	"modeType": 2,
+	"series": "沃尔沃V90",
+	"factoryName": "沃尔沃(进口)",
+	"id": 6798,
+	"brand": "沃尔沃"
+}, {
+	"modeType": 2,
+	"series": "沃尔沃XC40",
+	"factoryName": "沃尔沃(进口)",
+	"id": 6800,
+	"brand": "沃尔沃"
+}, {
+	"modeType": 2,
+	"series": "沃尔沃XC90",
+	"factoryName": "沃尔沃(进口)",
+	"id": 6802,
+	"brand": "沃尔沃"
+}, {
+	"modeType": 2,
+	"series": "沃尔沃XC90新能源",
+	"factoryName": "沃尔沃(进口)",
+	"id": 6804,
+	"brand": "沃尔沃"
+}, {
+	"modeType": 1,
+	"series": "XC Classic",
+	"factoryName": "沃尔沃亚太",
+	"id": 1318,
+	"brand": "沃尔沃"
+}, {
+	"modeType": 1,
+	"series": "沃尔沃S60L",
+	"factoryName": "沃尔沃亚太",
+	"id": 1308,
+	"brand": "沃尔沃"
+}, {
+	"modeType": 1,
+	"series": "沃尔沃S60L新能源",
+	"factoryName": "沃尔沃亚太",
+	"id": 1309,
+	"brand": "沃尔沃"
+}, {
+	"modeType": 1,
+	"series": "沃尔沃S90",
+	"factoryName": "沃尔沃亚太",
+	"id": 1307,
+	"brand": "沃尔沃"
+}, {
+	"modeType": 1,
+	"series": "沃尔沃XC60",
+	"factoryName": "沃尔沃亚太",
+	"id": 1306,
+	"brand": "沃尔沃"
+}, {
+	"modeType": 1,
+	"series": "沃尔沃XC60新能源",
+	"factoryName": "沃尔沃亚太",
+	"id": 2087,
+	"brand": "沃尔沃"
+}, {
+	"modeType": 1,
+	"series": "沃尔沃S80L",
+	"factoryName": "长安沃尔沃",
+	"id": 1316,
+	"brand": "沃尔沃"
+}, {
+	"modeType": 2,
+	"series": "812 Superfast",
+	"factoryName": "法拉利",
+	"id": 6440,
+	"brand": "法拉利"
+}, {
+	"modeType": 2,
+	"series": "California T",
+	"factoryName": "法拉利",
+	"id": 6442,
+	"brand": "法拉利"
+}, {
+	"modeType": 2,
+	"series": "GTC4Lusso",
+	"factoryName": "法拉利",
+	"id": 6444,
+	"brand": "法拉利"
+}, {
+	"modeType": 2,
+	"series": "LaFerrari",
+	"factoryName": "法拉利",
+	"id": 6446,
+	"brand": "法拉利"
+}, {
+	"modeType": 2,
+	"series": "Portofino",
+	"factoryName": "法拉利",
+	"id": 6448,
+	"brand": "法拉利"
+}, {
+	"modeType": 2,
+	"series": "法拉利488",
+	"factoryName": "法拉利",
+	"id": 6450,
+	"brand": "法拉利"
+}, {
+	"modeType": 2,
+	"series": "法拉利F12",
+	"factoryName": "法拉利",
+	"id": 6452,
+	"brand": "法拉利"
+}, {
+	"modeType": 10,
+	"series": "法拉利488",
+	"factoryName": "法拉利(平行进口)",
+	"id": 7302,
+	"brand": "法拉利"
+}, {
+	"modeType": 10,
+	"series": "法拉利F12",
+	"factoryName": "法拉利(平行进口)",
+	"id": 7304,
+	"brand": "法拉利"
+}, {
+	"modeType": 10,
+	"series": "法拉利Portofino",
+	"factoryName": "法拉利(平行进口)",
+	"id": 7306,
+	"brand": "法拉利"
+}, {
+	"modeType": 2,
+	"series": "泰卡特T1",
+	"factoryName": "泰卡特",
+	"id": 6778,
+	"brand": "泰卡特"
+}, {
+	"modeType": 2,
+	"series": "泰卡特T2",
+	"factoryName": "泰卡特",
+	"id": 6780,
+	"brand": "泰卡特"
+}, {
+	"modeType": 2,
+	"series": "泰卡特T3",
+	"factoryName": "泰卡特",
+	"id": 6782,
+	"brand": "泰卡特"
+}, {
+	"modeType": 2,
+	"series": "泰卡特T5",
+	"factoryName": "泰卡特",
+	"id": 6784,
+	"brand": "泰卡特"
+}, {
+	"modeType": 2,
+	"series": "泰卡特T7",
+	"factoryName": "泰卡特",
+	"id": 6786,
+	"brand": "泰卡特"
+}, {
+	"modeType": 2,
+	"series": "泰卡特T9",
+	"factoryName": "泰卡特",
+	"id": 6788,
+	"brand": "泰卡特"
+}, {
+	"modeType": 1,
+	"series": "御骏",
+	"factoryName": "苏州金龙",
+	"id": 711,
+	"brand": "海格"
+}, {
+	"modeType": 1,
+	"series": "海格H4E",
+	"factoryName": "苏州金龙",
+	"id": 707,
+	"brand": "海格"
+}, {
+	"modeType": 1,
+	"series": "海格H5C",
+	"factoryName": "苏州金龙",
+	"id": 708,
+	"brand": "海格"
+}, {
+	"modeType": 1,
+	"series": "海格H5V",
+	"factoryName": "苏州金龙",
+	"id": 709,
+	"brand": "海格"
+}, {
+	"modeType": 1,
+	"series": "海格H6C",
+	"factoryName": "苏州金龙",
+	"id": 713,
+	"brand": "海格"
+}, {
+	"modeType": 1,
+	"series": "海格H6V",
+	"factoryName": "苏州金龙",
+	"id": 710,
+	"brand": "海格"
+}, {
+	"modeType": 1,
+	"series": "海格H7V",
+	"factoryName": "苏州金龙",
+	"id": 1829,
+	"brand": "海格"
+}, {
+	"modeType": 1,
+	"series": "龙威",
+	"factoryName": "苏州金龙",
+	"id": 706,
+	"brand": "海格"
+}, {
+	"modeType": 1,
+	"series": "福美来F7",
+	"factoryName": "一汽海马",
+	"id": 1995,
+	"brand": "海马"
+}, {
+	"modeType": 1,
+	"series": "丘比特",
+	"factoryName": "海马汽车",
+	"id": 659,
+	"brand": "海马"
+}, {
+	"modeType": 1,
+	"series": "普力马",
+	"factoryName": "海马汽车",
+	"id": 660,
+	"brand": "海马"
+}, {
+	"modeType": 1,
+	"series": "普力马EV",
+	"factoryName": "海马汽车",
+	"id": 648,
+	"brand": "海马"
+}, {
+	"modeType": 1,
+	"series": "海马M8",
+	"factoryName": "海马汽车",
+	"id": 647,
+	"brand": "海马"
+}, {
+	"modeType": 1,
+	"series": "海马S7",
+	"factoryName": "海马汽车",
+	"id": 646,
+	"brand": "海马"
+}, {
+	"modeType": 1,
+	"series": "海马V70",
+	"factoryName": "海马汽车",
+	"id": 657,
+	"brand": "海马"
+}, {
+	"modeType": 1,
+	"series": "海马骑士",
+	"factoryName": "海马汽车",
+	"id": 662,
+	"brand": "海马"
+}, {
+	"modeType": 1,
+	"series": "福美来",
+	"factoryName": "海马汽车",
+	"id": 644,
+	"brand": "海马"
+}, {
+	"modeType": 1,
+	"series": "福美来MPV",
+	"factoryName": "海马汽车",
+	"id": 645,
+	"brand": "海马"
+}, {
+	"modeType": 1,
+	"series": "海马@3",
+	"factoryName": "海马郑州",
+	"id": 653,
+	"brand": "海马"
+}, {
+	"modeType": 1,
+	"series": "海马M3",
+	"factoryName": "海马郑州",
+	"id": 650,
+	"brand": "海马"
+}, {
+	"modeType": 1,
+	"series": "海马M6",
+	"factoryName": "海马郑州",
+	"id": 651,
+	"brand": "海马"
+}, {
+	"modeType": 1,
+	"series": "海马S5",
+	"factoryName": "海马郑州",
+	"id": 649,
+	"brand": "海马"
+}, {
+	"modeType": 1,
+	"series": "海马S5青春版",
+	"factoryName": "海马郑州",
+	"id": 652,
+	"brand": "海马"
+}, {
+	"modeType": 1,
+	"series": "海马爱尚",
+	"factoryName": "海马郑州",
+	"id": 665,
+	"brand": "海马"
+}, {
+	"modeType": 1,
+	"series": "海马爱尚EV",
+	"factoryName": "海马郑州",
+	"id": 654,
+	"brand": "海马"
+}, {
+	"modeType": 1,
+	"series": "福仕达荣达",
+	"factoryName": "海马郑州",
+	"id": 666,
+	"brand": "海马"
+}, {
+	"modeType": 1,
+	"series": "英致727",
+	"factoryName": "潍柴汽车",
+	"id": 1337,
+	"brand": "潍柴英致"
+}, {
+	"modeType": 1,
+	"series": "英致737",
+	"factoryName": "潍柴汽车",
+	"id": 1336,
+	"brand": "潍柴英致"
+}, {
+	"modeType": 1,
+	"series": "英致G3",
+	"factoryName": "潍柴汽车",
+	"id": 1339,
+	"brand": "潍柴英致"
+}, {
+	"modeType": 1,
+	"series": "英致G5",
+	"factoryName": "潍柴汽车",
+	"id": 1338,
+	"brand": "潍柴英致"
+}, {
+	"modeType": 2,
+	"series": "MODEL 3",
+	"factoryName": "特斯拉",
+	"id": 6772,
+	"brand": "特斯拉"
+}, {
+	"modeType": 2,
+	"series": "MODEL S",
+	"factoryName": "特斯拉",
+	"id": 6774,
+	"brand": "特斯拉"
+}, {
+	"modeType": 2,
+	"series": "MODEL X",
+	"factoryName": "特斯拉",
+	"id": 6776,
+	"brand": "特斯拉"
+}, {
+	"modeType": 4,
+	"series": "MODEL X",
+	"factoryName": "特斯拉(平行进口)",
+	"id": 7014,
+	"brand": "特斯拉"
+}, {
+	"modeType": 1,
+	"series": "猎豹6481",
+	"factoryName": "猎豹汽车",
+	"id": 936,
+	"brand": "猎豹汽车"
+}, {
+	"modeType": 1,
+	"series": "猎豹CS10",
+	"factoryName": "猎豹汽车",
+	"id": 931,
+	"brand": "猎豹汽车"
+}, {
+	"modeType": 1,
+	"series": "猎豹CS6",
+	"factoryName": "猎豹汽车",
+	"id": 937,
+	"brand": "猎豹汽车"
+}, {
+	"modeType": 1,
+	"series": "猎豹CS9",
+	"factoryName": "猎豹汽车",
+	"id": 932,
+	"brand": "猎豹汽车"
+}, {
+	"modeType": 1,
+	"series": "猎豹CT5",
+	"factoryName": "猎豹汽车",
+	"id": 939,
+	"brand": "猎豹汽车"
+}, {
+	"modeType": 1,
+	"series": "猎豹CT7",
+	"factoryName": "猎豹汽车",
+	"id": 934,
+	"brand": "猎豹汽车"
+}, {
+	"modeType": 1,
+	"series": "猎豹Q6",
+	"factoryName": "猎豹汽车",
+	"id": 933,
+	"brand": "猎豹汽车"
+}, {
+	"modeType": 1,
+	"series": "飞腾C5",
+	"factoryName": "猎豹汽车",
+	"id": 940,
+	"brand": "猎豹汽车"
+}, {
+	"modeType": 1,
+	"series": "黑金刚",
+	"factoryName": "猎豹汽车",
+	"id": 935,
+	"brand": "猎豹汽车"
+}, {
+	"modeType": 2,
+	"series": "Ghibli",
+	"factoryName": "玛莎拉蒂",
+	"id": 6608,
+	"brand": "玛莎拉蒂"
+}, {
+	"modeType": 2,
+	"series": "GranCabrio",
+	"factoryName": "玛莎拉蒂",
+	"id": 6610,
+	"brand": "玛莎拉蒂"
+}, {
+	"modeType": 2,
+	"series": "GranTurismo",
+	"factoryName": "玛莎拉蒂",
+	"id": 6612,
+	"brand": "玛莎拉蒂"
+}, {
+	"modeType": 2,
+	"series": "Levante",
+	"factoryName": "玛莎拉蒂",
+	"id": 6614,
+	"brand": "玛莎拉蒂"
+}, {
+	"modeType": 2,
+	"series": "总裁",
+	"factoryName": "玛莎拉蒂",
+	"id": 6616,
+	"brand": "玛莎拉蒂"
+}, {
+	"modeType": 4,
+	"series": "Ghibli吉博力",
+	"factoryName": "玛莎拉蒂(平行进口)",
+	"id": 7000,
+	"brand": "玛莎拉蒂"
+}, {
+	"modeType": 4,
+	"series": "Levante",
+	"factoryName": "玛莎拉蒂(平行进口)",
+	"id": 7002,
+	"brand": "玛莎拉蒂"
+}, {
+	"modeType": 4,
+	"series": "总裁",
+	"factoryName": "玛莎拉蒂(平行进口)",
+	"id": 7004,
+	"brand": "玛莎拉蒂"
+}, {
+	"modeType": 1,
+	"series": "伊兰特",
+	"factoryName": "北京现代",
+	"id": 1877,
+	"brand": "现代"
+}, {
+	"modeType": 1,
+	"series": "伊兰特EV",
+	"factoryName": "北京现代",
+	"id": 1921,
+	"brand": "现代"
+}, {
+	"modeType": 1,
+	"series": "全新胜达",
+	"factoryName": "北京现代",
+	"id": 1372,
+	"brand": "现代"
+}, {
+	"modeType": 1,
+	"series": "北京现代ix25",
+	"factoryName": "北京现代",
+	"id": 1369,
+	"brand": "现代"
+}, {
+	"modeType": 1,
+	"series": "北京现代ix35",
+	"factoryName": "北京现代",
+	"id": 1368,
+	"brand": "现代"
+}, {
+	"modeType": 1,
+	"series": "名图",
+	"factoryName": "北京现代",
+	"id": 1362,
+	"brand": "现代"
+}, {
+	"modeType": 1,
+	"series": "悦动",
+	"factoryName": "北京现代",
+	"id": 1364,
+	"brand": "现代"
+}, {
+	"modeType": 1,
+	"series": "悦纳",
+	"factoryName": "北京现代",
+	"id": 1370,
+	"brand": "现代"
+}, {
+	"modeType": 1,
+	"series": "悦纳RV",
+	"factoryName": "北京现代",
+	"id": 1373,
+	"brand": "现代"
+}, {
+	"modeType": 1,
+	"series": "朗动",
+	"factoryName": "北京现代",
+	"id": 1363,
+	"brand": "现代"
+}, {
+	"modeType": 1,
+	"series": "瑞奕",
+	"factoryName": "北京现代",
+	"id": 1375,
+	"brand": "现代"
+}, {
+	"modeType": 1,
+	"series": "瑞纳",
+	"factoryName": "北京现代",
+	"id": 1367,
+	"brand": "现代"
+}, {
+	"modeType": 1,
+	"series": "索纳塔九",
+	"factoryName": "北京现代",
+	"id": 1371,
+	"brand": "现代"
+}, {
+	"modeType": 1,
+	"series": "索纳塔八",
+	"factoryName": "北京现代",
+	"id": 1383,
+	"brand": "现代"
+}, {
+	"modeType": 1,
+	"series": "途胜",
+	"factoryName": "北京现代",
+	"id": 1365,
+	"brand": "现代"
+}, {
+	"modeType": 1,
+	"series": "领动",
+	"factoryName": "北京现代",
+	"id": 1366,
+	"brand": "现代"
+}, {
+	"modeType": 1,
+	"series": "康恩迪",
+	"factoryName": "四川现代",
+	"id": 1376,
+	"brand": "现代"
+}, {
+	"modeType": 2,
+	"series": "劳恩斯酷派",
+	"factoryName": "现代(进口)",
+	"id": 6824,
+	"brand": "现代"
+}, {
+	"modeType": 2,
+	"series": "捷恩斯",
+	"factoryName": "现代(进口)",
+	"id": 6822,
+	"brand": "现代"
+}, {
+	"modeType": 2,
+	"series": "格越",
+	"factoryName": "现代(进口)",
+	"id": 6818,
+	"brand": "现代"
+}, {
+	"modeType": 2,
+	"series": "辉翼",
+	"factoryName": "现代(进口)",
+	"id": 6820,
+	"brand": "现代"
+}, {
+	"modeType": 2,
+	"series": "雅尊",
+	"factoryName": "现代(进口)",
+	"id": 6828,
+	"brand": "现代"
+}, {
+	"modeType": 2,
+	"series": "雅科仕",
+	"factoryName": "现代(进口)",
+	"id": 6826,
+	"brand": "现代"
+}, {
+	"modeType": 2,
+	"series": "飞思",
+	"factoryName": "现代(进口)",
+	"id": 6816,
+	"brand": "现代"
+}, {
+	"modeType": 1,
+	"series": "理念S1",
+	"factoryName": "广汽本田",
+	"id": 1023,
+	"brand": "理念"
+}, {
+	"modeType": 1,
+	"series": "瑞驰新能源EC35",
+	"factoryName": "瑞驰新能源",
+	"id": 1234,
+	"brand": "瑞驰新能源"
+}, {
+	"modeType": 1,
+	"series": "瑞驰新能源EK05",
+	"factoryName": "瑞驰新能源",
+	"id": 2037,
+	"brand": "瑞驰新能源"
+}, {
+	"modeType": 1,
+	"series": "瑞麒M1",
+	"factoryName": "奇瑞汽车",
+	"id": 1231,
+	"brand": "瑞麒"
+}, {
+	"modeType": 10,
+	"series": "猎人",
+	"factoryName": "瓦滋汽车",
+	"id": 7362,
+	"brand": "瓦滋UAZ"
+}, {
+	"modeType": 1,
+	"series": "电咖·EV10",
+	"factoryName": "电咖汽车",
+	"id": 2089,
+	"brand": "电咖"
+}, {
+	"modeType": 1,
+	"series": "知豆",
+	"factoryName": "知豆电动车",
+	"id": 1529,
+	"brand": "知豆"
+}, {
+	"modeType": 1,
+	"series": "知豆D1",
+	"factoryName": "知豆电动车",
+	"id": 1528,
+	"brand": "知豆"
+}, {
+	"modeType": 1,
+	"series": "知豆D2",
+	"factoryName": "知豆电动车",
+	"id": 1527,
+	"brand": "知豆"
+}, {
+	"modeType": 1,
+	"series": "启腾EX80",
+	"factoryName": "福汽新龙马",
+	"id": 590,
+	"brand": "福汽启腾"
+}, {
+	"modeType": 1,
+	"series": "启腾M70",
+	"factoryName": "福汽新龙马",
+	"id": 591,
+	"brand": "福汽启腾"
+}, {
+	"modeType": 1,
+	"series": "启腾M70EV",
+	"factoryName": "福汽新龙马",
+	"id": 1967,
+	"brand": "福汽启腾"
+}, {
+	"modeType": 1,
+	"series": "启腾V60",
+	"factoryName": "福汽新龙马",
+	"id": 589,
+	"brand": "福汽启腾"
+}, {
+	"modeType": 1,
+	"series": "全顺",
+	"factoryName": "江铃福特",
+	"id": 529,
+	"brand": "福特"
+}, {
+	"modeType": 1,
+	"series": "撼路者",
+	"factoryName": "江铃福特",
+	"id": 528,
+	"brand": "福特"
+}, {
+	"modeType": 1,
+	"series": "新世代全顺",
+	"factoryName": "江铃福特",
+	"id": 531,
+	"brand": "福特"
+}, {
+	"modeType": 1,
+	"series": "经典全顺",
+	"factoryName": "江铃福特",
+	"id": 543,
+	"brand": "福特"
+}, {
+	"modeType": 1,
+	"series": "途睿欧",
+	"factoryName": "江铃福特",
+	"id": 530,
+	"brand": "福特"
+}, {
+	"modeType": 2,
+	"series": "C-MAX",
+	"factoryName": "福特(中规进口)",
+	"id": 6422,
+	"brand": "福特"
+}, {
+	"modeType": 2,
+	"series": "Ranger",
+	"factoryName": "福特(中规进口)",
+	"id": 6424,
+	"brand": "福特"
+}, {
+	"modeType": 2,
+	"series": "嘉年华(进口)",
+	"factoryName": "福特(中规进口)",
+	"id": 6434,
+	"brand": "福特"
+}, {
+	"modeType": 2,
+	"series": "探险者",
+	"factoryName": "福特(中规进口)",
+	"id": 6436,
+	"brand": "福特"
+}, {
+	"modeType": 2,
+	"series": "福克斯(进口)",
+	"factoryName": "福特(中规进口)",
+	"id": 6426,
+	"brand": "福特"
+}, {
+	"modeType": 2,
+	"series": "福特E350",
+	"factoryName": "福特(中规进口)",
+	"id": 6428,
+	"brand": "福特"
+}, {
+	"modeType": 2,
+	"series": "福特F-150",
+	"factoryName": "福特(中规进口)",
+	"id": 6430,
+	"brand": "福特"
+}, {
+	"modeType": 2,
+	"series": "福特GT",
+	"factoryName": "福特(中规进口)",
+	"id": 6432,
+	"brand": "福特"
+}, {
+	"modeType": 2,
+	"series": "野马",
+	"factoryName": "福特(中规进口)",
+	"id": 6438,
+	"brand": "福特"
+}, {
+	"modeType": 6,
+	"series": "征服者",
+	"factoryName": "福特(平行进口)",
+	"id": 7092,
+	"brand": "福特"
+}, {
+	"modeType": 4,
+	"series": "探险者",
+	"factoryName": "福特(平行进口)",
+	"id": 6960,
+	"brand": "福特"
+}, {
+	"modeType": 4,
+	"series": "福特E350",
+	"factoryName": "福特(平行进口)",
+	"id": 6946,
+	"brand": "福特"
+}, {
+	"modeType": 4,
+	"series": "福特E450",
+	"factoryName": "福特(平行进口)",
+	"id": 6948,
+	"brand": "福特"
+}, {
+	"modeType": 4,
+	"series": "福特F150猛禽",
+	"factoryName": "福特(平行进口)",
+	"id": 6950,
+	"brand": "福特"
+}, {
+	"modeType": 4,
+	"series": "福特F250",
+	"factoryName": "福特(平行进口)",
+	"id": 6952,
+	"brand": "福特"
+}, {
+	"modeType": 4,
+	"series": "福特F350",
+	"factoryName": "福特(平行进口)",
+	"id": 6954,
+	"brand": "福特"
+}, {
+	"modeType": 4,
+	"series": "福特F450",
+	"factoryName": "福特(平行进口)",
+	"id": 6956,
+	"brand": "福特"
+}, {
+	"modeType": 4,
+	"series": "福特F650",
+	"factoryName": "福特(平行进口)",
+	"id": 6958,
+	"brand": "福特"
+}, {
+	"modeType": 4,
+	"series": "野马",
+	"factoryName": "福特(平行进口)",
+	"id": 6962,
+	"brand": "福特"
+}, {
+	"modeType": 1,
+	"series": "嘉年华",
+	"factoryName": "长安福特",
+	"id": 527,
+	"brand": "福特"
+}, {
+	"modeType": 1,
+	"series": "福克斯",
+	"factoryName": "长安福特",
+	"id": 521,
+	"brand": "福特"
+}, {
+	"modeType": 1,
+	"series": "福睿斯",
+	"factoryName": "长安福特",
+	"id": 522,
+	"brand": "福特"
+}, {
+	"modeType": 1,
+	"series": "翼搏",
+	"factoryName": "长安福特",
+	"id": 526,
+	"brand": "福特"
+}, {
+	"modeType": 1,
+	"series": "翼虎",
+	"factoryName": "长安福特",
+	"id": 524,
+	"brand": "福特"
+}, {
+	"modeType": 1,
+	"series": "致胜",
+	"factoryName": "长安福特",
+	"id": 541,
+	"brand": "福特"
+}, {
+	"modeType": 1,
+	"series": "蒙迪欧",
+	"factoryName": "长安福特",
+	"id": 520,
+	"brand": "福特"
+}, {
+	"modeType": 1,
+	"series": "蒙迪欧新能源",
+	"factoryName": "长安福特",
+	"id": 7518,
+	"brand": "福特"
+}, {
+	"modeType": 1,
+	"series": "金牛座",
+	"factoryName": "长安福特",
+	"id": 525,
+	"brand": "福特"
+}, {
+	"modeType": 1,
+	"series": "锐界",
+	"factoryName": "长安福特",
+	"id": 523,
+	"brand": "福特"
+}, {
+	"modeType": 1,
+	"series": "图雅诺",
+	"factoryName": "福田汽车",
+	"id": 580,
+	"brand": "福田"
+}, {
+	"modeType": 1,
+	"series": "图雅诺EV",
+	"factoryName": "福田汽车",
+	"id": 2057,
+	"brand": "福田"
+}, {
+	"modeType": 1,
+	"series": "祥菱M",
+	"factoryName": "福田汽车",
+	"id": 7526,
+	"brand": "福田"
+}, {
+	"modeType": 1,
+	"series": "祥菱V",
+	"factoryName": "福田汽车",
+	"id": 7524,
+	"brand": "福田"
+}, {
+	"modeType": 1,
+	"series": "福田风景",
+	"factoryName": "福田汽车",
+	"id": 583,
+	"brand": "福田"
+}, {
+	"modeType": 1,
+	"series": "萨普",
+	"factoryName": "福田汽车",
+	"id": 579,
+	"brand": "福田"
+}, {
+	"modeType": 1,
+	"series": "蒙派克E",
+	"factoryName": "福田汽车",
+	"id": 582,
+	"brand": "福田"
+}, {
+	"modeType": 1,
+	"series": "蒙派克S",
+	"factoryName": "福田汽车",
+	"id": 586,
+	"brand": "福田"
+}, {
+	"modeType": 1,
+	"series": "迷迪",
+	"factoryName": "福田汽车",
+	"id": 588,
+	"brand": "福田"
+}, {
+	"modeType": 1,
+	"series": "风景G7",
+	"factoryName": "福田汽车",
+	"id": 581,
+	"brand": "福田"
+}, {
+	"modeType": 1,
+	"series": "风景G9",
+	"factoryName": "福田汽车",
+	"id": 584,
+	"brand": "福田"
+}, {
+	"modeType": 1,
+	"series": "风景V3",
+	"factoryName": "福田汽车",
+	"id": 587,
+	"brand": "福田"
+}, {
+	"modeType": 1,
+	"series": "风景V5",
+	"factoryName": "福田汽车",
+	"id": 585,
+	"brand": "福田"
+}, {
+	"modeType": 1,
+	"series": "伽途GT",
+	"factoryName": "福田汽车",
+	"id": 7522,
+	"brand": "福田乘用车"
+}, {
+	"modeType": 1,
+	"series": "伽途im6",
+	"factoryName": "福田汽车",
+	"id": 576,
+	"brand": "福田乘用车"
+}, {
+	"modeType": 1,
+	"series": "伽途im8",
+	"factoryName": "福田汽车",
+	"id": 575,
+	"brand": "福田乘用车"
+}, {
+	"modeType": 1,
+	"series": "伽途ix5",
+	"factoryName": "福田汽车",
+	"id": 577,
+	"brand": "福田乘用车"
+}, {
+	"modeType": 1,
+	"series": "伽途ix7",
+	"factoryName": "福田汽车",
+	"id": 578,
+	"brand": "福田乘用车"
+}, {
+	"modeType": 1,
+	"series": "拓陆者",
+	"factoryName": "福田汽车",
+	"id": 573,
+	"brand": "福田乘用车"
+}, {
+	"modeType": 1,
+	"series": "萨瓦纳",
+	"factoryName": "福田汽车",
+	"id": 574,
+	"brand": "福田乘用车"
+}, {
+	"modeType": 1,
+	"series": "小超人",
+	"factoryName": "福迪汽车",
+	"id": 567,
+	"brand": "福迪"
+}, {
+	"modeType": 1,
+	"series": "探索者Ⅲ",
+	"factoryName": "福迪汽车",
+	"id": 570,
+	"brand": "福迪"
+}, {
+	"modeType": 1,
+	"series": "揽福",
+	"factoryName": "福迪汽车",
+	"id": 565,
+	"brand": "福迪"
+}, {
+	"modeType": 1,
+	"series": "雄师F16",
+	"factoryName": "福迪汽车",
+	"id": 568,
+	"brand": "福迪"
+}, {
+	"modeType": 1,
+	"series": "雄师F22",
+	"factoryName": "福迪汽车",
+	"id": 566,
+	"brand": "福迪"
+}, {
+	"modeType": 2,
+	"series": "Agera",
+	"factoryName": "科尼赛克",
+	"id": 6502,
+	"brand": "科尼赛克"
+}, {
+	"modeType": 1,
+	"series": "红旗H7",
+	"factoryName": "一汽红旗",
+	"id": 669,
+	"brand": "红旗"
+}, {
+	"modeType": 1,
+	"series": "红旗L5",
+	"factoryName": "一汽红旗",
+	"id": 670,
+	"brand": "红旗"
+}, {
+	"modeType": 1,
+	"series": "MASTER CEO",
+	"factoryName": "东风裕隆",
+	"id": 1100,
+	"brand": "纳智捷"
+}, {
+	"modeType": 1,
+	"series": "U5 SUV",
+	"factoryName": "东风裕隆",
+	"id": 1955,
+	"brand": "纳智捷"
+}, {
+	"modeType": 1,
+	"series": "优6 SUV",
+	"factoryName": "东风裕隆",
+	"id": 1095,
+	"brand": "纳智捷"
+}, {
+	"modeType": 1,
+	"series": "大7 MPV",
+	"factoryName": "东风裕隆",
+	"id": 1099,
+	"brand": "纳智捷"
+}, {
+	"modeType": 1,
+	"series": "大7 SUV",
+	"factoryName": "东风裕隆",
+	"id": 1097,
+	"brand": "纳智捷"
+}, {
+	"modeType": 1,
+	"series": "纳5",
+	"factoryName": "东风裕隆",
+	"id": 1098,
+	"brand": "纳智捷"
+}, {
+	"modeType": 1,
+	"series": "锐3",
+	"factoryName": "东风裕隆",
+	"id": 1096,
+	"brand": "纳智捷"
+}, {
+	"modeType": 2,
+	"series": "Lorinser GL级",
+	"factoryName": "罗伦士(中规)",
+	"id": 6852,
+	"brand": "罗伦士"
+}, {
+	"modeType": 2,
+	"series": "Lorinser GS500",
+	"factoryName": "罗伦士(中规)",
+	"id": 6854,
+	"brand": "罗伦士"
+}, {
+	"modeType": 2,
+	"series": "Lorinser G级",
+	"factoryName": "罗伦士(中规)",
+	"id": 6856,
+	"brand": "罗伦士"
+}, {
+	"modeType": 2,
+	"series": "Lorinser MAYBACH S650",
+	"factoryName": "罗伦士(中规)",
+	"id": 6858,
+	"brand": "罗伦士"
+}, {
+	"modeType": 2,
+	"series": "Lorinser MS500L",
+	"factoryName": "罗伦士(中规)",
+	"id": 6860,
+	"brand": "罗伦士"
+}, {
+	"modeType": 2,
+	"series": "Lorinser M级",
+	"factoryName": "罗伦士(中规)",
+	"id": 6862,
+	"brand": "罗伦士"
+}, {
+	"modeType": 2,
+	"series": "Lorinser VS系列",
+	"factoryName": "罗伦士(中规)",
+	"id": 6864,
+	"brand": "罗伦士"
+}, {
+	"modeType": 2,
+	"series": "Metris MS500",
+	"factoryName": "罗伦士(中规)",
+	"id": 6866,
+	"brand": "罗伦士"
+}, {
+	"modeType": 2,
+	"series": "Sprinter LS500",
+	"factoryName": "罗伦士(中规)",
+	"id": 6868,
+	"brand": "罗伦士"
+}, {
+	"modeType": 2,
+	"series": "劳伦士CLS级",
+	"factoryName": "罗伦士(中规)",
+	"id": 6870,
+	"brand": "罗伦士"
+}, {
+	"modeType": 2,
+	"series": "劳伦士S级",
+	"factoryName": "罗伦士(中规)",
+	"id": 6872,
+	"brand": "罗伦士"
+}, {
+	"modeType": 1,
+	"series": "腾势",
+	"factoryName": "腾势汽车",
+	"id": 1299,
+	"brand": "腾势"
+}, {
+	"modeType": 1,
+	"series": "英菲尼迪Q50L",
+	"factoryName": "东风英菲尼迪",
+	"id": 1415,
+	"brand": "英菲尼迪"
+}, {
+	"modeType": 1,
+	"series": "英菲尼迪QX50",
+	"factoryName": "东风英菲尼迪",
+	"id": 1416,
+	"brand": "英菲尼迪"
+}, {
+	"modeType": 6,
+	"series": "英菲尼迪QX80",
+	"factoryName": "英菲尼迪(平行进口)",
+	"id": 7130,
+	"brand": "英菲尼迪"
+}, {
+	"modeType": 2,
+	"series": "英菲尼迪ESQ",
+	"factoryName": "英菲尼迪(进口)",
+	"id": 6834,
+	"brand": "英菲尼迪"
+}, {
+	"modeType": 2,
+	"series": "英菲尼迪Q50",
+	"factoryName": "英菲尼迪(进口)",
+	"id": 6836,
+	"brand": "英菲尼迪"
+}, {
+	"modeType": 2,
+	"series": "英菲尼迪Q60",
+	"factoryName": "英菲尼迪(进口)",
+	"id": 6838,
+	"brand": "英菲尼迪"
+}, {
+	"modeType": 2,
+	"series": "英菲尼迪Q70",
+	"factoryName": "英菲尼迪(进口)",
+	"id": 6840,
+	"brand": "英菲尼迪"
+}, {
+	"modeType": 2,
+	"series": "英菲尼迪QX30",
+	"factoryName": "英菲尼迪(进口)",
+	"id": 6842,
+	"brand": "英菲尼迪"
+}, {
+	"modeType": 2,
+	"series": "英菲尼迪QX60",
+	"factoryName": "英菲尼迪(进口)",
+	"id": 6844,
+	"brand": "英菲尼迪"
+}, {
+	"modeType": 2,
+	"series": "英菲尼迪QX70",
+	"factoryName": "英菲尼迪(进口)",
+	"id": 6846,
+	"brand": "英菲尼迪"
+}, {
+	"modeType": 2,
+	"series": "英菲尼迪QX80",
+	"factoryName": "英菲尼迪(进口)",
+	"id": 6848,
+	"brand": "英菲尼迪"
+}, {
+	"modeType": 1,
+	"series": "荣威350",
+	"factoryName": "上汽集团",
+	"id": 1218,
+	"brand": "荣威"
+}, {
+	"modeType": 1,
+	"series": "荣威360",
+	"factoryName": "上汽集团",
+	"id": 1216,
+	"brand": "荣威"
+}, {
+	"modeType": 1,
+	"series": "荣威550",
+	"factoryName": "上汽集团",
+	"id": 1220,
+	"brand": "荣威"
+}, {
+	"modeType": 1,
+	"series": "荣威950",
+	"factoryName": "上汽集团",
+	"id": 1224,
+	"brand": "荣威"
+}, {
+	"modeType": 1,
+	"series": "荣威e50",
+	"factoryName": "上汽集团",
+	"id": 1225,
+	"brand": "荣威"
+}, {
+	"modeType": 1,
+	"series": "荣威e550",
+	"factoryName": "上汽集团",
+	"id": 1222,
+	"brand": "荣威"
+}, {
+	"modeType": 1,
+	"series": "荣威e950",
+	"factoryName": "上汽集团",
+	"id": 1223,
+	"brand": "荣威"
+}, {
+	"modeType": 1,
+	"series": "荣威ei6",
+	"factoryName": "上汽集团",
+	"id": 1219,
+	"brand": "荣威"
+}, {
+	"modeType": 1,
+	"series": "荣威i6",
+	"factoryName": "上汽集团",
+	"id": 1215,
+	"brand": "荣威"
+}, {
+	"modeType": 1,
+	"series": "荣威RX3",
+	"factoryName": "上汽集团",
+	"id": 2035,
+	"brand": "荣威"
+}, {
+	"modeType": 1,
+	"series": "荣威RX5",
+	"factoryName": "上汽集团",
+	"id": 1214,
+	"brand": "荣威"
+}, {
+	"modeType": 1,
+	"series": "荣威RX5新能源",
+	"factoryName": "上汽集团",
+	"id": 1217,
+	"brand": "荣威"
+}, {
+	"modeType": 1,
+	"series": "荣威W5",
+	"factoryName": "上汽集团",
+	"id": 1221,
+	"brand": "荣威"
+}, {
+	"modeType": 1,
+	"series": "莲花L3",
+	"factoryName": "莲花汽车",
+	"id": 1019,
+	"brand": "莲花汽车"
+}, {
+	"modeType": 1,
+	"series": "莲花L5",
+	"factoryName": "莲花汽车",
+	"id": 1020,
+	"brand": "莲花汽车"
+}, {
+	"modeType": 1,
+	"series": "致悦",
+	"factoryName": "广汽菲克菲亚特",
+	"id": 558,
+	"brand": "菲亚特"
+}, {
+	"modeType": 1,
+	"series": "菲翔",
+	"factoryName": "广汽菲克菲亚特",
+	"id": 557,
+	"brand": "菲亚特"
+}, {
+	"modeType": 10,
+	"series": "ABARTH 595",
+	"factoryName": "菲亚特(平行进口)",
+	"id": 7308,
+	"brand": "菲亚特"
+}, {
+	"modeType": 2,
+	"series": "菲亚特500",
+	"factoryName": "菲亚特(进口)",
+	"id": 6454,
+	"brand": "菲亚特"
+}, {
+	"modeType": 2,
+	"series": "菲跃",
+	"factoryName": "菲亚特(进口)",
+	"id": 6456,
+	"brand": "菲亚特"
+}, {
+	"modeType": 1,
+	"series": "裕路EV2",
+	"factoryName": "裕路汽车",
+	"id": 2017,
+	"brand": "裕路"
+}, {
+	"modeType": 1,
+	"series": "观致3",
+	"factoryName": "观致汽车",
+	"id": 606,
+	"brand": "观致"
+}, {
+	"modeType": 1,
+	"series": "观致5",
+	"factoryName": "观致汽车",
+	"id": 605,
+	"brand": "观致"
+}, {
+	"modeType": 1,
+	"series": "讴歌CDX",
+	"factoryName": "广汽讴歌",
+	"id": 1102,
+	"brand": "讴歌"
+}, {
+	"modeType": 2,
+	"series": "讴歌ILX",
+	"factoryName": "讴歌(进口)",
+	"id": 6670,
+	"brand": "讴歌"
+}, {
+	"modeType": 2,
+	"series": "讴歌MDX",
+	"factoryName": "讴歌(进口)",
+	"id": 6672,
+	"brand": "讴歌"
+}, {
+	"modeType": 2,
+	"series": "讴歌NSX",
+	"factoryName": "讴歌(进口)",
+	"id": 6674,
+	"brand": "讴歌"
+}, {
+	"modeType": 2,
+	"series": "讴歌RDX",
+	"factoryName": "讴歌(进口)",
+	"id": 6676,
+	"brand": "讴歌"
+}, {
+	"modeType": 2,
+	"series": "讴歌RLX",
+	"factoryName": "讴歌(进口)",
+	"id": 6678,
+	"brand": "讴歌"
+}, {
+	"modeType": 2,
+	"series": "讴歌TLX",
+	"factoryName": "讴歌(进口)",
+	"id": 6680,
+	"brand": "讴歌"
+}, {
+	"modeType": 2,
+	"series": "讴歌ZDX",
+	"factoryName": "讴歌(进口)",
+	"id": 6682,
+	"brand": "讴歌"
+}, {
+	"modeType": 2,
+	"series": "赛麟科迈罗",
+	"factoryName": "赛麟(中规进口)",
+	"id": 6762,
+	"brand": "赛麟"
+}, {
+	"modeType": 2,
+	"series": "赛麟野马",
+	"factoryName": "赛麟(中规进口)",
+	"id": 6764,
+	"brand": "赛麟"
+}, {
+	"modeType": 4,
+	"series": "赛麟野马",
+	"factoryName": "赛麟(平行进口)",
+	"id": 7012,
+	"brand": "赛麟"
+}, {
+	"modeType": 1,
+	"series": "KX CROSS",
+	"factoryName": "东风悦达起亚",
+	"id": 1963,
+	"brand": "起亚"
+}, {
+	"modeType": 1,
+	"series": "凯绅",
+	"factoryName": "东风悦达起亚",
+	"id": 1965,
+	"brand": "起亚"
+}, {
+	"modeType": 1,
+	"series": "智跑",
+	"factoryName": "东风悦达起亚",
+	"id": 1152,
+	"brand": "起亚"
+}, {
+	"modeType": 1,
+	"series": "焕驰",
+	"factoryName": "东风悦达起亚",
+	"id": 1991,
+	"brand": "起亚"
+}, {
+	"modeType": 1,
+	"series": "狮跑",
+	"factoryName": "东风悦达起亚",
+	"id": 1166,
+	"brand": "起亚"
+}, {
+	"modeType": 1,
+	"series": "福瑞迪",
+	"factoryName": "东风悦达起亚",
+	"id": 1157,
+	"brand": "起亚"
+}, {
+	"modeType": 1,
+	"series": "秀尔",
+	"factoryName": "东风悦达起亚",
+	"id": 1168,
+	"brand": "起亚"
+}, {
+	"modeType": 1,
+	"series": "起亚K2",
+	"factoryName": "东风悦达起亚",
+	"id": 1151,
+	"brand": "起亚"
+}, {
+	"modeType": 1,
+	"series": "起亚K3",
+	"factoryName": "东风悦达起亚",
+	"id": 1149,
+	"brand": "起亚"
+}, {
+	"modeType": 1,
+	"series": "起亚K3S",
+	"factoryName": "东风悦达起亚",
+	"id": 1167,
+	"brand": "起亚"
+}, {
+	"modeType": 1,
+	"series": "起亚K4",
+	"factoryName": "东风悦达起亚",
+	"id": 1153,
+	"brand": "起亚"
+}, {
+	"modeType": 1,
+	"series": "起亚K5",
+	"factoryName": "东风悦达起亚",
+	"id": 1150,
+	"brand": "起亚"
+}, {
+	"modeType": 1,
+	"series": "起亚KX3",
+	"factoryName": "东风悦达起亚",
+	"id": 1156,
+	"brand": "起亚"
+}, {
+	"modeType": 1,
+	"series": "起亚KX5",
+	"factoryName": "东风悦达起亚",
+	"id": 1154,
+	"brand": "起亚"
+}, {
+	"modeType": 1,
+	"series": "起亚KX7",
+	"factoryName": "东风悦达起亚",
+	"id": 1155,
+	"brand": "起亚"
+}, {
+	"modeType": 2,
+	"series": "凯尊",
+	"factoryName": "起亚(进口)",
+	"id": 6694,
+	"brand": "起亚"
+}, {
+	"modeType": 2,
+	"series": "嘉华(进口)",
+	"factoryName": "起亚(进口)",
+	"id": 6692,
+	"brand": "起亚"
+}, {
+	"modeType": 2,
+	"series": "斯汀格",
+	"factoryName": "起亚(进口)",
+	"id": 6700,
+	"brand": "起亚"
+}, {
+	"modeType": 2,
+	"series": "新佳乐",
+	"factoryName": "起亚(进口)",
+	"id": 6706,
+	"brand": "起亚"
+}, {
+	"modeType": 2,
+	"series": "极睿",
+	"factoryName": "起亚(进口)",
+	"id": 6690,
+	"brand": "起亚"
+}, {
+	"modeType": 2,
+	"series": "索兰托",
+	"factoryName": "起亚(进口)",
+	"id": 6704,
+	"brand": "起亚"
+}, {
+	"modeType": 2,
+	"series": "起亚K9",
+	"factoryName": "起亚(进口)",
+	"id": 6696,
+	"brand": "起亚"
+}, {
+	"modeType": 2,
+	"series": "起亚VQ",
+	"factoryName": "起亚(进口)",
+	"id": 6698,
+	"brand": "起亚"
+}, {
+	"modeType": 2,
+	"series": "速迈",
+	"factoryName": "起亚(进口)",
+	"id": 6702,
+	"brand": "起亚"
+}, {
+	"modeType": 2,
+	"series": "霸锐",
+	"factoryName": "起亚(进口)",
+	"id": 6688,
+	"brand": "起亚"
+}, {
+	"modeType": 2,
+	"series": "Elise",
+	"factoryName": "路特斯",
+	"id": 6594,
+	"brand": "路特斯"
+}, {
+	"modeType": 2,
+	"series": "Evora",
+	"factoryName": "路特斯",
+	"id": 6596,
+	"brand": "路特斯"
+}, {
+	"modeType": 2,
+	"series": "Exige",
+	"factoryName": "路特斯",
+	"id": 6598,
+	"brand": "路特斯"
+}, {
+	"modeType": 1,
+	"series": "发现神行",
+	"factoryName": "奇瑞捷豹路虎",
+	"id": 908,
+	"brand": "路虎"
+}, {
+	"modeType": 1,
+	"series": "揽胜极光",
+	"factoryName": "奇瑞捷豹路虎",
+	"id": 909,
+	"brand": "路虎"
+}, {
+	"modeType": 10,
+	"series": "卫士",
+	"factoryName": "路虎(平行进口)",
+	"id": 7332,
+	"brand": "路虎"
+}, {
+	"modeType": 4,
+	"series": "发现五",
+	"factoryName": "路虎(平行进口)",
+	"id": 6980,
+	"brand": "路虎"
+}, {
+	"modeType": 10,
+	"series": "发现四",
+	"factoryName": "路虎(平行进口)",
+	"id": 7310,
+	"brand": "路虎"
+}, {
+	"modeType": 8,
+	"series": "揽胜星脉",
+	"factoryName": "路虎(平行进口)",
+	"id": 7218,
+	"brand": "路虎"
+}, {
+	"modeType": 10,
+	"series": "揽胜行政2.0混动",
+	"factoryName": "路虎(平行进口)",
+	"id": 7316,
+	"brand": "路虎"
+}, {
+	"modeType": 8,
+	"series": "揽胜行政3.0柴油",
+	"factoryName": "路虎(平行进口)",
+	"id": 7220,
+	"brand": "路虎"
+}, {
+	"modeType": 4,
+	"series": "揽胜行政3.0汽油",
+	"factoryName": "路虎(平行进口)",
+	"id": 6982,
+	"brand": "路虎"
+}, {
+	"modeType": 4,
+	"series": "揽胜行政5.0",
+	"factoryName": "路虎(平行进口)",
+	"id": 6984,
+	"brand": "路虎"
+}, {
+	"modeType": 10,
+	"series": "揽胜运动2.0柴油",
+	"factoryName": "路虎(平行进口)",
+	"id": 7324,
+	"brand": "路虎"
+}, {
+	"modeType": 10,
+	"series": "揽胜运动2.0汽油",
+	"factoryName": "路虎(平行进口)",
+	"id": 7326,
+	"brand": "路虎"
+}, {
+	"modeType": 8,
+	"series": "揽胜运动3.0柴油",
+	"factoryName": "路虎(平行进口)",
+	"id": 7226,
+	"brand": "路虎"
+}, {
+	"modeType": 8,
+	"series": "揽胜运动3.0汽油",
+	"factoryName": "路虎(平行进口)",
+	"id": 7228,
+	"brand": "路虎"
+}, {
+	"modeType": 2,
+	"series": "发现",
+	"factoryName": "路虎(进口)",
+	"id": 6508,
+	"brand": "路虎"
+}, {
+	"modeType": 2,
+	"series": "揽胜新能源",
+	"factoryName": "路虎(进口)",
+	"id": 6512,
+	"brand": "路虎"
+}, {
+	"modeType": 2,
+	"series": "揽胜星脉",
+	"factoryName": "路虎(进口)",
+	"id": 6514,
+	"brand": "路虎"
+}, {
+	"modeType": 2,
+	"series": "揽胜行政",
+	"factoryName": "路虎(进口)",
+	"id": 6516,
+	"brand": "路虎"
+}, {
+	"modeType": 2,
+	"series": "揽胜运动",
+	"factoryName": "路虎(进口)",
+	"id": 6518,
+	"brand": "路虎"
+}, {
+	"modeType": 2,
+	"series": "揽胜运动新能源",
+	"factoryName": "路虎(进口)",
+	"id": 6520,
+	"brand": "路虎"
+}, {
+	"modeType": 2,
+	"series": "极光(进口)",
+	"factoryName": "路虎(进口)",
+	"id": 6510,
+	"brand": "路虎"
+}, {
+	"modeType": 2,
+	"series": "迈凯伦540C",
+	"factoryName": "迈凯伦",
+	"id": 6638,
+	"brand": "迈凯伦"
+}, {
+	"modeType": 2,
+	"series": "迈凯伦570S",
+	"factoryName": "迈凯伦",
+	"id": 6640,
+	"brand": "迈凯伦"
+}, {
+	"modeType": 2,
+	"series": "迈凯伦625C",
+	"factoryName": "迈凯伦",
+	"id": 6642,
+	"brand": "迈凯伦"
+}, {
+	"modeType": 2,
+	"series": "迈凯伦650S",
+	"factoryName": "迈凯伦",
+	"id": 6644,
+	"brand": "迈凯伦"
+}, {
+	"modeType": 2,
+	"series": "迈凯伦720S",
+	"factoryName": "迈凯伦",
+	"id": 6646,
+	"brand": "迈凯伦"
+}, {
+	"modeType": 2,
+	"series": "迈凯伦P1",
+	"factoryName": "迈凯伦",
+	"id": 6648,
+	"brand": "迈凯伦"
+}, {
+	"modeType": 2,
+	"series": "迈凯轮570GT",
+	"factoryName": "迈凯伦",
+	"id": 6650,
+	"brand": "迈凯伦"
+}, {
+	"modeType": 10,
+	"series": "迈凯伦720S",
+	"factoryName": "迈凯伦(平行进口)",
+	"id": 7350,
+	"brand": "迈凯伦"
+}, {
+	"modeType": 10,
+	"series": "迈凯轮540C",
+	"factoryName": "迈凯伦(平行进口)",
+	"id": 7352,
+	"brand": "迈凯伦"
+}, {
+	"modeType": 10,
+	"series": "迈凯轮570GT",
+	"factoryName": "迈凯伦(平行进口)",
+	"id": 7354,
+	"brand": "迈凯伦"
+}, {
+	"modeType": 10,
+	"series": "迈凯轮570S",
+	"factoryName": "迈凯伦(平行进口)",
+	"id": 7356,
+	"brand": "迈凯伦"
+}, {
+	"modeType": 2,
+	"series": "迈巴赫62",
+	"factoryName": "迈巴赫",
+	"id": 6652,
+	"brand": "迈巴赫"
+}, {
+	"modeType": 2,
+	"series": "迈巴赫62S",
+	"factoryName": "迈巴赫",
+	"id": 6654,
+	"brand": "迈巴赫"
+}, {
+	"modeType": 4,
+	"series": "迈巴赫62S",
+	"factoryName": "迈巴赫(平行进口)",
+	"id": 7006,
+	"brand": "迈巴赫"
+}, {
+	"modeType": 4,
+	"series": "公羊1500",
+	"factoryName": "道奇(平行进口)",
+	"id": 6930,
+	"brand": "道奇"
+}, {
+	"modeType": 4,
+	"series": "公羊2500",
+	"factoryName": "道奇(平行进口)",
+	"id": 6932,
+	"brand": "道奇"
+}, {
+	"modeType": 4,
+	"series": "公羊5500",
+	"factoryName": "道奇(平行进口)",
+	"id": 6934,
+	"brand": "道奇"
+}, {
+	"modeType": 4,
+	"series": "挑战者",
+	"factoryName": "道奇(平行进口)",
+	"id": 6936,
+	"brand": "道奇"
+}, {
+	"modeType": 8,
+	"series": "杜兰戈",
+	"factoryName": "道奇(平行进口)",
+	"id": 7178,
+	"brand": "道奇"
+}, {
+	"modeType": 2,
+	"series": "酷威",
+	"factoryName": "道奇(进口)",
+	"id": 6406,
+	"brand": "道奇"
+}, {
+	"modeType": 1,
+	"series": "斯派卡",
+	"factoryName": "野马汽车",
+	"id": 1971,
+	"brand": "野马汽车"
+}, {
+	"modeType": 1,
+	"series": "野马EC30",
+	"factoryName": "野马汽车",
+	"id": 1929,
+	"brand": "野马汽车"
+}, {
+	"modeType": 1,
+	"series": "野马F12",
+	"factoryName": "野马汽车",
+	"id": 1463,
+	"brand": "野马汽车"
+}, {
+	"modeType": 1,
+	"series": "野马F16",
+	"factoryName": "野马汽车",
+	"id": 1464,
+	"brand": "野马汽车"
+}, {
+	"modeType": 1,
+	"series": "野马T70",
+	"factoryName": "野马汽车",
+	"id": 1461,
+	"brand": "野马汽车"
+}, {
+	"modeType": 1,
+	"series": "野马T80",
+	"factoryName": "野马汽车",
+	"id": 1460,
+	"brand": "野马汽车"
+}, {
+	"modeType": 1,
+	"series": "野马U能E350",
+	"factoryName": "野马汽车",
+	"id": 1462,
+	"brand": "野马汽车"
+}, {
+	"modeType": 1,
+	"series": "金旅大海狮",
+	"factoryName": "厦门金旅",
+	"id": 853,
+	"brand": "金旅"
+}, {
+	"modeType": 1,
+	"series": "金旅大海狮新能源",
+	"factoryName": "厦门金旅",
+	"id": 852,
+	"brand": "金旅"
+}, {
+	"modeType": 1,
+	"series": "金旅海狮",
+	"factoryName": "厦门金旅",
+	"id": 1837,
+	"brand": "金旅"
+}, {
+	"modeType": 1,
+	"series": "金旅海狮新能源",
+	"factoryName": "厦门金旅",
+	"id": 2027,
+	"brand": "金旅"
+}, {
+	"modeType": 1,
+	"series": "金杯F50",
+	"factoryName": "华晨金杯",
+	"id": 809,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "金杯大海狮",
+	"factoryName": "华晨金杯",
+	"id": 813,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "金杯快运",
+	"factoryName": "华晨金杯",
+	"id": 811,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "金杯海狮",
+	"factoryName": "华晨金杯",
+	"id": 810,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "阁瑞斯",
+	"factoryName": "华晨金杯",
+	"id": 812,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "华晨金杯750",
+	"factoryName": "华晨鑫源",
+	"id": 814,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "小海狮X30",
+	"factoryName": "华晨鑫源",
+	"id": 816,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "海星A7",
+	"factoryName": "华晨鑫源",
+	"id": 1831,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "海星A9",
+	"factoryName": "华晨鑫源",
+	"id": 1833,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "海星T20",
+	"factoryName": "华晨鑫源",
+	"id": 821,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "海星T22",
+	"factoryName": "华晨鑫源",
+	"id": 823,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "海狮X30L",
+	"factoryName": "华晨鑫源",
+	"id": 815,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "金杯T30",
+	"factoryName": "华晨鑫源",
+	"id": 820,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "金杯T32",
+	"factoryName": "华晨鑫源",
+	"id": 818,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "金杯T50",
+	"factoryName": "华晨鑫源",
+	"id": 822,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "金杯T52",
+	"factoryName": "华晨鑫源",
+	"id": 817,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "大力神",
+	"factoryName": "绵阳金杯",
+	"id": 829,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "大力神K5",
+	"factoryName": "绵阳金杯",
+	"id": 831,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "小金牛",
+	"factoryName": "绵阳金杯",
+	"id": 832,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "智尚S30",
+	"factoryName": "绵阳金杯",
+	"id": 826,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "智尚S35",
+	"factoryName": "绵阳金杯",
+	"id": 827,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "西部牛仔",
+	"factoryName": "绵阳金杯",
+	"id": 830,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "金典",
+	"factoryName": "绵阳金杯",
+	"id": 828,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "金杯S70",
+	"factoryName": "绵阳金杯",
+	"id": 825,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "雷龙",
+	"factoryName": "绵阳金杯",
+	"id": 833,
+	"brand": "金杯"
+}, {
+	"modeType": 1,
+	"series": "凯歌",
+	"factoryName": "厦门金龙",
+	"id": 850,
+	"brand": "金龙"
+}, {
+	"modeType": 1,
+	"series": "凯特",
+	"factoryName": "厦门金龙",
+	"id": 849,
+	"brand": "金龙"
+}, {
+	"modeType": 1,
+	"series": "金威",
+	"factoryName": "厦门金龙",
+	"id": 848,
+	"brand": "金龙"
+}, {
+	"modeType": 1,
+	"series": "��亚纳",
+	"factoryName": "昌河铃木",
+	"id": 965,
+	"brand": "铃木"
+}, {
+	"modeType": 1,
+	"series": "利亚纳A6",
+	"factoryName": "昌河铃木",
+	"id": 951,
+	"brand": "铃木"
+}, {
+	"modeType": 1,
+	"series": "北斗星",
+	"factoryName": "昌河铃木",
+	"id": 950,
+	"brand": "铃木"
+}, {
+	"modeType": 1,
+	"series": "北斗星X5",
+	"factoryName": "昌河铃木",
+	"id": 952,
+	"brand": "铃木"
+}, {
+	"modeType": 6,
+	"series": "吉姆尼",
+	"factoryName": "铃木(平行进口)",
+	"id": 7104,
+	"brand": "铃木"
+}, {
+	"modeType": 2,
+	"series": "凯泽西",
+	"factoryName": "铃木(进口)",
+	"id": 6560,
+	"brand": "铃木"
+}, {
+	"modeType": 2,
+	"series": "吉姆尼",
+	"factoryName": "铃木(进口)",
+	"id": 6558,
+	"brand": "铃木"
+}, {
+	"modeType": 2,
+	"series": "英格尼斯",
+	"factoryName": "铃木(进口)",
+	"id": 6564,
+	"brand": "铃木"
+}, {
+	"modeType": 2,
+	"series": "超级维特拉",
+	"factoryName": "铃木(进口)",
+	"id": 6556,
+	"brand": "铃木"
+}, {
+	"modeType": 2,
+	"series": "速翼特",
+	"factoryName": "铃木(进口)",
+	"id": 6562,
+	"brand": "铃木"
+}, {
+	"modeType": 1,
+	"series": "启悦",
+	"factoryName": "长安铃木",
+	"id": 957,
+	"brand": "铃木"
+}, {
+	"modeType": 1,
+	"series": "天语 SX4",
+	"factoryName": "长安铃木",
+	"id": 959,
+	"brand": "铃木"
+}, {
+	"modeType": 1,
+	"series": "奥拓",
+	"factoryName": "长安铃木",
+	"id": 956,
+	"brand": "铃木"
+}, {
+	"modeType": 1,
+	"series": "维特拉",
+	"factoryName": "长安铃木",
+	"id": 954,
+	"brand": "铃木"
+}, {
+	"modeType": 1,
+	"series": "羚羊",
+	"factoryName": "长安铃木",
+	"id": 967,
+	"brand": "铃木"
+}, {
+	"modeType": 1,
+	"series": "锋驭",
+	"factoryName": "长安铃木",
+	"id": 958,
+	"brand": "铃木"
+}, {
+	"modeType": 1,
+	"series": "雨燕",
+	"factoryName": "长安铃木",
+	"id": 955,
+	"brand": "铃木"
+}, {
+	"modeType": 1,
+	"series": "骁途",
+	"factoryName": "长安铃木",
+	"id": 960,
+	"brand": "铃木"
+}, {
+	"modeType": 1,
+	"series": "长城C20R",
+	"factoryName": "长城汽车",
+	"id": 348,
+	"brand": "长城"
+}, {
+	"modeType": 1,
+	"series": "长城C30",
+	"factoryName": "长城汽车",
+	"id": 338,
+	"brand": "长城"
+}, {
+	"modeType": 1,
+	"series": "长城C30新能源",
+	"factoryName": "长城汽车",
+	"id": 340,
+	"brand": "长城"
+}, {
+	"modeType": 1,
+	"series": "长城C50",
+	"factoryName": "长城汽车",
+	"id": 341,
+	"brand": "长城"
+}, {
+	"modeType": 1,
+	"series": "长城M2",
+	"factoryName": "长城汽车",
+	"id": 343,
+	"brand": "长城"
+}, {
+	"modeType": 1,
+	"series": "长城M4",
+	"factoryName": "长城汽车",
+	"id": 342,
+	"brand": "长城"
+}, {
+	"modeType": 1,
+	"series": "长城V80",
+	"factoryName": "长城汽车",
+	"id": 347,
+	"brand": "长城"
+}, {
+	"modeType": 1,
+	"series": "风骏5",
+	"factoryName": "长城汽车",
+	"id": 337,
+	"brand": "长城"
+}, {
+	"modeType": 1,
+	"series": "风骏6",
+	"factoryName": "长城汽车",
+	"id": 339,
+	"brand": "长城"
+}, {
+	"modeType": 1,
+	"series": "凌轩",
+	"factoryName": "长安汽车",
+	"id": 303,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "奔奔",
+	"factoryName": "长安汽车",
+	"id": 306,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "奔奔EV",
+	"factoryName": "长安汽车",
+	"id": 308,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "悦翔",
+	"factoryName": "长安汽车",
+	"id": 7476,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "悦翔V3",
+	"factoryName": "长安汽车",
+	"id": 304,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "悦翔V5",
+	"factoryName": "长安汽车",
+	"id": 1791,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "悦翔V7",
+	"factoryName": "长安汽车",
+	"id": 301,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "睿骋",
+	"factoryName": "长安汽车",
+	"id": 307,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "睿骋CC",
+	"factoryName": "长安汽车",
+	"id": 2049,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "逸动",
+	"factoryName": "长安汽车",
+	"id": 298,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "逸动DT",
+	"factoryName": "长安汽车",
+	"id": 7472,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "逸动XT",
+	"factoryName": "长安汽车",
+	"id": 7478,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "逸动新能源",
+	"factoryName": "长安汽车",
+	"id": 309,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "长安CS15",
+	"factoryName": "长安汽车",
+	"id": 302,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "长安CS15EV",
+	"factoryName": "长安汽车",
+	"id": 2019,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "长安CS35",
+	"factoryName": "长安汽车",
+	"id": 300,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "长安CS35 PLUS",
+	"factoryName": "长安汽车",
+	"id": 7480,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "长安CS55",
+	"factoryName": "长安汽车",
+	"id": 305,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "长安CS75",
+	"factoryName": "长安汽车",
+	"id": 297,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "长安CS75 PHEV",
+	"factoryName": "长安汽车",
+	"id": 7474,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "长安CS95",
+	"factoryName": "长安汽车",
+	"id": 299,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "长安CX20",
+	"factoryName": "长安汽车",
+	"id": 310,
+	"brand": "长安"
+}, {
+	"modeType": 1,
+	"series": "奔奔mini-e",
+	"factoryName": "长安汽车",
+	"id": 1777,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "欧力威",
+	"factoryName": "长安汽车",
+	"id": 326,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "欧力威EV",
+	"factoryName": "长安汽车",
+	"id": 1907,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "欧尚",
+	"factoryName": "长安汽车",
+	"id": 324,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "欧尚A800",
+	"factoryName": "长安汽车",
+	"id": 330,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "欧尚EV",
+	"factoryName": "长安汽车",
+	"id": 7490,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "欧尚X70A",
+	"factoryName": "长安汽车",
+	"id": 7482,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "欧诺",
+	"factoryName": "长安汽车",
+	"id": 325,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "欧诺新能源",
+	"factoryName": "长安汽车",
+	"id": 7486,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "金牛星",
+	"factoryName": "长安汽车",
+	"id": 334,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "长安CX70",
+	"factoryName": "长安汽车",
+	"id": 323,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "长安之星",
+	"factoryName": "长安汽车",
+	"id": 328,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "长安之星2",
+	"factoryName": "长安汽车",
+	"id": 1793,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "长安之星3",
+	"factoryName": "长安汽车",
+	"id": 329,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "长安之星7",
+	"factoryName": "长安汽车",
+	"id": 332,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "长安之星9",
+	"factoryName": "长安汽车",
+	"id": 331,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "长安之星9新能源",
+	"factoryName": "长安汽车",
+	"id": 7488,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "长安星卡",
+	"factoryName": "长安汽车",
+	"id": 327,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "长安星卡新能源",
+	"factoryName": "长安汽车",
+	"id": 7484,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "新豹MINI",
+	"factoryName": "长安跨越",
+	"id": 321,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "跨越王",
+	"factoryName": "长安跨越",
+	"id": 319,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "长安V3",
+	"factoryName": "长安跨越",
+	"id": 320,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "长安V5",
+	"factoryName": "长安跨越",
+	"id": 322,
+	"brand": "长安欧尚"
+}, {
+	"modeType": 1,
+	"series": "尊行",
+	"factoryName": "长安轻型车",
+	"id": 362,
+	"brand": "长安轻型车"
+}, {
+	"modeType": 1,
+	"series": "睿行EM80",
+	"factoryName": "长安轻型车",
+	"id": 7492,
+	"brand": "长安轻型车"
+}, {
+	"modeType": 1,
+	"series": "睿行M70",
+	"factoryName": "长安轻型车",
+	"id": 359,
+	"brand": "长安轻型车"
+}, {
+	"modeType": 1,
+	"series": "睿行M80",
+	"factoryName": "长安轻型车",
+	"id": 357,
+	"brand": "长安轻型车"
+}, {
+	"modeType": 1,
+	"series": "睿行M90",
+	"factoryName": "长安轻型车",
+	"id": 360,
+	"brand": "长安轻型车"
+}, {
+	"modeType": 1,
+	"series": "睿行S50",
+	"factoryName": "长安轻型车",
+	"id": 356,
+	"brand": "长安轻型车"
+}, {
+	"modeType": 1,
+	"series": "睿行S50T",
+	"factoryName": "长安轻型车",
+	"id": 2021,
+	"brand": "长安轻型车"
+}, {
+	"modeType": 1,
+	"series": "神骐F30",
+	"factoryName": "长安轻型车",
+	"id": 355,
+	"brand": "长安轻型车"
+}, {
+	"modeType": 1,
+	"series": "神骐F50",
+	"factoryName": "长安轻型车",
+	"id": 361,
+	"brand": "长安轻型车"
+}, {
+	"modeType": 1,
+	"series": "神骐T20",
+	"factoryName": "长安轻型车",
+	"id": 358,
+	"brand": "长安轻型车"
+}, {
+	"modeType": 2,
+	"series": "Giulia",
+	"factoryName": "阿尔法·罗密欧",
+	"id": 6120,
+	"brand": "阿尔法·罗密欧"
+}, {
+	"modeType": 2,
+	"series": "Stelvio",
+	"factoryName": "阿尔法·罗密欧",
+	"id": 6122,
+	"brand": "阿尔法·罗密欧"
+}, {
+	"modeType": 4,
+	"series": "ALFA 4C",
+	"factoryName": "阿尔法罗密欧(平行进口)",
+	"id": 6886,
+	"brand": "阿尔法·罗密欧"
+}, {
+	"modeType": 2,
+	"series": "Rapide",
+	"factoryName": "阿��顿・马丁",
+	"id": 6174,
+	"brand": "阿斯顿·马丁"
+}, {
+	"modeType": 2,
+	"series": "V12 Vantage",
+	"factoryName": "阿斯顿・马丁",
+	"id": 6176,
+	"brand": "阿斯顿·马丁"
+}, {
+	"modeType": 2,
+	"series": "V8 Vantage",
+	"factoryName": "阿斯顿・马丁",
+	"id": 6178,
+	"brand": "阿斯顿·马丁"
+}, {
+	"modeType": 2,
+	"series": "Vanquish",
+	"factoryName": "阿斯顿・马丁",
+	"id": 6180,
+	"brand": "阿斯顿·马丁"
+}, {
+	"modeType": 2,
+	"series": "拉共达Taraf",
+	"factoryName": "阿斯顿・马丁",
+	"id": 6188,
+	"brand": "阿斯顿·马丁"
+}, {
+	"modeType": 2,
+	"series": "阿斯顿马丁DB11",
+	"factoryName": "阿斯顿・马丁",
+	"id": 6182,
+	"brand": "阿斯顿·马丁"
+}, {
+	"modeType": 2,
+	"series": "阿斯顿马丁DB9",
+	"factoryName": "阿斯顿・马丁",
+	"id": 6184,
+	"brand": "阿斯顿·马丁"
+}, {
+	"modeType": 2,
+	"series": "阿斯顿马丁DBS",
+	"factoryName": "阿斯顿・马丁",
+	"id": 6186,
+	"brand": "阿斯顿·马丁"
+}, {
+	"modeType": 1,
+	"series": "威途X35",
+	"factoryName": "陆地方舟",
+	"id": 1923,
+	"brand": "陆地方舟"
+}, {
+	"modeType": 1,
+	"series": "陆地方舟V5",
+	"factoryName": "陆地方舟",
+	"id": 1031,
+	"brand": "陆地方舟"
+}, {
+	"modeType": 1,
+	"series": "陆地方舟风尚",
+	"factoryName": "陆地方舟",
+	"id": 1030,
+	"brand": "陆地方舟"
+}, {
+	"modeType": 1,
+	"series": "逍遥",
+	"factoryName": "陆风汽车",
+	"id": 2071,
+	"brand": "陆风"
+}, {
+	"modeType": 1,
+	"series": "陆风X2",
+	"factoryName": "陆风汽车",
+	"id": 1002,
+	"brand": "陆风"
+}, {
+	"modeType": 1,
+	"series": "陆风X5",
+	"factoryName": "陆风汽车",
+	"id": 1001,
+	"brand": "陆风"
+}, {
+	"modeType": 1,
+	"series": "陆风X7",
+	"factoryName": "陆风汽车",
+	"id": 999,
+	"brand": "陆风"
+}, {
+	"modeType": 1,
+	"series": "陆风X8",
+	"factoryName": "陆风汽车",
+	"id": 1000,
+	"brand": "陆风"
+}, {
+	"modeType": 1,
+	"series": "陆风X9",
+	"factoryName": "陆风汽车",
+	"id": 1003,
+	"brand": "陆风"
+}, {
+	"modeType": 1,
+	"series": "福家",
+	"factoryName": "陕汽通家",
+	"id": 1294,
+	"brand": "陕汽通家"
+}, {
+	"modeType": 1,
+	"series": "龙锐",
+	"factoryName": "陕汽通家",
+	"id": 1295,
+	"brand": "陕汽通家"
+}, {
+	"modeType": 1,
+	"series": "乐风RV",
+	"factoryName": "上汽通用雪佛兰",
+	"id": 1354,
+	"brand": "雪佛兰"
+}, {
+	"modeType": 1,
+	"series": "创酷",
+	"factoryName": "上汽通用雪佛兰",
+	"id": 1352,
+	"brand": "雪佛兰"
+}, {
+	"modeType": 1,
+	"series": "探界者",
+	"factoryName": "上汽通用雪佛兰",
+	"id": 1347,
+	"brand": "雪佛兰"
+}, {
+	"modeType": 1,
+	"series": "景程",
+	"factoryName": "上汽通用雪佛兰",
+	"id": 1359,
+	"brand": "雪佛兰"
+}, {
+	"modeType": 1,
+	"series": "爱唯欧",
+	"factoryName": "上汽通用雪佛兰",
+	"id": 1358,
+	"brand": "雪佛兰"
+}, {
+	"modeType": 1,
+	"series": "科帕奇",
+	"factoryName": "上汽通用雪佛兰",
+	"id": 1353,
+	"brand": "雪佛兰"
+}, {
+	"modeType": 1,
+	"series": "科沃兹",
+	"factoryName": "上汽通用雪佛兰",
+	"id": 1348,
+	"brand": "雪佛兰"
+}, {
+	"modeType": 1,
+	"series": "科鲁兹",
+	"factoryName": "上汽通用雪佛兰",
+	"id": 1346,
+	"brand": "雪佛兰"
+}, {
+	"modeType": 1,
+	"series": "赛欧",
+	"factoryName": "上汽通用雪佛兰",
+	"id": 1351,
+	"brand": "雪佛兰"
+}, {
+	"modeType": 1,
+	"series": "迈锐宝",
+	"factoryName": "上汽通用雪佛兰",
+	"id": 1349,
+	"brand": "雪佛兰"
+}, {
+	"modeType": 1,
+	"series": "迈锐宝XL",
+	"factoryName": "上汽通用雪佛兰",
+	"id": 1350,
+	"brand": "雪佛兰"
+}, {
+	"modeType": 8,
+	"series": "Suburban萨博班",
+	"factoryName": "雪佛兰(平行进口)",
+	"id": 7248,
+	"brand": "雪佛兰"
+}, {
+	"modeType": 4,
+	"series": "Tahoe太浩",
+	"factoryName": "雪佛兰(平行进口)",
+	"id": 7018,
+	"brand": "雪佛兰"
+}, {
+	"modeType": 4,
+	"series": "科尔维特",
+	"factoryName": "雪佛兰(平行进口)",
+	"id": 7020,
+	"brand": "雪佛兰"
+}, {
+	"modeType": 4,
+	"series": "科迈罗",
+	"factoryName": "雪佛兰(平行进口)",
+	"id": 7022,
+	"brand": "雪佛兰"
+}, {
+	"modeType": 2,
+	"series": "Traverse",
+	"factoryName": "雪佛兰(进口)",
+	"id": 6808,
+	"brand": "雪佛兰"
+}, {
+	"modeType": 2,
+	"series": "库罗德",
+	"factoryName": "雪佛兰(进口)",
+	"id": 6812,
+	"brand": "雪佛兰"
+}, {
+	"modeType": 2,
+	"series": "科迈罗",
+	"factoryName": "雪佛兰(进口)",
+	"id": 6810,
+	"brand": "雪佛兰"
+}, {
+	"modeType": 2,
+	"series": "索罗德",
+	"factoryName": "雪佛兰(进口)",
+	"id": 6814,
+	"brand": "雪佛兰"
+}, {
+	"modeType": 1,
+	"series": "C4世嘉",
+	"factoryName": "东风雪铁龙",
+	"id": 1399,
+	"brand": "雪铁龙"
+}, {
+	"modeType": 1,
+	"series": "世嘉",
+	"factoryName": "东风雪铁龙",
+	"id": 1402,
+	"brand": "雪铁龙"
+}, {
+	"modeType": 1,
+	"series": "天逸 C5 AIRCROSS",
+	"factoryName": "东风雪铁龙",
+	"id": 1959,
+	"brand": "雪铁龙"
+}, {
+	"modeType": 1,
+	"series": "爱丽舍",
+	"factoryName": "东风雪铁龙",
+	"id": 1397,
+	"brand": "雪铁龙"
+}, {
+	"modeType": 1,
+	"series": "雪铁龙C2",
+	"factoryName": "东风雪铁龙",
+	"id": 1406,
+	"brand": "雪铁龙"
+}, {
+	"modeType": 1,
+	"series": "雪铁龙C3-XR",
+	"factoryName": "东风雪铁龙",
+	"id": 1398,
+	"brand": "雪铁龙"
+}, {
+	"modeType": 1,
+	"series": "雪铁龙C4L",
+	"factoryName": "东风雪铁龙",
+	"id": 1396,
+	"brand": "雪铁龙"
+}, {
+	"modeType": 1,
+	"series": "雪铁龙C5",
+	"factoryName": "东风雪铁龙",
+	"id": 1401,
+	"brand": "雪铁龙"
+}, {
+	"modeType": 1,
+	"series": "雪铁龙C6",
+	"factoryName": "东风雪铁龙",
+	"id": 1400,
+	"brand": "雪铁龙"
+}, {
+	"modeType": 2,
+	"series": "C4毕加索",
+	"factoryName": "雪铁龙(进口)",
+	"id": 6830,
+	"brand": "雪铁龙"
+}, {
+	"modeType": 2,
+	"series": "雪铁龙C4 Aircross",
+	"factoryName": "雪铁龙(进口)",
+	"id": 6832,
+	"brand": "雪铁龙"
+}, {
+	"modeType": 2,
+	"series": "雷克萨斯CT",
+	"factoryName": "雷克萨斯",
+	"id": 6522,
+	"brand": "雷克萨斯"
+}, {
+	"modeType": 2,
+	"series": "雷克萨斯ES",
+	"factoryName": "雷克萨斯",
+	"id": 6524,
+	"brand": "雷克萨斯"
+}, {
+	"modeType": 2,
+	"series": "雷克萨斯GS",
+	"factoryName": "雷克萨斯",
+	"id": 6526,
+	"brand": "雷克萨斯"
+}, {
+	"modeType": 2,
+	"series": "雷克萨斯GX",
+	"factoryName": "雷克萨斯",
+	"id": 6528,
+	"brand": "雷克萨斯"
+}, {
+	"modeType": 2,
+	"series": "雷克萨斯IS",
+	"factoryName": "雷克萨斯",
+	"id": 6530,
+	"brand": "雷克萨斯"
+}, {
+	"modeType": 2,
+	"series": "雷克萨斯LC",
+	"factoryName": "雷克萨斯",
+	"id": 6532,
+	"brand": "雷克萨斯"
+}, {
+	"modeType": 2,
+	"series": "雷克萨斯LS",
+	"factoryName": "雷克萨斯",
+	"id": 6534,
+	"brand": "雷克萨斯"
+}, {
+	"modeType": 2,
+	"series": "雷克萨斯LX",
+	"factoryName": "雷克萨斯",
+	"id": 6536,
+	"brand": "雷克萨斯"
+}, {
+	"modeType": 2,
+	"series": "雷克萨斯NX",
+	"factoryName": "雷克萨斯",
+	"id": 6538,
+	"brand": "雷克萨斯"
+}, {
+	"modeType": 2,
+	"series": "雷克萨斯RC",
+	"factoryName": "雷克萨斯",
+	"id": 6540,
+	"brand": "雷克萨斯"
+}, {
+	"modeType": 2,
+	"series": "雷克萨斯RC F",
+	"factoryName": "雷克萨斯",
+	"id": 6542,
+	"brand": "雷克萨斯"
+}, {
+	"modeType": 2,
+	"series": "雷克萨斯RX",
+	"factoryName": "雷克萨斯",
+	"id": 6544,
+	"brand": "雷克萨斯"
+}, {
+	"modeType": 6,
+	"series": "雷克萨斯GX460",
+	"factoryName": "雷克萨斯(平行进口)",
+	"id": 7100,
+	"brand": "雷克萨斯"
+}, {
+	"modeType": 4,
+	"series": "雷克萨斯LC500",
+	"factoryName": "雷克萨斯(平行进口)",
+	"id": 6986,
+	"brand": "雷克萨斯"
+}, {
+	"modeType": 6,
+	"series": "雷克萨斯LX570",
+	"factoryName": "雷克萨斯(平行进口)",
+	"id": 7102,
+	"brand": "雷克萨斯"
+}, {
+	"modeType": 1,
+	"series": "科雷傲",
+	"factoryName": "东风雷诺",
+	"id": 969,
+	"brand": "雷诺"
+}, {
+	"modeType": 1,
+	"series": "科雷嘉",
+	"factoryName": "东风雷诺",
+	"id": 970,
+	"brand": "雷诺"
+}, {
+	"modeType": 10,
+	"series": "Duster",
+	"factoryName": "雷诺(平行进口)",
+	"id": 7334,
+	"brand": "雷诺"
+}, {
+	"modeType": 2,
+	"series": "Espace",
+	"factoryName": "雷诺(进口)",
+	"id": 6566,
+	"brand": "雷诺"
+}, {
+	"modeType": 2,
+	"series": "卡缤",
+	"factoryName": "雷诺(进口)",
+	"id": 6570,
+	"brand": "雷诺"
+}, {
+	"modeType": 2,
+	"series": "塔利斯曼",
+	"factoryName": "雷诺(进口)",
+	"id": 6576,
+	"brand": "雷诺"
+}, {
+	"modeType": 2,
+	"series": "梅甘娜",
+	"factoryName": "雷诺(进口)",
+	"id": 6574,
+	"brand": "雷诺"
+}, {
+	"modeType": 2,
+	"series": "科雷傲",
+	"factoryName": "雷诺(进口)",
+	"id": 6572,
+	"brand": "雷诺"
+}, {
+	"modeType": 2,
+	"series": "纬度",
+	"factoryName": "雷诺(进口)",
+	"id": 6578,
+	"brand": "雷诺"
+}, {
+	"modeType": 2,
+	"series": "风朗",
+	"factoryName": "雷诺(进口)",
+	"id": 6568,
+	"brand": "雷诺"
+}, {
+	"modeType": 1,
+	"series": "领克01",
+	"factoryName": "领克",
+	"id": 2045,
+	"brand": "领克"
+}, {
+	"modeType": 1,
+	"series": "睿翼",
+	"factoryName": "一汽马自达",
+	"id": 1045,
+	"brand": "马自达"
+}, {
+	"modeType": 1,
+	"series": "阿特兹",
+	"factoryName": "一汽马自达",
+	"id": 1037,
+	"brand": "马自达"
+}, {
+	"modeType": 1,
+	"series": "马自达6",
+	"factoryName": "一汽马自达",
+	"id": 1043,
+	"brand": "马自达"
+}, {
+	"modeType": 1,
+	"series": "马自达8",
+	"factoryName": "一汽马自达",
+	"id": 1046,
+	"brand": "马自达"
+}, {
+	"modeType": 1,
+	"series": "马自达CX-4",
+	"factoryName": "一汽马自达",
+	"id": 1036,
+	"brand": "马自达"
+}, {
+	"modeType": 1,
+	"series": "马自达CX-7",
+	"factoryName": "一汽马自达",
+	"id": 1044,
+	"brand": "马自达"
+}, {
+	"modeType": 1,
+	"series": "马自达3 Axela昂克赛拉",
+	"factoryName": "长安马自达",
+	"id": 1033,
+	"brand": "马自达"
+}, {
+	"modeType": 1,
+	"series": "马自达3星骋",
+	"factoryName": "长安马自达",
+	"id": 1035,
+	"brand": "马自达"
+}, {
+	"modeType": 1,
+	"series": "马自达CX-5",
+	"factoryName": "长安马自达",
+	"id": 1034,
+	"brand": "马自达"
+}, {
+	"modeType": 4,
+	"series": "马自达MX-5",
+	"factoryName": "马自达(平行进口)",
+	"id": 6998,
+	"brand": "马自达"
+}, {
+	"modeType": 2,
+	"series": "马自达CX-3(进口)",
+	"factoryName": "马自达(进口)",
+	"id": 6602,
+	"brand": "马自达"
+}, {
+	"modeType": 2,
+	"series": "马自达CX-9",
+	"factoryName": "马自达(进口)",
+	"id": 6604,
+	"brand": "马自达"
+}, {
+	"modeType": 2,
+	"series": "马自达MX-5",
+	"factoryName": "马自达(进口)",
+	"id": 6606,
+	"brand": "马自达"
+}, {
+	"modeType": 1,
+	"series": "驭胜S330",
+	"factoryName": "江铃汽车",
+	"id": 1459,
+	"brand": "驭胜"
+}, {
+	"modeType": 1,
+	"series": "驭胜S350",
+	"factoryName": "江铃汽车",
+	"id": 1458,
+	"brand": "驭胜"
+}, {
+	"modeType": 1,
+	"series": "旗胜V3",
+	"factoryName": "曙光汽车",
+	"id": 1821,
+	"brand": "黄海"
+}, {
+	"modeType": 1,
+	"series": "瑞途",
+	"factoryName": "曙光汽车",
+	"id": 685,
+	"brand": "黄海"
+}, {
+	"modeType": 1,
+	"series": "黄海N1",
+	"factoryName": "曙光汽车",
+	"id": 681,
+	"brand": "黄海"
+}, {
+	"modeType": 1,
+	"series": "黄海N2",
+	"factoryName": "曙光汽车",
+	"id": 680,
+	"brand": "黄海"
+}, {
+	"modeType": 1,
+	"series": "黄海N3",
+	"factoryName": "曙光汽车",
+	"id": 1533,
+	"brand": "黄海"
+}]

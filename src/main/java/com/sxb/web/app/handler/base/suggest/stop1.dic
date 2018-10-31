@@ -1,0 +1,22 @@
+/
+(?!l|t)[a-zA-Z]	regex
+[a-zA-Z][a-zA-Z]	regex
+(?!tsi|cvt)[a-zA-Z]{3,}	regex
+\d	regex
+\d\d\d	regex
+[0|1|3|4|5|6|7|8|9]\d\d\d	regex
+座
+新
+超值
+国
+底盘
+小
+大
+双排
+赛道
+十周年
+两周年
+国四
+国五
+欧
+Ⅱ
