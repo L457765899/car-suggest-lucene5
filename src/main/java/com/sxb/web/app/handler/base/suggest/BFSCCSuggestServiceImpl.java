@@ -1,5 +1,6 @@
 package com.sxb.web.app.handler.base.suggest;
 
+import java.io.Reader;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
@@ -11,6 +12,8 @@ import org.apache.lucene.search.suggest.Lookup.LookupResult;
 import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
 
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
 import com.sxb.web.commons.util.RetUtil;
 
 @Service("bFSCCSuggestService")
@@ -66,17 +69,19 @@ public class BFSCCSuggestServiceImpl extends AbstractSuggestServiceImpl implemen
     @Override
     protected Iterator<Car> handleIndexData() {
         
-        List<Map<String, Object>> list = appCarcategoryService.getAllForIndex();
+    	Reader reader = RetUtil.getReader("categorys.json");
+    	List<Map<String, Object>> list = new Gson().fromJson(reader, 
+    			new TypeToken<List<Map<String, Object>>>(){}.getType());
         List<Car> datas = new ArrayList<>();
         for(Map<String, Object> seriesMap : list){
-            Integer categoryId = (Integer) seriesMap.get("id");
+        	int categoryId = (int)Double.parseDouble(seriesMap.get("id").toString());
             String brand = (String) seriesMap.get("brand");
             String factoryName = (String) seriesMap.get("factoryName");
             String series = (String) seriesMap.get("series");
             String category = (String) seriesMap.get("category");
-            Integer officialQuote = (Integer) seriesMap.get("officialQuote");
+            int officialQuote = (int)Double.parseDouble(seriesMap.get("officialQuote").toString());
             String outColor = (String) seriesMap.get("outColor");
-            Integer modeType = (Integer) seriesMap.get("modeType");
+            int modeType = (int)Double.parseDouble(seriesMap.get("modeType").toString());
             
             if(StringUtils.hasLength(outColor)){
                 String[] colors = outColor.split(",");

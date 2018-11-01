@@ -31,14 +31,13 @@ public class SuggestController {
     
     /**
      * 寻销车-联想数据索引
-     * @param pwd
      * @return
      * @throws IOException
      */
     @RequestMapping("/indexSuggest")
     @ResponseBody
-    public String indexSuggest(String pwd) throws IOException{
-        return new Gson().toJson(suggestHandler.indexSuggest(pwd));
+    public String indexSuggest() throws IOException{
+        return new Gson().toJson(suggestHandler.indexSuggest());
     }
     
 }

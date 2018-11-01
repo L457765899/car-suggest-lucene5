@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+<title>联想测试</title>
+
+<script type="text/javascript" src="js/jQuery-2.1.4.min.js"></script>
+<script type="text/javascript">
+	$(function () {
+		$('#key').on('input propertychange', function(e){
+			var key = $(this).val();
+			if(key != '' && key.length > 1){
+				$.ajax({
+					type:"get",
+					url: "app/base/suggest/searchSuggestWeb.json",
+					dataType: "json",
+					data:{key:key},
+					success: function(data){
+						if(data.success){
+							$('#content').empty();
+							$.each(data.datas,function(index,p) {
+								$('#content').append('<tr><td>'+p.show+'</td></tr>');
+							});
+						}else{
+							alert(data.errMsg);
+						}
+					}
+				});
+			}else{
+				$('#content').empty();
+			}
+		});
+	});
+</script>
+</head>
+<body>
+<div style="margin-top: 30px;"></div>
+<div style="text-align: center;"><input type="text" id="key"></div>
+	<table align="center" id="content">
+		
+	</table>
+</body>
+</html>

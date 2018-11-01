@@ -1,5 +1,6 @@
 package com.sxb.web.app.handler.base.suggest;
 
+import java.io.IOException;
 import java.io.Reader;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -20,6 +21,8 @@ import com.sxb.web.commons.util.RetUtil;
 
 @Service("bFSCSuggestService")
 public class BFSCSuggestServiceImpl extends AbstractSuggestServiceImpl implements SuggestService{
+	
+	public static Map<String,String> COLOR_MAP = null;
     
     public static final String SUGGEST_INDEX_PATH_BFSC = "/mnt/soft/tomcat/app_lucence/lucene/suggest/BFSC";
     
@@ -59,7 +62,7 @@ public class BFSCSuggestServiceImpl extends AbstractSuggestServiceImpl implement
             }
             datas.add(firstData);
             
-            String colors = appCarcategoryService.SelectColorById(car.getCategoryId());
+            String colors = COLOR_MAP.get(car.getCategoryId().toString());
             if(StringUtils.hasLength(colors)){
                 String[] colorArray = colors.split(",");
                 for(String color : colorArray){
@@ -108,8 +111,28 @@ public class BFSCSuggestServiceImpl extends AbstractSuggestServiceImpl implement
     protected Iterator<Car> handleIndexData() {
         
     	Reader reader = RetUtil.getReader("categorys.json");
-    	List<Car> datas = new Gson().fromJson(reader, new TypeToken<List<Car>>(){}.getType());
-        
+    	List<Map<String, Object>> list = new Gson().fromJson(reader, 
+    			new TypeToken<List<Map<String, Object>>>(){}.getType());
+    	List<Car> datas = new ArrayList<>();
+        for(Map<String, Object> seriesMap : list){
+            int categoryId = (int)Double.parseDouble(seriesMap.get("id").toString());
+            String brand = (String) seriesMap.get("brand");
+            String factoryName = (String) seriesMap.get("factoryName");
+            String series = (String) seriesMap.get("series");
+            String category = (String) seriesMap.get("category");
+            int officialQuote = (int)Double.parseDouble(seriesMap.get("officialQuote").toString());
+            int modeType = (int)Double.parseDouble(seriesMap.get("modeType").toString());
+            
+            Car car = new Car();
+            car.setBrand(brand);
+            car.setFactoryName(this.convertNull(factoryName));
+            car.setSeries(series);
+            car.setCategoryId(categoryId);
+            car.setCategory(category);
+            car.setOfficialQuote(officialQuote);
+            car.setModeType(modeType);
+            datas.add(car);
+        }
         return datas.iterator();
     }
 
@@ -118,4 +141,16 @@ public class BFSCSuggestServiceImpl extends AbstractSuggestServiceImpl implement
         return new BFSCInputIterator(iterator);
     }
 
+	@Override
+	protected void initAfter() throws IOException {
+		Reader reader = RetUtil.getReader("colors.json");
+	    List<Map<String,String>> datas = new Gson().fromJson(reader, 
+	    		new TypeToken<List<Map<String,String>>>(){}.getType());
+	    COLOR_MAP = new HashMap<String, String>();
+	    for(Map<String,String> data : datas){
+	    	COLOR_MAP.put(data.get("id"), data.get("outer_color"));
+	    }
+	}
+
+    
 }

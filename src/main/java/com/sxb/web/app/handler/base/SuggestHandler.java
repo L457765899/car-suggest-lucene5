@@ -20,10 +20,9 @@ public class SuggestHandler {
     private SuggestService suggestService;
 
     
-    public Map<String,Object> indexSuggest(String pwd) throws IOException {
-        if(StringUtils.hasLength(pwd) && pwd.equals("889961")){
-            suggestService.indexSuggest();
-        }
+    public Map<String,Object> indexSuggest() throws IOException {
+        suggestService.indexSuggest();
+        System.out.println("索引创建成功。");
         return RetUtil.getRetValue(true);
     }
 
